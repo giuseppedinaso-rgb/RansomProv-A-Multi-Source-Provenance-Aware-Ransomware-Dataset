@@ -1,0 +1,51 @@
+{
+  "source_file": "build/events_knowledge.json",
+  "domains_set_to_null": 0,
+  "events_observed": {
+    "events": 37385,
+    "victims": 33148,
+    "gangs": 410,
+    "countries": 183,
+    "sectors": 13,
+    "first": "2018-01-03",
+    "last": "2026-09-30",
+    "country_missing_pct": 24.87,
+    "sector_missing_pct": 14.94,
+    "country_src": {
+      "observed": 28088,
+      "missing": 9297
+    },
+    "sector_src": {
+      "observed": 31798,
+      "missing": 5587
+    }
+  },
+  "events_enriched": {
+    "events": 37385,
+    "victims": 33148,
+    "gangs": 410,
+    "countries": 191,
+    "sectors": 13,
+    "first": "2018-01-03",
+    "last": "2026-09-30",
+    "country_missing_pct": 13.55,
+    "sector_missing_pct": 5.03,
+    "country_src": {
+      "observed": 28088,
+      "missing": 5067,
+      "inherited_victim": 2313,
+      "llm_knowledge": 834,
+      "site_archive": 541,
+      "description": 296,
+      "site_live": 137,
+      "cctld": 109
+    },
+    "sector_src": {
+      "observed": 31798,
+      "inherited_victim": 2831,
+      "missing": 1882,
+      "llm_knowledge": 585,
+      "site_llm": 289
+    }
+  }
+}

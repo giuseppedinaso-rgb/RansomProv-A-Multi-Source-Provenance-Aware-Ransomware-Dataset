@@ -1,0 +1,132 @@
+{
+  "A_over_merge": {
+    "n_decided": 100,
+    "errors": 1,
+    "error_pct": 1.0,
+    "ci95": [
+      0.2,
+      5.4
+    ],
+    "unsure": 0,
+    "kappa": null,
+    "n_double": 0
+  },
+  "B_missed_duplicates_among_candidates": {
+    "n_decided": 97,
+    "errors": 57,
+    "error_pct": 58.8,
+    "ci95": [
+      48.8,
+      68.0
+    ],
+    "unsure": 3,
+    "distribution": {
+      "same_attack": 57,
+      "different": 32,
+      "same_victim_new_post": 8,
+      "unsure": 3
+    },
+    "kappa": null,
+    "n_double": 0
+  },
+  "C_imputed": {
+    "kappa": null,
+    "n_double": 0,
+    "by_src": {
+      "country|cctld": {
+        "n_decided": 29,
+        "errors": 5,
+        "error_pct": 17.2,
+        "ci95": [
+          7.6,
+          34.5
+        ],
+        "unsure": 1
+      },
+      "country|description": {
+        "n_decided": 25,
+        "errors": 3,
+        "error_pct": 12.0,
+        "ci95": [
+          4.2,
+          30.0
+        ],
+        "unsure": 5
+      },
+      "country|inherited_victim": {
+        "n_decided": 28,
+        "errors": 2,
+        "error_pct": 7.1,
+        "ci95": [
+          2.0,
+          22.6
+        ],
+        "unsure": 2
+      },
+      "country|llm_knowledge": {
+        "n_decided": 23,
+        "errors": 2,
+        "error_pct": 8.7,
+        "ci95": [
+          2.4,
+          26.8
+        ],
+        "unsure": 7
+      },
+      "country|site_archive": {
+        "n_decided": 30,
+        "errors": 2,
+        "error_pct": 6.7,
+        "ci95": [
+          1.8,
+          21.3
+        ],
+        "unsure": 0
+      },
+      "country|site_live": {
+        "n_decided": 29,
+        "errors": 4,
+        "error_pct": 13.8,
+        "ci95": [
+          5.5,
+          30.6
+        ],
+        "unsure": 1
+      },
+      "sector|inherited_victim": {
+        "n_decided": 28,
+        "errors": 12,
+        "error_pct": 42.9,
+        "ci95": [
+          26.5,
+          60.9
+        ],
+        "unsure": 2
+      },
+      "sector|llm_knowledge": {
+        "n_decided": 17,
+        "errors": 6,
+        "error_pct": 35.3,
+        "ci95": [
+          17.3,
+          58.7
+        ],
+        "unsure": 13
+      },
+      "sector|site_llm": {
+        "n_decided": 27,
+        "errors": 4,
+        "error_pct": 14.8,
+        "ci95": [
+          5.9,
+          32.5
+        ],
+        "unsure": 3
+      }
+    }
+  },
+  "columns": [
+    "label_ai",
+    "label_A"
+  ]
+}

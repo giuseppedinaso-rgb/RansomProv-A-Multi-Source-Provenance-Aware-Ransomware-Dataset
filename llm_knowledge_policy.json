@@ -1,0 +1,35 @@
+{
+  "target": {
+    "country": 0.9,
+    "sector": 0.63
+  },
+  "min_accepted": 20,
+  "rules": {
+    "country|name+desc": {
+      "min_confidence": 0.5,
+      "precision": 0.932,
+      "coverage": 0.833,
+      "n_validation": 250
+    },
+    "country|name+domain": {
+      "min_confidence": 0.8,
+      "precision": 0.904,
+      "coverage": 0.496,
+      "n_validation": 135
+    },
+    "country|name_only": null,
+    "sector|name+desc": {
+      "min_confidence": 0.5,
+      "precision": 0.761,
+      "coverage": 0.931,
+      "n_validation": 188
+    },
+    "sector|name+domain": {
+      "min_confidence": 0.7,
+      "precision": 0.653,
+      "coverage": 0.673,
+      "n_validation": 144
+    },
+    "sector|name_only": null
+  }
+}

@@ -1,0 +1,24 @@
+# Benchmark (T1-T7). Python 3.10.
+pandas==2.3.3
+numpy==2.2.6
+scikit-learn==1.7.2
+scipy==1.15.3
+statsforecast==2.1.1
+mlforecast==1.1.0
+neuralforecast==3.2.2
+hierarchicalforecast==1.5.3
+chronos-forecasting==2.3.2
+lightgbm==4.7.0
+xgboost==3.2.0
+catboost==1.2.10
+optuna==5.0.0
+torch==2.14.1
+pytorch-lifestream==0.7.0
+mambapy==1.2.0
+scikit-survival==0.25.0
+lifelines==0.30.0
+ruptures==1.1.10
+openai==3.24.0
+# Point processes (T3) run in a separate environment with easy-tpp==0.3.0 and torch 2.12.
+# FlexTPP (T2) runs in a separate Python 3.12 environment, from its repository
+# (https://github.com/czi-ai/FlexTPP) with FrEIA at commit 421249652c478b3f240f124f69eb5777b6a76bf2.

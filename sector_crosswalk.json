@@ -1,0 +1,1220 @@
+{
+ "target_taxonomy": [
+  "Professional Services",
+  "Manufacturing",
+  "Technology",
+  "Healthcare",
+  "Retail & E-Commerce",
+  "Financial Services",
+  "Transportation",
+  "Education",
+  "Government & Defense",
+  "Agriculture and Food Production",
+  "Energy & Utilities",
+  "Hospitality",
+  "Other"
+ ],
+ "min_n": 20,
+ "min_purity": 0.5,
+ "crosswalk": {
+  "Professional Services": {
+   "target": "Professional Services",
+   "method": "native"
+  },
+  "Manufacturing": {
+   "target": "Manufacturing",
+   "method": "native"
+  },
+  "Technology": {
+   "target": "Technology",
+   "method": "native"
+  },
+  "Healthcare": {
+   "target": "Healthcare",
+   "method": "native"
+  },
+  "Retail & E-Commerce": {
+   "target": "Retail & E-Commerce",
+   "method": "native"
+  },
+  "Financial Services": {
+   "target": "Financial Services",
+   "method": "native"
+  },
+  "Transportation": {
+   "target": "Transportation",
+   "method": "native"
+  },
+  "Education": {
+   "target": "Education",
+   "method": "native"
+  },
+  "Government & Defense": {
+   "target": "Government & Defense",
+   "method": "native"
+  },
+  "Agriculture and Food Production": {
+   "target": "Agriculture and Food Production",
+   "method": "native"
+  },
+  "Energy & Utilities": {
+   "target": "Energy & Utilities",
+   "method": "native"
+  },
+  "Hospitality": {
+   "target": "Hospitality",
+   "method": "native"
+  },
+  "Other": {
+   "target": "Other",
+   "method": "native"
+  },
+  "Not Found": {
+   "target": null,
+   "method": "missing"
+  },
+  "N/A": {
+   "target": null,
+   "method": "missing"
+  },
+  "Unknown": {
+   "target": null,
+   "method": "missing"
+  },
+  "Unknown/Not Found": {
+   "target": null,
+   "method": "missing"
+  },
+  "High-tech": {
+   "target": "Technology",
+   "method": "empirical",
+   "n": 196,
+   "purity": 0.561
+  },
+  "Real Estate / Real Estate Management": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 288,
+   "empirical": "Professional Services",
+   "purity": 0.368
+  },
+  "Business Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 536,
+   "empirical": "Professional Services",
+   "purity": 0.483
+  },
+  "Air transport": {
+   "target": "Transportation",
+   "method": "empirical",
+   "n": 49,
+   "purity": 0.612
+  },
+  "Healthcare services": {
+   "target": "Healthcare",
+   "method": "empirical",
+   "n": 1275,
+   "purity": 0.853
+  },
+  "Human Resources": {
+   "target": "Professional Services",
+   "method": "empirical",
+   "n": 104,
+   "purity": 0.663
+  },
+  "Construction": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 1386,
+   "empirical": "Manufacturing",
+   "purity": 0.415
+  },
+  "Schools": {
+   "target": "Education",
+   "method": "empirical",
+   "n": 416,
+   "purity": 0.885
+  },
+  "Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 902,
+   "empirical": "Professional Services",
+   "purity": 0.343
+  },
+  "Logistics": {
+   "target": "Transportation",
+   "method": "empirical",
+   "n": 457,
+   "purity": 0.619
+  },
+  "Attorney": {
+   "target": "Professional Services",
+   "method": "empirical",
+   "n": 512,
+   "purity": 0.881
+  },
+  "Lodging industry": {
+   "target": "Hospitality",
+   "method": "manual",
+   "n": 86,
+   "empirical": "Professional Services",
+   "purity": 0.349
+  },
+  "Food and drinks businesses": {
+   "target": "Agriculture and Food Production",
+   "method": "empirical",
+   "n": 649,
+   "purity": 0.533
+  },
+  "Finance": {
+   "target": "Financial Services",
+   "method": "empirical",
+   "n": 406,
+   "purity": 0.586
+  },
+  "Technologies": {
+   "target": "Technology",
+   "method": "empirical",
+   "n": 1360,
+   "purity": 0.621
+  },
+  "Luxury": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 91,
+   "empirical": "Retail & E-Commerce",
+   "purity": 0.484
+  },
+  "Utility": {
+   "target": "Energy & Utilities",
+   "method": "manual",
+   "n": 116,
+   "empirical": "Professional Services",
+   "purity": 0.216
+  },
+  "Insurance services": {
+   "target": "Financial Services",
+   "method": "empirical",
+   "n": 314,
+   "purity": 0.71
+  },
+  "Public Health": {
+   "target": "Healthcare",
+   "method": "empirical",
+   "n": 43,
+   "purity": 0.721
+  },
+  "Legal consulting": {
+   "target": "Professional Services",
+   "method": "empirical",
+   "n": 532,
+   "purity": 0.855
+  },
+  "Oil": {
+   "target": "Energy & Utilities",
+   "method": "empirical",
+   "n": 170,
+   "purity": 0.653
+  },
+  "Engineering consulting": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 382,
+   "empirical": "Professional Services",
+   "purity": 0.463
+  },
+  "Energy": {
+   "target": "Energy & Utilities",
+   "method": "empirical",
+   "n": 217,
+   "purity": 0.641
+  },
+  "Distribution": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 246,
+   "empirical": "Manufacturing",
+   "purity": 0.256
+  },
+  "Transport": {
+   "target": "Transportation",
+   "method": "empirical",
+   "n": 248,
+   "purity": 0.73
+  },
+  "Human Services": {
+   "target": "Healthcare",
+   "method": "manual",
+   "n": 144,
+   "empirical": "Healthcare",
+   "purity": 0.25
+  },
+  "Consulting": {
+   "target": "Professional Services",
+   "method": "empirical",
+   "n": 474,
+   "purity": 0.603
+  },
+  "Legislative branch (parliamentary chambers)": {
+   "target": "Professional Services",
+   "method": "empirical",
+   "n": 26,
+   "purity": 0.731
+  },
+  "Financial organizations": {
+   "target": "Financial Services",
+   "method": "empirical",
+   "n": 358,
+   "purity": 0.603
+  },
+  "Automotive": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 531,
+   "empirical": "Manufacturing",
+   "purity": 0.435
+  },
+  "Architecture": {
+   "target": "Professional Services",
+   "method": "empirical",
+   "n": 280,
+   "purity": 0.632
+  },
+  "Cloud service providers": {
+   "target": "Technology",
+   "method": "empirical",
+   "n": 52,
+   "purity": 0.75
+  },
+  "Telecommunications": {
+   "target": "Technology",
+   "method": "empirical",
+   "n": 317,
+   "purity": 0.691
+  },
+  "Heavy industries": {
+   "target": "Manufacturing",
+   "method": "empirical",
+   "n": 378,
+   "purity": 0.749
+  },
+  "Defense ministries (including the military)": {
+   "target": "Government & Defense",
+   "method": "manual",
+   "n": 20,
+   "empirical": "Government & Defense",
+   "purity": 0.75
+  },
+  "Electricity": {
+   "target": "Energy & Utilities",
+   "method": "manual",
+   "n": 126,
+   "empirical": "Energy & Utilities",
+   "purity": 0.413
+  },
+  "Research": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 103,
+   "empirical": "Professional Services",
+   "purity": 0.214
+  },
+  "Pharmacy and drugs manufacturing": {
+   "target": "Healthcare",
+   "method": "empirical",
+   "n": 234,
+   "purity": 0.688
+  },
+  "Travel and tourism industry": {
+   "target": "Hospitality",
+   "method": "empirical",
+   "n": 116,
+   "purity": 0.716
+  },
+  "Health": {
+   "target": "Healthcare",
+   "method": "empirical",
+   "n": 320,
+   "purity": 0.778
+  },
+  "Information Technologies Consulting": {
+   "target": "Technology",
+   "method": "empirical",
+   "n": 565,
+   "purity": 0.694
+  },
+  "Sports": {
+   "target": "Hospitality",
+   "method": "manual",
+   "n": 130,
+   "empirical": "Retail & E-Commerce",
+   "purity": 0.323
+  },
+  "Marketing": {
+   "target": "Professional Services",
+   "method": "empirical",
+   "n": 154,
+   "purity": 0.519
+  },
+  "Renewable energies": {
+   "target": "Energy & Utilities",
+   "method": "empirical",
+   "n": 65,
+   "purity": 0.631
+  },
+  "Citizens": {
+   "target": "Government & Defense",
+   "method": "empirical",
+   "n": 26,
+   "purity": 0.731
+  },
+  "Entertainment industry": {
+   "target": "Hospitality",
+   "method": "manual",
+   "n": 142,
+   "empirical": "Retail & E-Commerce",
+   "purity": 0.282
+  },
+  "Civil society": {
+   "target": "Other",
+   "method": "manual",
+   "n": 62,
+   "empirical": "Government & Defense",
+   "purity": 0.435
+  },
+  "Mining": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 84,
+   "empirical": "Manufacturing",
+   "purity": 0.417
+  },
+  "Personal care": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 90,
+   "empirical": "Retail & E-Commerce",
+   "purity": 0.4
+  },
+  "Shops": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 100,
+   "empirical": "Retail & E-Commerce",
+   "purity": 0.34
+  },
+  "Culture": {
+   "target": "Other",
+   "method": "manual",
+   "n": 55,
+   "empirical": "Education",
+   "purity": 0.2
+  },
+  "Agriculture and agribusiness": {
+   "target": "Agriculture and Food Production",
+   "method": "empirical",
+   "n": 334,
+   "purity": 0.743
+  },
+  "Hotel": {
+   "target": "Hospitality",
+   "method": "empirical",
+   "n": 176,
+   "purity": 0.903
+  },
+  "Medias and audiovisual": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 229,
+   "empirical": "Technology",
+   "purity": 0.31
+  },
+  "Apparel": {
+   "target": "Retail & E-Commerce",
+   "method": "empirical",
+   "n": 158,
+   "purity": 0.595
+  },
+  "Retail (distribution)": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 641,
+   "empirical": "Retail & E-Commerce",
+   "purity": 0.374
+  },
+  "Academic Institutions": {
+   "target": "Education",
+   "method": "empirical",
+   "n": 69,
+   "purity": 0.826
+  },
+  "Flight": {
+   "target": "Transportation",
+   "method": "manual",
+   "n": 5,
+   "empirical": "Transportation",
+   "purity": 0.8
+  },
+  "Charity associations": {
+   "target": "Other",
+   "method": "manual",
+   "n": 56,
+   "empirical": "Healthcare",
+   "purity": 0.268
+  },
+  "Local administrations": {
+   "target": "Government & Defense",
+   "method": "empirical",
+   "n": 260,
+   "purity": 0.842
+  },
+  "Maritime transport": {
+   "target": "Transportation",
+   "method": "empirical",
+   "n": 81,
+   "purity": 0.605
+  },
+  "Airlines": {
+   "target": "Transportation",
+   "method": "empirical",
+   "n": 66,
+   "purity": 0.788
+  },
+  "Public sector": {
+   "target": "Government & Defense",
+   "method": "empirical",
+   "n": 39,
+   "purity": 0.564
+  },
+  "Market infrastructures": {
+   "target": "Financial Services",
+   "method": "manual",
+   "n": 49,
+   "empirical": "Professional Services",
+   "purity": 0.408
+  },
+  "Healthcare research": {
+   "target": "Healthcare",
+   "method": "empirical",
+   "n": 125,
+   "purity": 0.68
+  },
+  "Gas": {
+   "target": "Energy & Utilities",
+   "method": "empirical",
+   "n": 60,
+   "purity": 0.683
+  },
+  "International organizations": {
+   "target": "Government & Defense",
+   "method": "manual",
+   "n": 17,
+   "empirical": "Government & Defense",
+   "purity": 0.412
+  },
+  "Universities": {
+   "target": "Education",
+   "method": "empirical",
+   "n": 250,
+   "purity": 0.9
+  },
+  "Non-Governmental Organizations (NGOs)": {
+   "target": "Other",
+   "method": "manual",
+   "n": 97,
+   "empirical": "Government & Defense",
+   "purity": 0.237
+  },
+  "Banking institutions": {
+   "target": "Financial Services",
+   "method": "empirical",
+   "n": 181,
+   "purity": 0.834
+  },
+  "Durables": {
+   "target": "Manufacturing",
+   "method": "empirical",
+   "n": 28,
+   "purity": 0.5
+  },
+  "Internet Service providers": {
+   "target": "Technology",
+   "method": "empirical",
+   "n": 42,
+   "purity": 0.714
+  },
+  "Rail transport": {
+   "target": "Transportation",
+   "method": "empirical",
+   "n": 22,
+   "purity": 0.636
+  },
+  "Think tanks": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 6,
+   "empirical": "Professional Services",
+   "purity": 0.5
+  },
+  "Critical Industries": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 11,
+   "empirical": "Manufacturing",
+   "purity": 0.455
+  },
+  "Gambling": {
+   "target": "Hospitality",
+   "method": "empirical",
+   "n": 38,
+   "purity": 0.579
+  },
+  "Road transport": {
+   "target": "Transportation",
+   "method": "empirical",
+   "n": 102,
+   "purity": 0.745
+  },
+  "Culture and entertainment": {
+   "target": "Hospitality",
+   "method": "manual",
+   "n": 94,
+   "empirical": "Hospitality",
+   "purity": 0.287
+  },
+  "Defense": {
+   "target": "Government & Defense",
+   "method": "manual",
+   "n": 29,
+   "empirical": "Government & Defense",
+   "purity": 0.345
+  },
+  "Central administration and government": {
+   "target": "Government & Defense",
+   "method": "empirical",
+   "n": 99,
+   "purity": 0.778
+  },
+  "Digital infrastructures": {
+   "target": "Technology",
+   "method": "empirical",
+   "n": 25,
+   "purity": 0.72
+  },
+  "Defense industry": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 36,
+   "empirical": "Manufacturing",
+   "purity": 0.361
+  },
+  "Avionics": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 53,
+   "empirical": "Manufacturing",
+   "purity": 0.396
+  },
+  "Water distribution and supply": {
+   "target": "Energy & Utilities",
+   "method": "manual",
+   "n": 29,
+   "empirical": "Energy & Utilities",
+   "purity": 0.345
+  },
+  "Fintech": {
+   "target": "Financial Services",
+   "method": "manual",
+   "n": 57,
+   "empirical": "Financial Services",
+   "purity": 0.474
+  },
+  "Government and administrations": {
+   "target": "Government & Defense",
+   "method": "empirical",
+   "n": 168,
+   "purity": 0.786
+  },
+  "Wealth Management": {
+   "target": "Financial Services",
+   "method": "empirical",
+   "n": 59,
+   "purity": 0.712
+  },
+  "Hosting service providers": {
+   "target": "Technology",
+   "method": "empirical",
+   "n": 27,
+   "purity": 0.667
+  },
+  "Defense research and development": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 5,
+   "empirical": "Manufacturing",
+   "purity": 0.4
+  },
+  "Political parties": {
+   "target": "Government & Defense",
+   "method": "manual",
+   "n": 8,
+   "empirical": "Government & Defense",
+   "purity": 0.75
+  },
+  "Church": {
+   "target": "Other",
+   "method": "manual",
+   "n": 72,
+   "empirical": "Education",
+   "purity": 0.278
+  },
+  "Judicial power (justice)": {
+   "target": "Government & Defense",
+   "method": "manual",
+   "n": 11,
+   "empirical": "Government & Defense",
+   "purity": 0.727
+  },
+  "Critical Sectors": {
+   "target": "Other",
+   "method": "manual",
+   "n": 2,
+   "empirical": "Energy & Utilities",
+   "purity": 0.5
+  },
+  "Food & Beverages": {
+   "target": "Agriculture and Food Production",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Development": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 14,
+   "empirical": "Professional Services",
+   "purity": 0.286
+  },
+  "Training": {
+   "target": "Education",
+   "method": "manual",
+   "n": 27,
+   "empirical": "Education",
+   "purity": 0.444
+  },
+  "Pharmaceutical Distribution": {
+   "target": "Healthcare",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Building Materials": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Embassy": {
+   "target": "Government & Defense",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Government & Defense",
+   "purity": 1.0
+  },
+  "Ministries of foreign affairs": {
+   "target": "Government & Defense",
+   "method": "manual",
+   "n": 3,
+   "empirical": "Government & Defense",
+   "purity": 0.667
+  },
+  "Real Estate": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Other",
+   "purity": 1.0
+  },
+  "Food and Beverage Manufacturing": {
+   "target": "Agriculture and Food Production",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Machinery Manufacturing": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Software Development": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Technology",
+   "purity": 1.0
+  },
+  "Food and Beverage Services": {
+   "target": "Hospitality",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Wholesale and Retail Trade": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Media and Communication": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Information Technology and Services": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Real Estate Investment and Mergers & Acquisitions": {
+   "target": "Financial Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Non-Destructive Testing and Inspection Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Oil and Gas": {
+   "target": "Energy & Utilities",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Energy & Utilities",
+   "purity": 1.0
+  },
+  "Advertising Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Information and Communications Technology (ICT) Solutions and Services": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Marine Equipment Manufacturing": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Retail Groceries": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Engineering and Manufacturing": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Plastic Processing and Molding": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Manufacturing and Geotechnical Solutions": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Information Technology": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Professional Services",
+   "purity": 1.0
+  },
+  "Audiovisual Services": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Facilities Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Film and Video Production": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Retail": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Retail & E-Commerce",
+   "purity": 1.0
+  },
+  "Financial Technology": {
+   "target": "Financial Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Metal and Mineral Merchant Wholesalers": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Automation Machinery Manufacturing": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Computer Hardware Manufacturing": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Manufacturing",
+   "purity": 1.0
+  },
+  "Freight Brokerage": {
+   "target": "Transportation",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Transportation",
+   "purity": 1.0
+  },
+  "Real Estate Management": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Other",
+   "purity": 1.0
+  },
+  "Property Management and Real Estate": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Other",
+   "purity": 1.0
+  },
+  "Diplomacy": {
+   "target": "Government & Defense",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Government & Defense",
+   "purity": 1.0
+  },
+  "Legal Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Insurance": {
+   "target": "Financial Services",
+   "method": "manual",
+   "n": 2,
+   "empirical": "Financial Services",
+   "purity": 1.0
+  },
+  "Audio equipment manufacturing": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Printing Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Technology",
+   "purity": 1.0
+  },
+  "Nuclear power (civilian use)": {
+   "target": "Energy & Utilities",
+   "method": "manual",
+   "n": 2,
+   "empirical": "Government & Defense",
+   "purity": 0.5
+  },
+  "Healthcare Management": {
+   "target": "Healthcare",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Healthcare",
+   "purity": 1.0
+  },
+  "IT Services": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Technology",
+   "purity": 1.0
+  },
+  "Access Control Solutions": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Professional Services",
+   "purity": 1.0
+  },
+  "Energy Services": {
+   "target": "Energy & Utilities",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Energy & Utilities",
+   "purity": 1.0
+  },
+  "Food": {
+   "target": "Agriculture and Food Production",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Agriculture and Food Production",
+   "purity": 1.0
+  },
+  "Printing Equipment and Supplies": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Retail & E-Commerce",
+   "purity": 1.0
+  },
+  "IT Services and IT Consulting": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Technology",
+   "purity": 1.0
+  },
+  "Research and Development": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Government & Defense",
+   "purity": 1.0
+  },
+  "E-commerce and Financial Technology": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Technology",
+   "purity": 1.0
+  },
+  "Semiconductor and Electronic Component Manufacturing": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Manufacturing",
+   "purity": 1.0
+  },
+  "Automotive Retail": {
+   "target": "Retail & E-Commerce",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Manufacturing",
+   "purity": 1.0
+  },
+  "Precision Engineering": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Food Production": {
+   "target": "Agriculture and Food Production",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Agriculture and Food Production",
+   "purity": 1.0
+  },
+  "Publishing": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Energy & Utilities",
+   "purity": 1.0
+  },
+  "Building Cleaning Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Manufacturing",
+   "purity": 1.0
+  },
+  "Employee Services": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Transportation",
+   "purity": 1.0
+  },
+  "Collective Management Organization": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Transportation",
+   "purity": 1.0
+  },
+  "Freight & Logistics Services": {
+   "target": "Transportation",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Transportation",
+   "purity": 1.0
+  },
+  "Non-profit Organization": {
+   "target": "Other",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Government & Defense",
+   "purity": 1.0
+  },
+  "Healthcare Storage Solutions": {
+   "target": "Healthcare",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Transportation",
+   "purity": 1.0
+  },
+  "Ambulance Services": {
+   "target": "Healthcare",
+   "method": "manual",
+   "n": 1,
+   "empirical": "Healthcare",
+   "purity": 1.0
+  },
+  "Private Equity": {
+   "target": "Financial Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Maritime Electronics and Naval Systems": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Electrical Engineering and IT Services": {
+   "target": "Technology",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Performing Arts": {
+   "target": "Hospitality",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Diversified Conglomerate": {
+   "target": "Other",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Precision Manufacturing": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Surface Technology": {
+   "target": "Manufacturing",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Occupational Health and Employment Testing": {
+   "target": "Healthcare",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Biotechnology": {
+   "target": "Healthcare",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Housing and Financial Services": {
+   "target": "Financial Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Logistics and Freight Forwarding": {
+   "target": "Transportation",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  },
+  "Engineering, Procurement, and Construction Management (EPCM)": {
+   "target": "Professional Services",
+   "method": "manual",
+   "n": 0,
+   "empirical": null,
+   "purity": 0.0
+  }
+ }
+}

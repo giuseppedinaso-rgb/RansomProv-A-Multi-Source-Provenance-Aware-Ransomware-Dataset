@@ -1,0 +1,27 @@
+{
+  "model": "IntensityFree",
+  "version": "enriched",
+  "mark": "country",
+  "seed": 2019,
+  "params": {
+    "lr": 0.0003489663333523677,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 32,
+    "spec_num_mix_components": 8,
+    "max_epoch": 200
+  },
+  "best_epoch": 184,
+  "valid": {
+    "loglike": 0.7413758282199057,
+    "num_events": 4651.0,
+    "acc": 0.5420339711889917,
+    "rmse": 22.317599494181326
+  },
+  "test": {
+    "loglike": 0.2938393983119239,
+    "num_events": 12831.0,
+    "acc": 0.5367469410022602,
+    "rmse": 17.637996481180334
+  }
+}

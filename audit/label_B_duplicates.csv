@@ -1,0 +1,101 @@
+gang,event_1,event_2,victim_1,victim_2,domain_1,domain_2,gap_days,similarity,label_A,label_B,note,label_ai,note_ai
+lockbit3,13982,13983,ernesthealth.com,earnesthealth.com,ernesthealth.com,ernesthealth.com,6,0.97,,,,same_attack,"ernesthealth vs earnesthealth typo, same domain"
+ransomhouse,21515,21516,[Internal database pack 1] Warren County Sheriff’s Office,[Internal database pack 2] Warren County Sheriff’s Office,warrencountykysheriff.com,warrencountykysheriff.com,7,1.0,,,,same_victim_new_post,explicit pack 1 / pack 2
+gunra,9775,9776,Samwha Capacitor Group,hwacheon,samwha.co.kr,samwha.co.kr,7,0.29,,,,different,Samwha Capacitor vs Hwacheon are distinct Korean companies; shared domain likely misattributed
+nightspire,36146,36139,Views: 37,Views: 32,,,1,0.86,,,,different,unrelated Views placeholders
+lockbit3,33714,33715,continuumenergy.,continuumenergy...,,,7,1.0,,,,same_attack,"same truncated name continuumenergy, repost"
+akira,31897,35636,Taking stock of 2024 | Part 1,Taking stock of 2024,,,0,0.87,,,,same_attack,"same Akira blog title, one truncated"
+eraleignapt73,35521,35522,bri.co.id,(SOLD TO 3RD PARTY),bri.co.id,bri.co.id,6,0.19,,,,same_attack,same bri.co.id post retitled SOLD TO 3RD PARTY
+babukbjorka,35989,35988,Company,Company,petstop.com,lexmark.com,1,1.0,,,,different,"generic 'Company' placeholder, different domains"
+medusa,15847,15848,FS Tool Corporation,FS Tool Corporation,krypton-solutions.com,fstoolcorp.com,4,1.0,,,,same_attack,"identical name FS Tool Corporation, repost"
+akira,1152,32419,"Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next GenerationLogistics,...","Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next Generation Logistics...",smithcompany.com,,2,1.0,,,,same_attack,"same victim list, truncation/spacing difference"
+nightspire,36150,36160,Views: 28,Views: 23,,,0,0.86,,,,different,unrelated Views placeholders
+toufan,36521,36522,Operation – “Enter Upon Them By The Gate” – 0x13,Operation – “Enter Upon Them By The Gate” – 0x14,yechavedaat.org,shiran-tours.co.il,0,0.97,,,,different,different operation numbers and domains
+nightspire,36157,36160,Views: 25,Views: 23,,,0,0.86,,,,different,unrelated Views placeholders
+everest,30217,30210,Electricity company,Electricity company pt.2,,,3,0.92,,,,same_victim_new_post,explicit pt.2
+nightspire,36163,36140,Views: 19,Views: 31,,,2,0.86,,,,different,unrelated Views placeholders
+nightspire,36148,36140,Views: 35,Views: 31,,,1,0.86,,,,different,unrelated Views placeholders
+clop,35067,35064,ARCHIVE6,ARCHIVE9,,,0,0.88,,,,different,different archive placeholders
+alphv,2604,2605,Hirsch Bedner Associates,Hirsch Bedner Associates,hba.com,hba.com,5,1.0,,,,same_attack,identical name and domain
+nightspire,36156,36160,Views: 20,Views: 23,,,0,0.86,,,,different,unrelated Views placeholders
+incransom,35293,10428,Association Management Strategies,Association Management Strategies(AAMC.local),,amsamc.com,0,0.87,,,,same_attack,same name with AAMC.local suffix
+nightspire,36160,36139,Views: 23,Views: 32,,,1,0.86,,,,different,unrelated Views placeholders
+fog,32042,35809,"Gitlabs: hemio.de, SOLEIL, Devlion","Gitlabs: , SOLEIL, Devlion",,hemio.de,0,0.85,,,,same_attack,"same Gitlabs list, one missing hemio.de"
+nightspire,36170,36147,Views: 6,Views: 36,,,1,0.92,,,,different,unrelated Views placeholders
+lockbit3,33829,33830,fairnessforall....,fairnessforall....,,,5,1.0,,,,same_attack,same truncated name fairnessforall
+qilin,20391,20390,International Delights,Danone (International Delights),intdelights.com,idelights.com,0,0.88,,,,same_attack,International Delights with parent Danone added
+akira,36694,1152,"Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next GenerationLogistics","Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next GenerationLogistics,...",,smithcompany.com,0,1.0,,,,same_attack,"same victim list, truncation"
+revil,27650,33161,lstaff.com / atworksprofessional / atworks.com,/ atworksprofessional / atworks.com,,lstaff.com,0,0.87,,,,same_attack,"same title, lstaff.com dropped"
+pysa,28255,33532,"City of Bridgeport, WV",City of Bridgeport,,,0,0.94,,,,same_attack,City of Bridgeport with/without WV
+everest,32322,9105,Colins Aerospace / RTX.com,Collins Aerospace / RTX.com,,collinsaerospace.com,0,0.98,,,,same_attack,Colins/Collins typo
+shadowbyt3,36912,36913,nyayanagarpublicschool_in_part_2,nyayanagarpublicschool_in_part_5,,,0,0.97,,,,same_victim_new_post,explicit part_2 vs part_5
+nightspire,36150,36157,Views: 28,Views: 25,,,0,0.86,,,,different,unrelated Views placeholders
+nightspire,36171,36160,Views: 3,Views: 23,,,1,0.92,,,,different,unrelated Views placeholders
+ragroup,35030,35026,Yuxin Automobile (裕信汽車)(Unpay),Yuxin Automobile (裕信汽車) (Unpay-Full public),co.ltd,co.ltd,3,0.8,,,,same_victim_new_post,Unpay vs Unpay-Full public: new full data release
+medusa,15845,15846,National Association for Stock Car Auto Racing,National Association for Stock Car Auto Racing,nascar.com,nascar.com,5,1.0,,,,same_attack,identical name and domain
+nefilim,27412,27409,Tegut. Part 2.,Tegut. Part 1.,,,0,0.9,,,,same_victim_new_post,explicit Part 1 / Part 2
+maze,26728,26727,Affordacare Urgent Care Clinic,Affordacare Urgent Care Clinics,,,0,0.98,,,,same_attack,Clinic vs Clinics minor wording
+monti,30836,30833,ASL 1 - Avezzano Sulmona L'Aquila *UPDATE*,ASL 1 - Avezzano Sulmona L'Aquila *UPD 05-10*,,,4,0.89,,,,same_victim_new_post,two distinct dated update posts
+fog,9484,9485,X-Pans,X-Pans,x-pans.com,x-pans.com,4,1.0,,,,same_attack,identical name and domain
+qilin,19572,19580,APEX Asset Management,Pollex Asset Management Co.,apexam.co.kr,pollexasset.co.kr,1,0.86,,,,different,"APEX vs Pollex Asset Management, different firms"
+babukbjorka,35919,35920,The Ministry of National Defense - (NavyVietnam),(SOLD)The Ministry of National Defense - (NavyVietnam),mod.gov.vn,mod.gov.vn,5,0.95,,,,same_attack,same post retitled (SOLD)
+qilin,18960,18961,Above All Store Fronts,Above All Store Fronts,aboveallstorefronts.com,aboveallstorefronts.com,5,1.0,,,,same_attack,identical name and domain
+everest,35148,31189,Primeimaging database,Primeimaging database for sale,,,0,0.85,,,,same_attack,"same database, 'for sale' wording"
+fog,9490,9491,Prasaga,Prasaga,prasaga.com,prasaga.com,5,1.0,,,,same_attack,identical name and domain
+dataleak,30788,34879,rkw-group.com Disclose the compressed package password,Disclose the compressed package password,,nissin.com.br,0,0.87,,,,different,"generic password-disclosure title, different victims rkw-group vs nissin"
+toufan,36463,36449,Operation – “Enter Upon Them By The Gate” – Edri-ltd – 0x03,Operation – “Enter Upon Them By The Gate” – GoldenBit – 0x07,,,0,0.86,,,,different,"Edri-ltd vs GoldenBit, different operations"
+thegentlemen,25353,25354,Bds cz,BDS CZ,bds.cz,bds.cz,7,1.0,,,,same_attack,"case difference only, same domain"
+akira,34938,712,BridgeValley Community & Technical,BridgeValley Community & Technical College,,bridgevalley.edu,0,0.9,,,,same_attack,truncated College
+eraleignapt73,35523,35524,viennaairport.com,(SOLD TO 3RD PARTY),viennaairport.com,viennaairport.com,6,0.2,,,,same_attack,same viennaairport post retitled SOLD
+nightspire,36141,16542,Sistel Connections(Italy),Sistel Connections,,sistel-connections.com,4,0.87,,,,same_attack,same name with (Italy) suffix
+nightspire,36161,36164,Views: 21,Views: 15,,,0,0.86,,,,different,unrelated Views placeholders
+bonacigroup,28034,33345,Ward Arcuri Foley & Dwyer | Law Firm,Ward Arcuri Foley &amp; Dwyer,,,0,0.85,,,,same_attack,"same name, HTML-escaped ampersand"
+nightspire,36159,36140,Views: 16,Views: 31,,,1,0.86,,,,different,unrelated Views placeholders
+nightspire,16564,35977,Tohpe Corporation,Tohpe Corporation (Japan),tohpe.co.jp,,0,0.86,,,,same_attack,same name with (Japan) suffix
+anubis,36868,3186,Samuel I. White,"Samuel I. White, PC",,siwpc.net,0,0.92,,,,same_attack,same firm with/without PC
+lockbit3,13699,13700,townandforest.co.uk,townandforest.co.uk,townandforest.co.uk,townandforest.co.uk,4,1.0,,,,same_attack,identical name and domain
+ragroup,34981,34982,I****n(Unpay),I****n (Unpay),,,6,1.0,,,,unsure,"masked I****n names, cannot verify same victim"
+qilin,19572,19556,APEX Asset Management,EUM Asset Management,apexam.co.kr,eumasset.com,5,0.86,,,,different,"APEX vs EUM Asset Management, different firms"
+nightspire,36162,36153,Views: 4,Views: 24,,,1,0.92,,,,different,unrelated Views placeholders
+secp0,23640,37328,NAI Earle Furman,Leak: NAI Earle Furman,naiearlefurman.com,,0,0.88,,,,same_attack,Leak: prefix only
+medusa,15841,15842,Pulse Urgent Care,Pulse Urgent Care,pulseurgentcare.com,pulseurgentcare.com,5,1.0,,,,same_attack,identical name and domain
+babukbjorka,35993,35992,(CN) By Babuk Locker 2.0,By Babuk Locker 2.0,bank.pingan.com,mandarin.com.br,0,0.94,,,,different,"generic Babuk title, different domains (Ping An vs Mandarin)"
+unsafe,26169,26170,Ucar,Ucar,ucar.fr,,5,1.0,,,,same_attack,identical name Ucar
+8base,31001,164,Weitkamp · Hirsch and Kollegen Steuerberatungsgesellschaft mbH,Weitkamp · Hirsch & Kollegen Steuerberatungsgesellschaft mbH,,whk-schleswig.de,0,0.97,,,,same_attack,'and' vs '&' wording
+kawa,36364,36365,JP,JP,tokiomarine-nichido.co.jp,ogr-jp.com,0,1.0,,,,different,"generic JP placeholder, different domains"
+nightspire,36166,36153,Views: 12,Views: 24,,,1,0.86,,,,different,unrelated Views placeholders
+deadlock,7643,7644,CH Paper,CH Paper,chenghengpaper.com,chenghengpaper.com,5,1.0,,,,same_attack,identical name and domain
+revil,27089,27088,Fimmick CRM Honk Kong (www.fimmick.com),Fimmick CRM Hong Kong (www.fimmick.com),,,0,0.97,,,,same_attack,Honk/Hong typo
+blackbasta,4404,35265,scrubsandbeyond.com,scrubsandbeyond.com_wp,scrubsandbeyond.com,,0,0.95,,,,same_attack,"same domain with _wp suffix, same day"
+karakurt,34840,34839,*С******-****F** International,*СH*****-*A**F** International,,,1,0.93,,,,same_attack,"same masked name, more letters revealed"
+medusa,15850,15851,"Family Health Services, Inc","Family Health Services, Inc",lovesafely.com,fhsi.org,5,1.0,,,,same_attack,identical name; lovesafely.com is an FHS site
+incransom,11162,11155,Hopkins Law,hopkins-law.com,hopkinslawltd.com,hopkins-law.com,1,0.87,,,,unsure,"Hopkins Law: conflicting domains, possibly different firms"
+blackbasta,4277,4278,Yellow Pages,Yellow Pages,yellowpages.ca,,7,1.0,,,,same_attack,identical name Yellow Pages
+lockbit3,34443,34444,toothbuds.com,toothbuds.com,toothbuds.com,toothbuds.com,6,1.0,,,,same_attack,identical name and domain
+raworld,31007,31008,Zurvita,Zurvita,zurvita.com,zurvita.com,6,1.0,,,,same_attack,identical name and domain
+nightspire,36148,36139,Views: 35,Views: 32,,,1,0.86,,,,different,unrelated Views placeholders
+clop,36590,36591,COMPANIES-GROUP-3,COMPANIES-GROUP-2,,,0,0.93,,,,different,different COMPANIES-GROUP placeholders
+qilin,20707,20698,SEL (Safety Engineering Laboratory),Safety Engineering Laboratories,seldirect.com,safetyengineeringlabs.com,1,0.88,,,,same_attack,"SEL = Safety Engineering Laboratory (seldirect.com), same firm"
+everest,30217,30193,Electricity company,Electricity company pt.3,,,6,0.92,,,,same_victim_new_post,explicit pt.3
+crazyhunter,7277,36000,Asia University Hospital,Taiwan - Asia University Hospital,asia.edu.tw,,0,0.88,,,,same_attack,Taiwan prefix only
+handala,31625,35326,EPS Tech R&D,EPS Tech R&D PoC,,,0,0.86,,,,same_attack,"PoC suffix, same day, same victim"
+qilin,20034,35792,F.TECH R&D NORTH AMERICA INC.,R&D NORTH AMERICA INC.,ftechrdna.com,f.tech,0,0.87,,,,same_attack,F.TECH prefix truncated
+qilin,19558,19533,ST Asset Management Co,HUB ASSET MANAGEMENT Co,stasset.co.kr,hubasset.co.kr,7,0.87,,,,different,"ST vs HUB Asset Management, different firms"
+thegentlemen,25357,25358,Al dhow group,Al Dhow Group,al-dhow.com,al-dhow.com,7,1.0,,,,same_attack,"case difference only, same domain"
+malekteam,15332,35082,Ono Academic College,Hacked Ono Academic College,ono.ac.il,,3,0.86,,,,same_attack,Hacked prefix only
+darkproject,37095,7472,Dentist in New Britain,"Dentist in New Britain, CT",,dentistinnewbritain.com,0,0.95,,,,same_attack,"', CT' suffix only"
+lockbit3,33986,33987,fehrs.com,fehrs.com,fehrs.com,fehrs.com,4,1.0,,,,same_attack,identical name and domain
+nightspire,36147,36142,Views: 36,Views: 30,,,1,0.86,,,,different,unrelated Views placeholders
+toufan,36568,36566,Operation “ادْخُلُوا عَلَيْهِمُ الْبَابَ” – “Enter Upon Them By The Gate” – 0x02,Operation – “Enter Upon Them By The Gate” – 0x01 : safety-car,,,1,0.86,,,,different,different operations 0x01 vs 0x02
+nightspire,36150,36143,Views: 28,Views: 38,,,1,0.86,,,,different,unrelated Views placeholders
+everest,29734,29720,FederalBank / Fedfina,FederalBank/Fedfina.part2,,,2,0.88,,,,same_victim_new_post,explicit part2
+qilin,19559,19558,EOS Asset management,ST Asset Management Co,eosam.co.kr,stasset.co.kr,0,0.86,,,,different,"EOS vs ST Asset Management, different firms"
+coinbasecartel,7079,7080,Property Finder / PropSpace,Propertyfinder / PropSpace CRM,propertyfinder.ae,propertyfinder.ae,6,0.94,,,,same_attack,"Property Finder minor wording, same domain"
+lockbit3,33370,33371,kenwal.com,kenwal.com,kenwal.com,kenwal.com,5,1.0,,,,same_attack,identical name and domain
+lockbit3,34111,34112,dectro.com,dectro.com,dectro.com,dectro.com,6,1.0,,,,same_attack,identical name and domain
+akira,1151,32421,"Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next GenerationLogistics,","Wisconsin Knife Works, The Smith Companies, Envirotech Services, Next GenerationLogistics,...",wkwinc.com,,0,1.0,,,,same_attack,"same victim list, truncation"
+lockbit3,33652,33653,hajery.com,hajery.com,hajery.com,hajery.com,7,1.0,,,,same_attack,identical name and domain
+devman,36120,32163,"Bangkok Electronics Co., Ltd (QILIN)","Bangkok Electronics Co., Ltd",,bangkok-cctv.com,1,0.9,,,,same_attack,"same victim, (QILIN) tag added"
+incransom,32560,11155,Hopkins Law,hopkins-law.com,hopkins.law,hopkins-law.com,1,0.87,,,,unsure,"Hopkins Law: hopkins.law vs hopkins-law.com, possibly different firms"
+toufan,26014,26007,alcornindustrial.com,barindustrial.com,alcornindustrial.com,barindustrial.com,0,0.86,,,,different,"alcornindustrial vs barindustrial, different companies"
+shinyhunters,23880,23881,"Pathstone Family Office, LLC",Pathstone.com,pathstone.com,pathstone.com,7,0.56,,,,same_attack,"Pathstone name vs domain, same domain"

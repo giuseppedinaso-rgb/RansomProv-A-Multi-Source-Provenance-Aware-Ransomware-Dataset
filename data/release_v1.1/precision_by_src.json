@@ -1,0 +1,180 @@
+{
+  "country": {
+    "inherited_victim": {
+      "n": 4918,
+      "precision_pct": 82.4,
+      "ci95": [
+        81.3,
+        83.4
+      ],
+      "majority_baseline_pct": 42.4,
+      "method": "leave-one-out on events with observed country (validate_rules.py)",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 92.9,
+        "ci95": [
+          77.4,
+          98.0
+        ],
+        "n": 28
+      }
+    },
+    "cctld": {
+      "n": 7541,
+      "precision_pct": 99.3,
+      "ci95": [
+        99.1,
+        99.5
+      ],
+      "majority_baseline_pct": 8.9,
+      "method": "rule applied to events with observed country",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 82.8,
+        "ci95": [
+          65.5,
+          92.4
+        ],
+        "n": 29
+      }
+    },
+    "description": {
+      "n": 6427,
+      "precision_pct": 95.5,
+      "ci95": [
+        94.9,
+        96.0
+      ],
+      "majority_baseline_pct": 38.4,
+      "method": "rule applied to events with observed country",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 88.0,
+        "ci95": [
+          70.0,
+          95.8
+        ],
+        "n": 25
+      }
+    },
+    "site_archive": {
+      "n": 272,
+      "precision_pct": 96.0,
+      "method": "600 events with unanimous country, label hidden (site_evaluate.py)",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 93.3,
+        "ci95": [
+          78.7,
+          98.2
+        ],
+        "n": 30
+      }
+    },
+    "site_live": {
+      "n": 35,
+      "precision_pct": 94.3,
+      "method": "same validation, pages from the live site",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 86.2,
+        "ci95": [
+          69.4,
+          94.5
+        ],
+        "n": 29
+      }
+    },
+    "llm_knowledge": {
+      "name+desc": {
+        "min_confidence": 0.5,
+        "precision": 0.932,
+        "coverage": 0.833,
+        "n_validation": 250
+      },
+      "name+domain": {
+        "min_confidence": 0.8,
+        "precision": 0.904,
+        "coverage": 0.496,
+        "n_validation": 135
+      },
+      "name_only": null,
+      "method": "gpt-oss-120b (vllm local), no web search; validated on events discovered after the model training cutoff (2024-07-01) to avoid memorised tracker pages; name_only not applied",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 91.3,
+        "ci95": [
+          73.2,
+          97.6
+        ],
+        "n": 23
+      }
+    }
+  },
+  "sector": {
+    "inherited_victim": {
+      "n": 5964,
+      "precision_pct": 63.7,
+      "ci95": [
+        62.4,
+        64.9
+      ],
+      "majority_baseline_pct": 19.7,
+      "method": "leave-one-out on events with observed sector",
+      "reference": "agreement between sources on the same event: 59.6% (kappa 0.54)",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 57.1,
+        "ci95": [
+          39.1,
+          73.5
+        ],
+        "n": 28
+      }
+    },
+    "site_llm": {
+      "n": 164,
+      "precision_pct": 82.3,
+      "coverage_pct": 82.8,
+      "method": "gpt-oss-120b (vllm local), 300 events, confidence>=0.90, sources-agree subset (site_sector_evaluate.py)",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 85.2,
+        "ci95": [
+          67.5,
+          94.1
+        ],
+        "n": 27
+      }
+    },
+    "llm_knowledge": {
+      "name+desc": {
+        "min_confidence": 0.5,
+        "precision": 0.761,
+        "coverage": 0.931,
+        "n_validation": 188
+      },
+      "name+domain": {
+        "min_confidence": 0.7,
+        "precision": 0.653,
+        "coverage": 0.673,
+        "n_validation": 144
+      },
+      "name_only": null,
+      "method": "gpt-oss-120b (vllm local), no web search; validated on events discovered after the model training cutoff (2024-07-01) to avoid memorised tracker pages; name_only not applied",
+      "independent_check_llm_assisted_v1.0": {
+        "precision_pct": 64.7,
+        "ci95": [
+          41.3,
+          82.7
+        ],
+        "n": 17
+      }
+    }
+  },
+  "dropped_rules": {
+    "title_hint": {
+      "n": 63,
+      "precision_pct": 69.8,
+      "ci95": [
+        57.6,
+        79.8
+      ],
+      "majority_baseline_pct": 39.7,
+      "reason": "precision below other rules"
+    }
+  },
+  "note": "Precision is estimated on events whose value is observed; these are not a random sample of the events where the rule was applied."
+}

@@ -1,0 +1,13 @@
+{
+  "model": "RMTPP",
+  "mark": "sector",
+  "best_valid_loglike": -3.909642287003971,
+  "params": {
+    "lr": 0.008751120939899677,
+    "batch_size": 8,
+    "dropout": 0.3,
+    "hidden_size": 16,
+    "time_emb_size": 8
+  },
+  "n_trials": 20
+}

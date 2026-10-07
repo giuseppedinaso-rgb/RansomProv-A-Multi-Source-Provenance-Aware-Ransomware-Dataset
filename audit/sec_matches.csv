@@ -1,0 +1,17 @@
+company,file_date,event_id,victim,domain,gang,discovered,lag_days,similarity,label,review_assistant
+Hewlett Packard Enterprise Co,2024-01-24,16168,Hewlett Packard Enterprise,hpe.com,meow,2024-07-14,-172,1.0,,same_victim_other_incident
+PRUDENTIAL FINANCIAL INC,2024-02-13,3069,Prudential Financial,prudential.com,alphv,2024-02-16,-3,1.0,,correct
+UNITEDHEALTH GROUP INC,2024-02-22,22066,Change HealthCare - OPTUM Group - United HealthCare Group,unitedhealthgroup.com,ransomhub,2024-04-08,-46,0.95,,correct
+MARINEMAX INC,2024-03-12,22584,MarineMax,marinemax.com,rhysida,2024-03-20,-8,1.0,,correct
+KEY TRONIC CORP,2024-05-10,4417,keytronic.com,keytronic.com,blackbasta,2024-05-31,-21,1.0,,correct
+"Crimson Wine Group, Ltd",2024-07-25,506,crimsonwinegroup.com,crimsonwinegroup.com,abyss,2024-07-25,0,0.95,,correct
+ENGLOBAL CORP,2024-12-02,9918,CVTE,global.cvte.com,hellcat,2025-04-07,-126,0.95,,wrong
+"Krispy Kreme, Inc.",2024-12-11,17810,Krispy Kreme,krispykreme.com,play,2024-12-19,-8,1.0,,correct
+"LEE ENTERPRISES, Inc",2025-02-18,20018,Lee Enterprises,lee.net,qilin,2025-02-27,-9,1.0,,correct
+CONDUENT Inc,2025-04-14,23288,conduent.com,conduent.com,safepay,2025-02-20,53,1.0,,correct
+WYTEC INTERNATIONAL INC,2025-08-29,6269,INTERNATIONAL.COM,international.com,clop,2025-11-06,-69,0.95,,wrong
+UFP TECHNOLOGIES INC,2026-02-24,17352,UFP Technologies,ufpt.com,payoutsking,2026-04-30,-65,1.0,,correct
+TRIO-TECH INTERNATIONAL,2026-03-20,6269,INTERNATIONAL.COM,international.com,clop,2025-11-06,134,0.95,,wrong
+STRYKER CORP,2026-04-09,9899,Stryker Corporation,stryker.com,handala,2026-03-11,29,1.0,,correct
+"CB Financial Services, Inc.",2026-05-11,25779,CPF Financial Services,,thegentlemen,2026-01-20,111,0.92,,wrong
+Nutex Health Inc.,2026-08-31,25066,Nutex Health,nutexhealth.com,thegentlemen,2026-09-01,-1,1.0,,correct

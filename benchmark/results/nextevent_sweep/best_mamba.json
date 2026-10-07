@@ -1,0 +1,13 @@
+{
+  "model": "mamba",
+  "best_val_loss": 1.7165805188527548,
+  "params": {
+    "lr": 0.00040456233738647804,
+    "hidden": 64,
+    "layers": 2,
+    "dropout": 0.3,
+    "weight_decay": 0.01,
+    "win": 128,
+    "loss": "ce"
+  }
+}

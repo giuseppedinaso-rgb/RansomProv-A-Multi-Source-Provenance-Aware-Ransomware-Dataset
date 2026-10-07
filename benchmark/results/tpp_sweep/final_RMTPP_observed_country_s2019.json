@@ -1,0 +1,27 @@
+{
+  "model": "RMTPP",
+  "version": "observed",
+  "mark": "country",
+  "seed": 2019,
+  "params": {
+    "lr": 0.008915703865999412,
+    "batch_size": 8,
+    "dropout": 0.0,
+    "hidden_size": 16,
+    "time_emb_size": 8,
+    "max_epoch": 200
+  },
+  "best_epoch": 191,
+  "valid": {
+    "loglike": -3.27800626555865,
+    "num_events": 4651.0,
+    "acc": 0.40378413244463557,
+    "rmse": 7.698900414059022
+  },
+  "test": {
+    "loglike": -3.607618280624379,
+    "num_events": 12831.0,
+    "acc": 0.37861429350791054,
+    "rmse": 12.108003036106696
+  }
+}

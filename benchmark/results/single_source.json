@@ -1,0 +1,297 @@
+{
+ "coverage": {
+  "merged": {
+   "events": 37385,
+   "share_of_merged": 100.0,
+   "gangs": 410,
+   "first": "2018-01-03",
+   "country_pct": 75.1,
+   "sector_pct": 85.1,
+   "events_by_year": {
+    "2018": 21,
+    "2019": 54,
+    "2020": 249,
+    "2021": 2257,
+    "2022": 4534,
+    "2023": 5744,
+    "2024": 6664,
+    "2025": 9259,
+    "2026": 8603
+   }
+  },
+  "ransomlive": {
+   "events": 31368,
+   "share_of_merged": 83.9,
+   "gangs": 352,
+   "first": "2018-01-03",
+   "country_pct": 75.2,
+   "sector_pct": 96.1,
+   "events_by_year": {
+    "2018": 21,
+    "2019": 54,
+    "2020": 247,
+    "2021": 1750,
+    "2022": 2780,
+    "2023": 5097,
+    "2024": 5981,
+    "2025": 8004,
+    "2026": 7434
+   }
+  },
+  "ransomfeed": {
+   "events": 25376,
+   "share_of_merged": 67.9,
+   "gangs": 284,
+   "first": "2020-10-08",
+   "country_pct": 99.1,
+   "sector_pct": 96.8,
+   "events_by_year": {
+    "2020": 1,
+    "2021": 175,
+    "2022": 597,
+    "2023": 4774,
+    "2024": 5171,
+    "2025": 7441,
+    "2026": 7217
+   }
+  },
+  "ransomlook": {
+   "events": 32008,
+   "share_of_merged": 85.6,
+   "gangs": 330,
+   "first": "2020-01-12",
+   "country_pct": 0.0,
+   "sector_pct": 0.0,
+   "events_by_year": {
+    "2020": 35,
+    "2021": 1699,
+    "2022": 3582,
+    "2023": 4857,
+    "2024": 5989,
+    "2025": 8182,
+    "2026": 7664
+   }
+  }
+ },
+ "conclusions": {
+  "ransomlive": {
+   "weekly_corr_2021_26": 0.952,
+   "weekly_corr_2023_26": 0.976,
+   "top20_gang_spearman": 0.958,
+   "top20_gangs_missing": 0,
+   "us_share_pct": 43.8,
+   "country_JS": 0.026,
+   "sector_JS": 0.003,
+   "takedowns_last_claim_days_before": {
+    "hive": 10,
+    "ragnarlocker": 8,
+    "lockbit3": 1,
+    "8base": 9,
+    "ransomhub": 1,
+    "dispossessor": 1
+   }
+  },
+  "ransomfeed": {
+   "weekly_corr_2021_26": 0.722,
+   "weekly_corr_2023_26": 0.816,
+   "top20_gang_spearman": 0.823,
+   "top20_gangs_missing": 0,
+   "us_share_pct": 47.8,
+   "country_JS": 0.013,
+   "sector_JS": 0.06,
+   "takedowns_last_claim_days_before": {
+    "hive": 10,
+    "ragnarlocker": 8,
+    "lockbit3": 1,
+    "8base": 9,
+    "ransomhub": 1,
+    "dispossessor": null
+   }
+  },
+  "ransomlook": {
+   "weekly_corr_2021_26": 0.964,
+   "weekly_corr_2023_26": 0.924,
+   "top20_gang_spearman": 0.881,
+   "top20_gangs_missing": 1,
+   "takedowns_last_claim_days_before": {
+    "hive": 10,
+    "ragnarlocker": 8,
+    "lockbit3": 1,
+    "8base": 9,
+    "ransomhub": 1,
+    "dispossessor": 1
+   }
+  },
+  "merged_us_share_pct": 46.4
+ },
+ "next_event_gangmode": {
+  "ransomlive": {
+   "delta": {
+    "single_source": {
+     "n": 11362,
+     "accuracy": 0.6691603590917092,
+     "macro_f1": 0.42086416103553503,
+     "weighted_f1": 0.6110734000664875,
+     "log_loss": 0.7358774940291747,
+     "top3": 1.0
+    },
+    "merged_history": {
+     "n": 11362,
+     "accuracy": 0.668368245027284,
+     "macro_f1": 0.417403351455814,
+     "weighted_f1": 0.608440205986406,
+     "log_loss": 0.7396185149899749,
+     "top3": 1.0
+    }
+   },
+   "country": {
+    "single_source": {
+     "n": 11217,
+     "accuracy": 0.46242310778282963,
+     "macro_f1": 0.04054315235660259,
+     "weighted_f1": 0.29968598013483727,
+     "log_loss": 2.1831880073215992,
+     "top3": 0.643933315503254
+    },
+    "merged_history": {
+     "n": 11217,
+     "accuracy": 0.46108585183204065,
+     "macro_f1": 0.03888533131063814,
+     "weighted_f1": 0.29427428462396926,
+     "log_loss": 2.1816588585868653,
+     "top3": 0.6466969778015512
+    }
+   },
+   "sector": {
+    "single_source": {
+     "n": 11241,
+     "accuracy": 0.21599501823681166,
+     "macro_f1": 0.06977574408229818,
+     "weighted_f1": 0.14523275198105448,
+     "log_loss": 2.3041235230307913,
+     "top3": 0.5285116982474869
+    },
+    "merged_history": {
+     "n": 11241,
+     "accuracy": 0.21572813806600835,
+     "macro_f1": 0.07020197612204838,
+     "weighted_f1": 0.14537583041894034,
+     "log_loss": 2.302929866066343,
+     "top3": 0.5278000177920114
+    }
+   }
+  },
+  "ransomfeed": {
+   "delta": {
+    "single_source": {
+     "n": 10935,
+     "accuracy": 0.6666666666666666,
+     "macro_f1": 0.42280702224755146,
+     "weighted_f1": 0.6086306620833432,
+     "log_loss": 0.7431824035113515,
+     "top3": 1.0
+    },
+    "merged_history": {
+     "n": 10935,
+     "accuracy": 0.6644718792866942,
+     "macro_f1": 0.4079932222572496,
+     "weighted_f1": 0.600816225460287,
+     "log_loss": 0.7502406421267036,
+     "top3": 1.0
+    }
+   },
+   "country": {
+    "single_source": {
+     "n": 10941,
+     "accuracy": 0.4619321817018554,
+     "macro_f1": 0.033660611931732,
+     "weighted_f1": 0.2949352758725562,
+     "log_loss": 2.1789446817015894,
+     "top3": 0.6454620235810254
+    },
+    "merged_history": {
+     "n": 10941,
+     "accuracy": 0.46275477561466044,
+     "macro_f1": 0.03410010648416593,
+     "weighted_f1": 0.29678644788694786,
+     "log_loss": 2.235946870215784,
+     "top3": 0.6414404533406453
+    }
+   },
+   "sector": {
+    "single_source": {
+     "n": 10838,
+     "accuracy": 0.21157040044288614,
+     "macro_f1": 0.05401556969127696,
+     "weighted_f1": 0.120065877893587,
+     "log_loss": 2.3314965073014213,
+     "top3": 0.5285107953496955
+    },
+    "merged_history": {
+     "n": 10838,
+     "accuracy": 0.21415390293412068,
+     "macro_f1": 0.06656562210619124,
+     "weighted_f1": 0.14324114181517147,
+     "log_loss": 2.3013884354769614,
+     "top3": 0.5290644030263887
+    }
+   }
+  },
+  "ransomlook": {
+   "delta": {
+    "single_source": {
+     "n": 11718,
+     "accuracy": 0.6691414917221369,
+     "macro_f1": 0.42476509590663153,
+     "weighted_f1": 0.6096733902905337,
+     "log_loss": 0.7384115848896176,
+     "top3": 1.0
+    },
+    "merged_history": {
+     "n": 11718,
+     "accuracy": 0.6691414917221369,
+     "macro_f1": 0.41584912210582564,
+     "weighted_f1": 0.6060890254566953,
+     "log_loss": 0.73991294763265,
+     "top3": 1.0
+    }
+   },
+   "country": {
+    "single_source": {
+     "n": 10533,
+     "accuracy": 0.4592233931453527,
+     "macro_f1": 0.020303481856150437,
+     "weighted_f1": 0.2890388487500417,
+     "log_loss": 3.465735902799727,
+     "top3": 0.1257951200987373
+    },
+    "merged_history": {
+     "n": 10533,
+     "accuracy": 0.4592233931453527,
+     "macro_f1": 0.020969345729628688,
+     "weighted_f1": 0.29055718254973656,
+     "log_loss": 2.2133000614244516,
+     "top3": 0.6435013766258426
+    }
+   },
+   "sector": {
+    "single_source": {
+     "n": 10557,
+     "accuracy": 0.04082599223264185,
+     "macro_f1": 0.006034555179076475,
+     "weighted_f1": 0.0032027671372895227,
+     "log_loss": 2.639057329615258,
+     "top3": 0.17997537179122858
+    },
+    "merged_history": {
+     "n": 10557,
+     "accuracy": 0.21436014019134222,
+     "macro_f1": 0.06633083146087132,
+     "weighted_f1": 0.14321673012242603,
+     "log_loss": 2.3035563779935018,
+     "top3": 0.5284645259069811
+    }
+   }
+  }
+ }
+}

@@ -1,0 +1,415 @@
+version,group,unique_id,model,MAE,MASE
+enriched,country,country:AU,Naive,2.453125,1.4606393129770991
+enriched,country,country:AU,SeasonalNaive,2.734375,1.628101145038168
+enriched,country,country:AU,HistoricAverage,2.110359538383112,1.2565499541517766
+enriched,country,country:AU,AutoETS,2.099583003038995,1.2501333911224548
+enriched,country,country:AU,AutoARIMA,2.0887505617483106,1.2436835405829636
+enriched,country,country:AU,AutoTheta,2.06999876336126,1.232518347650216
+enriched,country,country:AU,LightGBM,2.0994179780809374,1.250035131987123
+enriched,country,country:AU,NHITS,2.1561655290424824,1.2838237501168979
+enriched,country,country:AU,Chronos-Bolt,2.0769690182060003,1.23666857572571
+enriched,country,country:BR,Naive,2.046875,1.0234375
+enriched,country,country:BR,SeasonalNaive,2.390625,1.1953125
+enriched,country,country:BR,HistoricAverage,2.138681985534907,1.0693409927674535
+enriched,country,country:BR,AutoETS,1.7546312456366593,0.8773156228183296
+enriched,country,country:BR,AutoARIMA,1.6968419354425008,0.8484209677212504
+enriched,country,country:BR,AutoTheta,1.6495364053166393,0.8247682026583196
+enriched,country,country:BR,LightGBM,1.6411617002292715,0.8205808501146358
+enriched,country,country:BR,NHITS,1.9375458769500256,0.9687729384750128
+enriched,country,country:BR,Chronos-Bolt,1.7248526494950056,0.8624263247475028
+enriched,country,country:CA,Naive,5.046875,1.6540178571428572
+enriched,country,country:CA,SeasonalNaive,4.84375,1.5874474789915967
+enriched,country,country:CA,HistoricAverage,4.139219953287583,1.3565510771278633
+enriched,country,country:CA,AutoETS,3.758529121026311,1.2317868547901356
+enriched,country,country:CA,AutoARIMA,3.813580001949514,1.2498287401347148
+enriched,country,country:CA,AutoTheta,3.630953292723941,1.189976289212048
+enriched,country,country:CA,LightGBM,3.9147018924888894,1.2829695277904765
+enriched,country,country:CA,NHITS,3.602324992418289,1.180593905078263
+enriched,country,country:CA,Chronos-Bolt,3.5989458337426186,1.1794864497139674
+enriched,country,country:DE,Naive,3.921875,1.511892504118616
+enriched,country,country:DE,SeasonalNaive,4.0,1.5420098846787478
+enriched,country,country:DE,HistoricAverage,4.270672994273539,1.6463549928500958
+enriched,country,country:DE,AutoETS,2.8373570082394677,1.0938081382669447
+enriched,country,country:DE,AutoARIMA,2.833599386639307,1.0923595658543621
+enriched,country,country:DE,AutoTheta,2.80115047221156,1.0798504291556918
+enriched,country,country:DE,LightGBM,2.9368566869136687,1.132165510276439
+enriched,country,country:DE,NHITS,3.1432601623237133,1.211734560105023
+enriched,country,country:DE,Chronos-Bolt,3.3403983525931835,1.2877318196158236
+enriched,country,country:ES,Naive,1.78125,1.1174597855227881
+enriched,country,country:ES,SeasonalNaive,2.5625,1.6075737265415548
+enriched,country,country:ES,HistoricAverage,2.4785282155233146,1.554894376494519
+enriched,country,country:ES,AutoETS,1.7043244851335926,1.069200883435015
+enriched,country,country:ES,AutoARIMA,1.6780205545742923,1.0526992219045157
+enriched,country,country:ES,AutoTheta,1.6371430961650582,1.0270549182375968
+enriched,country,country:ES,LightGBM,1.6355557843675428,1.0260591247774933
+enriched,country,country:ES,NHITS,1.6657934449613094,1.0450285954985157
+enriched,country,country:ES,Chronos-Bolt,1.8553076963871717,1.163919573604821
+enriched,country,country:FR,Naive,3.203125,1.6996173469387756
+enriched,country,country:FR,SeasonalNaive,3.8125,2.0229591836734695
+enriched,country,country:FR,HistoricAverage,3.260914701278171,1.7302812700659684
+enriched,country,country:FR,AutoETS,2.6672626653141878,1.4152822305748751
+enriched,country,country:FR,AutoARIMA,2.554619821518128,1.3555125583565577
+enriched,country,country:FR,AutoTheta,2.6710987015823653,1.417317678390643
+enriched,country,country:FR,LightGBM,2.7371007237978677,1.4523391595662156
+enriched,country,country:FR,NHITS,2.7303690016269684,1.4487672253530852
+enriched,country,country:FR,Chronos-Bolt,2.8291307240724564,1.5011714046098747
+enriched,country,country:GB,Naive,3.265625,1.0869932432432432
+enriched,country,country:GB,SeasonalNaive,3.71875,1.2378200568990043
+enriched,country,country:GB,HistoricAverage,3.382785022964385,1.1259910318259831
+enriched,country,country:GB,AutoETS,2.8215380775288357,0.9391748366169951
+enriched,country,country:GB,AutoARIMA,2.8155237769558115,0.9371729214902701
+enriched,country,country:GB,AutoTheta,2.86422098054256,0.9533822324992305
+enriched,country,country:GB,LightGBM,3.1015174478755645,1.0323685388376702
+enriched,country,country:GB,NHITS,3.3204169906675816,1.1052312600515137
+enriched,country,country:GB,Chronos-Bolt,3.0336099714040756,1.0097649122454533
+enriched,country,country:IN,Naive,2.328125,1.4298720472440944
+enriched,country,country:IN,SeasonalNaive,2.546875,1.564222440944882
+enriched,country,country:IN,HistoricAverage,2.5933649037879016,1.5927752952398135
+enriched,country,country:IN,AutoETS,2.152333619541875,1.3219056875926478
+enriched,country,country:IN,AutoARIMA,2.1803998799852504,1.3391432333767679
+enriched,country,country:IN,AutoTheta,2.1563425103594245,1.3243678410081505
+enriched,country,country:IN,LightGBM,2.1974259495103565,1.3496001894630536
+enriched,country,country:IN,NHITS,2.2462946511805058,1.3796140377329091
+enriched,country,country:IN,Chronos-Bolt,2.3351099686697125,1.4341620280018708
+enriched,country,country:IT,Naive,4.109375,1.437359865470852
+enriched,country,country:IT,SeasonalNaive,4.390625,1.5357343049327354
+enriched,country,country:IT,HistoricAverage,3.5083761929079857,1.2271450360844076
+enriched,country,country:IT,AutoETS,3.5479641535440547,1.2409919460826737
+enriched,country,country:IT,AutoARIMA,3.5798881390660178,1.2521581831710735
+enriched,country,country:IT,AutoTheta,3.517854615017887,1.230460358616122
+enriched,country,country:IT,LightGBM,3.5390064827251733,1.2378587697424372
+enriched,country,country:IT,NHITS,3.638775162398815,1.2727554379690922
+enriched,country,country:IT,Chronos-Bolt,3.672680800780654,1.2846148092416636
+enriched,country,country:US,Naive,21.6875,1.1259984468604394
+enriched,country,country:US,SeasonalNaive,23.953125,1.2436279676059463
+enriched,country,country:US,HistoricAverage,42.12467817266516,2.187081138762735
+enriched,country,country:US,AutoETS,19.19587316746835,0.9966350834674048
+enriched,country,country:US,AutoARIMA,20.03869466799312,1.0403937324851098
+enriched,country,country:US,AutoTheta,18.970883478187073,0.9849537905249112
+enriched,country,country:US,LightGBM,23.621972332963182,1.2264347738880375
+enriched,country,country:US,NHITS,21.05826634168625,1.0933291155878815
+enriched,country,country:US,Chronos-Bolt,19.045436799526215,0.9888245420654834
+enriched,country,country:other,Naive,16.984375,1.7695208147818344
+enriched,country,country:other,SeasonalNaive,15.421875,1.606731411398041
+enriched,country,country:other,HistoricAverage,32.76582148159685,3.4137142594361816
+enriched,country,country:other,AutoETS,13.51018318526285,1.4075613826142062
+enriched,country,country:other,AutoARIMA,13.282871494304214,1.3838788645000828
+enriched,country,country:other,AutoTheta,13.30866961751322,1.3865666475948768
+enriched,country,country:other,LightGBM,21.521168242180817,2.242187608490789
+enriched,country,country:other,NHITS,14.570566534996033,1.518037653245357
+enriched,country,country:other,Chronos-Bolt,14.368761271238327,1.4970125278137885
+enriched,gang,gang:akira,Naive,6.640625,2.275118960468521
+enriched,gang,gang:akira,SeasonalNaive,5.90625,2.02351756954612
+enriched,gang,gang:akira,HistoricAverage,8.105371149341448,2.77694999845666
+enriched,gang,gang:akira,AutoETS,5.008686444788345,1.7160067761061095
+enriched,gang,gang:akira,AutoARIMA,5.001494058770826,1.7135426204280721
+enriched,gang,gang:akira,AutoTheta,5.053980803698263,1.7315249019991121
+enriched,gang,gang:akira,LightGBM,5.696832073415134,1.9517697001158734
+enriched,gang,gang:akira,NHITS,5.276390820741653,1.807723941513246
+enriched,gang,gang:akira,Chronos-Bolt,5.199953451752663,1.7815360288581599
+enriched,gang,gang:babuk2,Naive,0.0,0.0
+enriched,gang,gang:babuk2,SeasonalNaive,0.0,0.0
+enriched,gang,gang:babuk2,HistoricAverage,0.6825627097865303,0.7829395788727848
+enriched,gang,gang:babuk2,AutoETS,0.26530360718748014,0.30431884353858013
+enriched,gang,gang:babuk2,AutoARIMA,1.2593059182329696,1.4444979650319356
+enriched,gang,gang:babuk2,AutoTheta,0.2739544855691751,0.3142419099175832
+enriched,gang,gang:babuk2,LightGBM,0.9112438071140385,1.0452502493366913
+enriched,gang,gang:babuk2,NHITS,0.0215746810008568,0.024747428206865152
+enriched,gang,gang:babuk2,Chronos-Bolt,0.0010683685541152954,0.0012254815767793095
+enriched,gang,gang:babukbjorka,Naive,0.0,0.0
+enriched,gang,gang:babukbjorka,SeasonalNaive,0.0,0.0
+enriched,gang,gang:babukbjorka,HistoricAverage,0.7697790560370312,0.7382307340683004
+enriched,gang,gang:babukbjorka,AutoETS,0.21770694353486597,0.20878452781622392
+enriched,gang,gang:babukbjorka,AutoARIMA,1.284325703946331,1.2316894046042681
+enriched,gang,gang:babukbjorka,AutoTheta,0.22720145964244431,0.2178899244111966
+enriched,gang,gang:babukbjorka,LightGBM,0.8948802059812441,0.8582047877033242
+enriched,gang,gang:babukbjorka,NHITS,0.04165703528451559,0.03994977974006823
+enriched,gang,gang:babukbjorka,Chronos-Bolt,0.0018316814675927162,0.0017566125549864572
+enriched,gang,gang:bianlian,Naive,0.0,0.0
+enriched,gang,gang:bianlian,SeasonalNaive,0.0,0.0
+enriched,gang,gang:bianlian,HistoricAverage,1.7860390906080874,0.8426071516175251
+enriched,gang,gang:bianlian,AutoETS,0.17854239130305946,0.08423169267120144
+enriched,gang,gang:bianlian,AutoARIMA,0.1338601802886309,0.06315177860391054
+enriched,gang,gang:bianlian,AutoTheta,0.11720841527416348,0.05529590559305293
+enriched,gang,gang:bianlian,LightGBM,0.8404906485298159,0.39652179789511477
+enriched,gang,gang:bianlian,NHITS,0.04302567085142073,0.02029840116780736
+enriched,gang,gang:bianlian,Chronos-Bolt,0.007516194134950638,0.003545946426569454
+enriched,gang,gang:blackbasta,Naive,0.0,0.0
+enriched,gang,gang:blackbasta,SeasonalNaive,0.0,0.0
+enriched,gang,gang:blackbasta,HistoricAverage,2.1500725358275705,0.7377081721167911
+enriched,gang,gang:blackbasta,AutoETS,0.04308958530113363,0.01478440316783764
+enriched,gang,gang:blackbasta,AutoARIMA,0.03371732915531256,0.011568702378802257
+enriched,gang,gang:blackbasta,AutoTheta,0.04909257853802035,0.016844081199262114
+enriched,gang,gang:blackbasta,LightGBM,0.822357929189248,0.28215799916463935
+enriched,gang,gang:blackbasta,NHITS,0.006071350783713569,0.002083132087080609
+enriched,gang,gang:blackbasta,Chronos-Bolt,0.0009784102439880371,0.0003357008755032268
+enriched,gang,gang:clop,Naive,12.078125,1.6625183823529412
+enriched,gang,gang:clop,SeasonalNaive,12.046875,1.6582169117647059
+enriched,gang,gang:clop,HistoricAverage,8.893709367083034,1.2241929364102528
+enriched,gang,gang:clop,AutoETS,11.423760084352859,1.5724469763168052
+enriched,gang,gang:clop,AutoARIMA,10.356455354275974,1.425535619353281
+enriched,gang,gang:clop,AutoTheta,11.249421394228296,1.5484497683820124
+enriched,gang,gang:clop,LightGBM,10.103206856388184,1.39067670846755
+enriched,gang,gang:clop,NHITS,10.42566914728377,1.435062694390825
+enriched,gang,gang:clop,Chronos-Bolt,7.276430863887072,1.0015793071468087
+enriched,gang,gang:dispossessor,Naive,0.0,0.0
+enriched,gang,gang:dispossessor,SeasonalNaive,0.0,0.0
+enriched,gang,gang:dispossessor,HistoricAverage,1.2968691485944075,0.45158836424269544
+enriched,gang,gang:dispossessor,AutoETS,1.2959211591658928,0.4512582607809805
+enriched,gang,gang:dispossessor,AutoARIMA,0.0,0.0
+enriched,gang,gang:dispossessor,AutoTheta,0.009476488879590116,0.003299848806285844
+enriched,gang,gang:dispossessor,LightGBM,0.8116617000401776,0.28263219912113324
+enriched,gang,gang:dispossessor,NHITS,0.0014310240730992518,0.0004983030254542038
+enriched,gang,gang:dispossessor,Chronos-Bolt,0.0033225324004888535,0.0011569532465987972
+enriched,gang,gang:dragonforce,Naive,4.890625,4.849179025423729
+enriched,gang,gang:dragonforce,SeasonalNaive,5.984375,5.9336599576271185
+enriched,gang,gang:dragonforce,HistoricAverage,5.920935772416328,5.87075835061619
+enriched,gang,gang:dragonforce,AutoETS,5.248092186229645,5.203616828719224
+enriched,gang,gang:dragonforce,AutoARIMA,5.026085259386062,4.983491316509909
+enriched,gang,gang:dragonforce,AutoTheta,5.021510815095789,4.9789556386966725
+enriched,gang,gang:dragonforce,LightGBM,4.855375651856738,4.814228400569816
+enriched,gang,gang:dragonforce,NHITS,4.9216174855828285,4.879908862823652
+enriched,gang,gang:dragonforce,Chronos-Bolt,4.97322534583509,4.931079368328013
+enriched,gang,gang:fog,Naive,0.0,0.0
+enriched,gang,gang:fog,SeasonalNaive,0.0,0.0
+enriched,gang,gang:fog,HistoricAverage,0.773571071091401,0.8787166535698439
+enriched,gang,gang:fog,AutoETS,0.0014521921439491358,0.0016495774839033871
+enriched,gang,gang:fog,AutoARIMA,0.2627242157760112,0.2984343033572166
+enriched,gang,gang:fog,AutoTheta,0.001462784778267949,0.00166160989376068
+enriched,gang,gang:fog,LightGBM,0.841540277365791,0.9559243927358985
+enriched,gang,gang:fog,NHITS,0.09261479238375614,0.10520321076601426
+enriched,gang,gang:fog,Chronos-Bolt,0.003627135418355465,0.004120144115996014
+enriched,gang,gang:funksec,Naive,0.0,0.0
+enriched,gang,gang:funksec,SeasonalNaive,0.0,0.0
+enriched,gang,gang:funksec,HistoricAverage,0.8190752517438364,1.6812597272636642
+enriched,gang,gang:funksec,AutoETS,1.7418871078475774e-09,3.5754524845292378e-09
+enriched,gang,gang:funksec,AutoARIMA,0.31736582855276607,0.6514351217662041
+enriched,gang,gang:funksec,AutoTheta,1.7038049595877146e-09,3.497283864416888e-09
+enriched,gang,gang:funksec,LightGBM,0.8926716313813825,1.8323259802038905
+enriched,gang,gang:funksec,NHITS,0.013364451189772808,0.027432294547428397
+enriched,gang,gang:funksec,Chronos-Bolt,0.001142699271440506,0.0023455406097989333
+enriched,gang,gang:hunters,Naive,0.0,0.0
+enriched,gang,gang:hunters,SeasonalNaive,0.0,0.0
+enriched,gang,gang:hunters,HistoricAverage,1.1376045163108837,0.9179291614370578
+enriched,gang,gang:hunters,AutoETS,0.1268286382605541,0.10233759087230916
+enriched,gang,gang:hunters,AutoARIMA,0.12188332275312773,0.09834723284217892
+enriched,gang,gang:hunters,AutoTheta,0.13088108897951342,0.10560749938346944
+enriched,gang,gang:hunters,LightGBM,0.9859382771271394,0.7955501960267263
+enriched,gang,gang:hunters,NHITS,0.06606975035720097,0.05331145373650009
+enriched,gang,gang:hunters,Chronos-Bolt,0.008968422189354897,0.00723658893899671
+enriched,gang,gang:incransom,Naive,5.09375,3.2566598360655736
+enriched,gang,gang:incransom,SeasonalNaive,5.484375,3.5064036885245904
+enriched,gang,gang:incransom,HistoricAverage,7.115240657333291,4.549088289114727
+enriched,gang,gang:incransom,AutoETS,4.3721912886261505,2.79533541403967
+enriched,gang,gang:incransom,AutoARIMA,4.694046934904442,3.0011119747749713
+enriched,gang,gang:incransom,AutoTheta,4.362600864565415,2.789203831443462
+enriched,gang,gang:incransom,LightGBM,4.688497621062954,2.997564052810741
+enriched,gang,gang:incransom,NHITS,4.650995463132858,2.9735872633144504
+enriched,gang,gang:incransom,Chronos-Bolt,4.444505549967289,2.841569122110234
+enriched,gang,gang:killsec,Naive,2.4375,2.416843220338983
+enriched,gang,gang:killsec,SeasonalNaive,1.671875,1.6577065677966103
+enriched,gang,gang:killsec,HistoricAverage,1.318402460803597,1.307229558593397
+enriched,gang,gang:killsec,AutoETS,1.7047280104124884,1.69028116286662
+enriched,gang,gang:killsec,AutoARIMA,1.7034080922288313,1.688972430430282
+enriched,gang,gang:killsec,AutoTheta,1.7298740235061314,1.7152140741543846
+enriched,gang,gang:killsec,LightGBM,2.031469680440198,2.0142538356907047
+enriched,gang,gang:killsec,NHITS,1.469330558553338,1.4568786046672928
+enriched,gang,gang:killsec,Chronos-Bolt,1.2906648023054004,1.2797269649977274
+enriched,gang,gang:lockbit3,Naive,0.015625,0.0013807590634441088
+enriched,gang,gang:lockbit3,SeasonalNaive,0.03125,0.0027615181268882175
+enriched,gang,gang:lockbit3,HistoricAverage,14.229443755437059,1.2574357397176252
+enriched,gang,gang:lockbit3,AutoETS,0.1659604851794067,0.014665692421443038
+enriched,gang,gang:lockbit3,AutoARIMA,0.15986109164308765,0.014126697675408802
+enriched,gang,gang:lockbit3,AutoTheta,0.16473379846718791,0.014557291858505276
+enriched,gang,gang:lockbit3,LightGBM,1.1467399804417262,0.10133578377015254
+enriched,gang,gang:lockbit3,NHITS,0.12072522088874393,0.010668316347419214
+enriched,gang,gang:lockbit3,Chronos-Bolt,0.018537163734436035,0.0016381028375596798
+enriched,gang,gang:lynx,Naive,3.0625,3.1157608695652175
+enriched,gang,gang:lynx,SeasonalNaive,3.078125,3.1316576086956522
+enriched,gang,gang:lynx,HistoricAverage,2.3173618699333023,2.35766381549736
+enriched,gang,gang:lynx,AutoETS,2.400078368844397,2.441818862215604
+enriched,gang,gang:lynx,AutoARIMA,2.399671208818442,2.4414046211457197
+enriched,gang,gang:lynx,AutoTheta,2.432242035699615,2.474541897190043
+enriched,gang,gang:lynx,LightGBM,2.747010466605261,2.794784561676657
+enriched,gang,gang:lynx,NHITS,2.255764921195805,2.2949956154774713
+enriched,gang,gang:lynx,Chronos-Bolt,1.9273232333362103,1.9608418982637965
+enriched,gang,gang:medusa,Naive,2.09375,1.2466603053435115
+enriched,gang,gang:medusa,SeasonalNaive,1.765625,1.0512881679389312
+enriched,gang,gang:medusa,HistoricAverage,1.9660430426453117,1.1706210482926283
+enriched,gang,gang:medusa,AutoETS,1.5639103126876703,0.9311832396155594
+enriched,gang,gang:medusa,AutoARIMA,1.6583935916367334,0.9874404591424825
+enriched,gang,gang:medusa,AutoTheta,1.5875692327800122,0.9452702302048928
+enriched,gang,gang:medusa,LightGBM,2.0045309957001556,1.19353753942452
+enriched,gang,gang:medusa,NHITS,1.5071002471322572,0.8973573990558478
+enriched,gang,gang:medusa,Chronos-Bolt,1.4796371683478355,0.8810053368788638
+enriched,gang,gang:other,Naive,37.015625,1.228778018158604
+enriched,gang,gang:other,SeasonalNaive,42.171875,1.399945914314087
+enriched,gang,gang:other,HistoricAverage,66.5114581950854,2.2079275383245824
+enriched,gang,gang:other,AutoETS,34.28369441768634,1.1380883095103707
+enriched,gang,gang:other,AutoARIMA,34.16112695916243,1.1340195358836727
+enriched,gang,gang:other,AutoTheta,33.24628660134799,1.1036503141885983
+enriched,gang,gang:other,LightGBM,40.11867240997572,1.331787394514728
+enriched,gang,gang:other,NHITS,35.19149053096771,1.168223689068867
+enriched,gang,gang:other,Chronos-Bolt,36.51757848262787,1.2122447673336532
+enriched,gang,gang:play,Naive,5.125,1.6428082191780822
+enriched,gang,gang:play,SeasonalNaive,5.109375,1.6377996575342466
+enriched,gang,gang:play,HistoricAverage,3.7431670929367575,1.1998645202016456
+enriched,gang,gang:play,AutoETS,4.0089031228714305,1.2850456585642667
+enriched,gang,gang:play,AutoARIMA,4.130521605666291,1.3240302133231674
+enriched,gang,gang:play,AutoTheta,4.114526480017293,1.3189030086630775
+enriched,gang,gang:play,LightGBM,4.537711163153692,1.4545539892848822
+enriched,gang,gang:play,NHITS,4.330022554844618,1.3879798326488226
+enriched,gang,gang:play,Chronos-Bolt,3.8977187387645245,1.2494057326998613
+enriched,gang,gang:qilin,Naive,11.265625,5.6328125
+enriched,gang,gang:qilin,SeasonalNaive,13.6875,6.84375
+enriched,gang,gang:qilin,HistoricAverage,22.093799898580087,11.046899949290044
+enriched,gang,gang:qilin,AutoETS,10.710321149546743,5.355160574773372
+enriched,gang,gang:qilin,AutoARIMA,11.096756254403616,5.548378127201808
+enriched,gang,gang:qilin,AutoTheta,9.798127487415647,4.899063743707823
+enriched,gang,gang:qilin,LightGBM,11.219181734960564,5.609590867480282
+enriched,gang,gang:qilin,NHITS,9.992265686392784,4.996132843196392
+enriched,gang,gang:qilin,Chronos-Bolt,10.481997638940811,5.240998819470406
+enriched,gang,gang:ransomhub,Naive,0.0,0.0
+enriched,gang,gang:ransomhub,SeasonalNaive,0.0,0.0
+enriched,gang,gang:ransomhub,HistoricAverage,3.1815006306161053,1.6114094103120533
+enriched,gang,gang:ransomhub,AutoETS,0.01860653676681916,0.009424090050726587
+enriched,gang,gang:ransomhub,AutoARIMA,0.017198381758034537,0.00871086868264087
+enriched,gang,gang:ransomhub,AutoTheta,0.018697432967202665,0.009470128385985765
+enriched,gang,gang:ransomhub,LightGBM,1.0577303150466746,0.5357335361924715
+enriched,gang,gang:ransomhub,NHITS,0.056576511577077326,0.02865563573384436
+enriched,gang,gang:ransomhub,Chronos-Bolt,3.939121961593628e-05,1.995139694833136e-05
+enriched,gang,gang:safepay,Naive,6.25,4.733009708737864
+enriched,gang,gang:safepay,SeasonalNaive,6.171875,4.673847087378641
+enriched,gang,gang:safepay,HistoricAverage,4.628567615814928,3.505128874112276
+enriched,gang,gang:safepay,AutoETS,5.087549262043976,3.8527072081498073
+enriched,gang,gang:safepay,AutoARIMA,4.875215099501165,3.691910463699912
+enriched,gang,gang:safepay,AutoTheta,4.825370286573772,3.65416390633742
+enriched,gang,gang:safepay,LightGBM,4.694693377010451,3.5552046932700505
+enriched,gang,gang:safepay,NHITS,5.1622886238619685,3.909305948167316
+enriched,gang,gang:safepay,Chronos-Bolt,4.426439709030092,3.352061138877157
+enriched,sector,sector:Agriculture and Food Production,Naive,4.296875,1.2727452531645569
+enriched,sector,sector:Agriculture and Food Production,SeasonalNaive,3.640625,1.078362341772152
+enriched,sector,sector:Agriculture and Food Production,HistoricAverage,3.534409945802393,1.0469011738199494
+enriched,sector,sector:Agriculture and Food Production,AutoETS,3.129246143842509,0.9268906299482875
+enriched,sector,sector:Agriculture and Food Production,AutoARIMA,3.042191221168766,0.9011047414601154
+enriched,sector,sector:Agriculture and Food Production,AutoTheta,2.8890399323510456,0.8557409419875249
+enriched,sector,sector:Agriculture and Food Production,LightGBM,3.1550449706855597,0.9345323077726848
+enriched,sector,sector:Agriculture and Food Production,NHITS,3.3159673400223255,0.9821979209686382
+enriched,sector,sector:Agriculture and Food Production,Chronos-Bolt,3.022097561508417,0.8951529485986957
+enriched,sector,sector:Education,Naive,3.5,1.1617021276595745
+enriched,sector,sector:Education,SeasonalNaive,3.546875,1.1772606382978723
+enriched,sector,sector:Education,HistoricAverage,3.0566470127926295,1.0145466680758515
+enriched,sector,sector:Education,AutoETS,2.7053604970656275,0.8979494415792296
+enriched,sector,sector:Education,AutoARIMA,2.706651302871566,0.8983778792509879
+enriched,sector,sector:Education,AutoTheta,2.7431772637191005,0.9105013896599568
+enriched,sector,sector:Education,LightGBM,2.848859442390272,0.9455788787508137
+enriched,sector,sector:Education,NHITS,2.9447392113506794,0.9774028020653319
+enriched,sector,sector:Education,Chronos-Bolt,2.7506014853715897,0.9129655993999319
+enriched,sector,sector:Energy & Utilities,Naive,2.9375,1.114059967585089
+enriched,sector,sector:Energy & Utilities,SeasonalNaive,3.359375,1.2740579416531606
+enriched,sector,sector:Energy & Utilities,HistoricAverage,3.1452372861247007,1.1928452592434036
+enriched,sector,sector:Energy & Utilities,AutoETS,2.3930245193476054,0.907565214793095
+enriched,sector,sector:Energy & Utilities,AutoARIMA,2.40126444550559,0.9106902435142756
+enriched,sector,sector:Energy & Utilities,AutoTheta,2.485872917514592,0.9427783836279003
+enriched,sector,sector:Energy & Utilities,LightGBM,2.504499323799301,0.949842531230205
+enriched,sector,sector:Energy & Utilities,NHITS,2.5713805593550205,0.9752075379077387
+enriched,sector,sector:Energy & Utilities,Chronos-Bolt,2.5001045167446136,0.9481757810668389
+enriched,sector,sector:Financial Services,Naive,4.0,0.9639546858908341
+enriched,sector,sector:Financial Services,SeasonalNaive,5.3125,1.280252317198764
+enriched,sector,sector:Financial Services,HistoricAverage,5.469179444859529,1.3180102884625435
+enriched,sector,sector:Financial Services,AutoETS,3.9610862309833643,0.9545769083935193
+enriched,sector,sector:Financial Services,AutoARIMA,3.959057376416607,0.954087977426865
+enriched,sector,sector:Financial Services,AutoTheta,3.957085201610195,0.9536127056403558
+enriched,sector,sector:Financial Services,LightGBM,4.8449981737287455,1.1675896731745894
+enriched,sector,sector:Financial Services,NHITS,4.184475310146809,1.0084111458026295
+enriched,sector,sector:Financial Services,Chronos-Bolt,4.0451885759830475,0.9748446207827323
+enriched,sector,sector:Government & Defense,Naive,3.71875,1.1556274900398407
+enriched,sector,sector:Government & Defense,SeasonalNaive,4.234375,1.3158615537848606
+enriched,sector,sector:Government & Defense,HistoricAverage,3.59887964554688,1.1183769416440503
+enriched,sector,sector:Government & Defense,AutoETS,3.119963992021921,0.9695505632578081
+enriched,sector,sector:Government & Defense,AutoARIMA,3.3417033605860245,1.0384576180307168
+enriched,sector,sector:Government & Defense,AutoTheta,3.2092665098901403,0.9973019433124738
+enriched,sector,sector:Government & Defense,LightGBM,3.3027098367448837,1.0263401086298842
+enriched,sector,sector:Government & Defense,NHITS,3.3245673961937428,1.0331324976219598
+enriched,sector,sector:Government & Defense,Chronos-Bolt,3.3046972304582596,1.0269577050826464
+enriched,sector,sector:Healthcare,Naive,5.578125,1.1706558295964127
+enriched,sector,sector:Healthcare,SeasonalNaive,6.171875,1.2952634529147982
+enriched,sector,sector:Healthcare,HistoricAverage,8.568261388012058,1.7981822105783152
+enriched,sector,sector:Healthcare,AutoETS,4.878815309154835,1.023894872055813
+enriched,sector,sector:Healthcare,AutoARIMA,4.6883696558740375,0.9839269053583182
+enriched,sector,sector:Healthcare,AutoTheta,4.770160489299228,1.0010919771264748
+enriched,sector,sector:Healthcare,LightGBM,5.279676305393249,1.1080217537775967
+enriched,sector,sector:Healthcare,NHITS,5.305237978696823,1.1133862663812166
+enriched,sector,sector:Healthcare,Chronos-Bolt,4.9343627989292145,1.0355523721519606
+enriched,sector,sector:Hospitality,Naive,3.328125,1.6090521694214874
+enriched,sector,sector:Hospitality,SeasonalNaive,3.265625,1.578835227272727
+enriched,sector,sector:Hospitality,HistoricAverage,3.0634442773904826,1.4810866960937457
+enriched,sector,sector:Hospitality,AutoETS,2.104005831390034,1.0172259598042726
+enriched,sector,sector:Hospitality,AutoARIMA,2.0986079942626454,1.014616261688965
+enriched,sector,sector:Hospitality,AutoTheta,2.1322720978731793,1.030891882029595
+enriched,sector,sector:Hospitality,LightGBM,2.279950117744,1.1022899329588758
+enriched,sector,sector:Hospitality,NHITS,2.2441138215363026,1.0849641203295346
+enriched,sector,sector:Hospitality,Chronos-Bolt,2.186028126627207,1.0568813670057156
+enriched,sector,sector:Manufacturing,Naive,9.078125,0.9236005434782608
+enriched,sector,sector:Manufacturing,SeasonalNaive,9.140625,0.9299592391304348
+enriched,sector,sector:Manufacturing,HistoricAverage,18.180890346676005,1.84970797440095
+enriched,sector,sector:Manufacturing,AutoETS,7.369679631051348,0.7497847972460936
+enriched,sector,sector:Manufacturing,AutoARIMA,7.360852500688508,0.7488867326787438
+enriched,sector,sector:Manufacturing,AutoTheta,7.230663635613501,0.7356414307537213
+enriched,sector,sector:Manufacturing,LightGBM,9.141068534725274,0.9300043639677018
+enriched,sector,sector:Manufacturing,NHITS,7.3396762907505035,0.7467322834937469
+enriched,sector,sector:Manufacturing,Chronos-Bolt,8.038846880197525,0.8178652912896612
+enriched,sector,sector:Other,Naive,3.5,1.9270588235294117
+enriched,sector,sector:Other,SeasonalNaive,4.375,2.4088235294117646
+enriched,sector,sector:Other,HistoricAverage,5.18789362456397,2.85639319564228
+enriched,sector,sector:Other,AutoETS,3.5939071435678307,1.978762991987935
+enriched,sector,sector:Other,AutoARIMA,3.515352253606024,1.9355115937501404
+enriched,sector,sector:Other,AutoTheta,3.5979179327168156,1.9809712853076114
+enriched,sector,sector:Other,LightGBM,3.3368544016563724,1.837232776441391
+enriched,sector,sector:Other,NHITS,3.954118674620986,2.177091223203084
+enriched,sector,sector:Other,Chronos-Bolt,3.7680329121649265,2.074634591639042
+enriched,sector,sector:Professional Services,Naive,12.421875,1.090292104276069
+enriched,sector,sector:Professional Services,SeasonalNaive,12.6875,1.113606526631658
+enriched,sector,sector:Professional Services,HistoricAverage,13.476637033988629,1.1828706173868488
+enriched,sector,sector:Professional Services,AutoETS,9.275363846145588,0.8141167066759443
+enriched,sector,sector:Professional Services,AutoARIMA,9.296130642674601,0.8159394487568855
+enriched,sector,sector:Professional Services,AutoTheta,9.206647731448955,0.8080853597745894
+enriched,sector,sector:Professional Services,LightGBM,12.375215216439937,1.0861966844137079
+enriched,sector,sector:Professional Services,NHITS,10.834946542978287,0.9510043102239006
+enriched,sector,sector:Professional Services,Chronos-Bolt,10.226019412279129,0.8975575928256999
+enriched,sector,sector:Retail & E-Commerce,Naive,6.453125,1.2520988805970148
+enriched,sector,sector:Retail & E-Commerce,SeasonalNaive,6.71875,1.3036380597014925
+enriched,sector,sector:Retail & E-Commerce,HistoricAverage,7.601885024498335,1.4749926166937066
+enriched,sector,sector:Retail & E-Commerce,AutoETS,5.161473016021359,1.0014798389295174
+enriched,sector,sector:Retail & E-Commerce,AutoARIMA,5.172066669787772,1.0035353239886722
+enriched,sector,sector:Retail & E-Commerce,AutoTheta,5.169396863843138,1.0030173019397133
+enriched,sector,sector:Retail & E-Commerce,LightGBM,7.01604348999718,1.3613218711934827
+enriched,sector,sector:Retail & E-Commerce,NHITS,5.201402552425861,1.0092273609184506
+enriched,sector,sector:Retail & E-Commerce,Chronos-Bolt,5.638985022902489,1.0941314223542142
+enriched,sector,sector:Technology,Naive,8.609375,1.3132944915254239
+enriched,sector,sector:Technology,SeasonalNaive,9.71875,1.482521186440678
+enriched,sector,sector:Technology,HistoricAverage,13.859180976688107,2.114112352376152
+enriched,sector,sector:Technology,AutoETS,7.904974230370013,1.205843526666612
+enriched,sector,sector:Technology,AutoARIMA,7.912692180301857,1.2070208410629952
+enriched,sector,sector:Technology,AutoTheta,7.875270548435617,1.2013124565410265
+enriched,sector,sector:Technology,LightGBM,9.94260641109881,1.5166687745743948
+enriched,sector,sector:Technology,NHITS,7.720433816313744,1.1776932940139608
+enriched,sector,sector:Technology,Chronos-Bolt,7.844085484743118,1.1965554129269165
+enriched,sector,sector:Transportation,Naive,3.5625,1.0826298701298702
+enriched,sector,sector:Transportation,SeasonalNaive,3.671875,1.1158685064935066
+enriched,sector,sector:Transportation,HistoricAverage,3.6000919900497683,1.094053929443696
+enriched,sector,sector:Transportation,AutoETS,2.9095284426869537,0.8841943579074639
+enriched,sector,sector:Transportation,AutoARIMA,2.911280110150224,0.8847266828248733
+enriched,sector,sector:Transportation,AutoTheta,2.951029658438437,0.8968064156812913
+enriched,sector,sector:Transportation,LightGBM,3.089934826170005,0.9390191549659496
+enriched,sector,sector:Transportation,NHITS,3.1663044318556786,0.9622275805899075
+enriched,sector,sector:Transportation,Chronos-Bolt,2.927183724939823,0.889559729397297
+enriched,total,total,Naive,49.34375,1.0523548578199053
+enriched,total,total,SeasonalNaive,48.578125,1.0360263625592419
+enriched,total,total,HistoricAverage,89.69827289273755,1.912996341314308
+enriched,total,total,AutoETS,41.27477586604925,0.8802677317403869
+enriched,total,total,AutoARIMA,41.85641748190254,0.8926724107514761
+enriched,total,total,AutoTheta,40.67169660136715,0.8674058516879251
+enriched,total,total,LightGBM,50.34299927210026,1.0736658612533232
+enriched,total,total,NHITS,46.13719189167023,0.9839685474526826
+enriched,total,total,Chronos-Bolt,42.98986220359802,0.9168454024464033

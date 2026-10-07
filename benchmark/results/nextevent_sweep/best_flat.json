@@ -1,0 +1,13 @@
+{
+  "model": "flat",
+  "best_val_loss": 1.7001297875188832,
+  "params": {
+    "lr": 0.0005769003139105099,
+    "hidden": 128,
+    "layers": 2,
+    "dropout": 0.1,
+    "weight_decay": 0.1,
+    "win": 32,
+    "loss": "ce"
+  }
+}

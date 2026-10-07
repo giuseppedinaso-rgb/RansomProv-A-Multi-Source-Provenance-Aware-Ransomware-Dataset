@@ -1,0 +1,13 @@
+{
+  "model": "RMTPP",
+  "mark": "country",
+  "best_valid_loglike": -3.4095834302686923,
+  "params": {
+    "lr": 0.008915703865999412,
+    "batch_size": 8,
+    "dropout": 0.0,
+    "hidden_size": 16,
+    "time_emb_size": 8
+  },
+  "n_trials": 20
+}

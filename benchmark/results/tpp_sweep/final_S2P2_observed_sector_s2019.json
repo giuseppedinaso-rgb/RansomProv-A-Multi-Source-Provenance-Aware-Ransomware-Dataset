@@ -1,0 +1,29 @@
+{
+  "model": "S2P2",
+  "version": "observed",
+  "mark": "sector",
+  "seed": 2019,
+  "params": {
+    "lr": 0.005858069152476555,
+    "batch_size": 16,
+    "dropout": 0.1,
+    "hidden_size": 64,
+    "num_layers": 2,
+    "spec_P": 32,
+    "spec_dropout_rate": 0.2,
+    "max_epoch": 100
+  },
+  "best_epoch": 93,
+  "valid": {
+    "loglike": 0.30859359744491693,
+    "num_events": 4651.0,
+    "acc": 0.19286175016125565,
+    "rmse": 180.06043468226255
+  },
+  "test": {
+    "loglike": 0.0518881460574381,
+    "num_events": 12831.0,
+    "acc": 0.18198113942794794,
+    "rmse": 982.4661386808917
+  }
+}

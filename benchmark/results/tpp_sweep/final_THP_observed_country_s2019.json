@@ -1,0 +1,30 @@
+{
+  "model": "THP",
+  "version": "observed",
+  "mark": "country",
+  "seed": 2019,
+  "params": {
+    "lr": 0.0007969615646469349,
+    "batch_size": 8,
+    "dropout": 0.0,
+    "hidden_size": 32,
+    "num_layers": 1,
+    "num_heads": 2,
+    "time_emb_size": 8,
+    "use_ln": false,
+    "max_epoch": 100
+  },
+  "best_epoch": 96,
+  "valid": {
+    "loglike": -7.933536415534798,
+    "num_events": 4651.0,
+    "acc": 0.4261449150720275,
+    "rmse": 11.683031329504685
+  },
+  "test": {
+    "loglike": -11.280476027030787,
+    "num_events": 12831.0,
+    "acc": 0.40207310420076375,
+    "rmse": 13.872902101526792
+  }
+}

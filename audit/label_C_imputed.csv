@@ -1,0 +1,271 @@
+row,event_id,attribute,value,victim,domain,discovered,gang,label_A,label_B,note,label_ai,note_ai,evidence_ai
+1,35356,sector,Healthcare,brunswickhospitalcenter.org,brunswickhospitalcenter.org,2024-09-13,3am,,,,correct,"Brunswick Hospital Center, psychiatric/medical hospital, Amityville NY",https://brunswickhospitalcenter.org
+2,36609,sector,Professional Services,Official Website of Vehicle Emissions Control (VEC Mexico),,2025-11-10,kazu,,,,unsure,VEC Mexico not identifiable; emissions testing could be Prof. Services or Government,
+3,29927,country,BG,unimasters.com,unimasters.com,2022-08-06,lockbit3,,,,correct,"Unimasters Logistics HQ Sofia, Bulgaria",https://projectcargo-weekly.com/2017/08/24/unimasters-logistics-bulgaria/
+4,36029,sector,Professional Services,Württemberger Medien,,2025-04-23,satanlock,,,,wrong,Other,https://www.hogapage.de/jobs/firma/wtv-wurttemberger-medien-gmbh-co-kg-heilbronn
+5,34576,sector,Professional Services,.u...,boltburdon.co,2022-05-15,lockbit3,,,,correct,"Bolt Burdon, UK law firm",https://www.boltburdon.co.uk
+6,36824,sector,Energy & Utilities,gedco.ps,gedco.ps,2026-03-12,eraleignapt73,,,,correct,Gaza Electricity Distribution Company,https://gedco.ps
+7,30923,country,US,Alexandria (LA),cityofalexandriala.com,2023-07-26,alphv,,,,correct,"City of Alexandria, Louisiana, USA",https://cityofalexandriala.com
+8,34459,sector,Other,rosagroup.com,rosagroup.com,2022-05-25,lockbit3,,,,wrong,Manufacturing,https://rosagroup.com
+9,34617,country,CH,Favoris Holding AG,favoris-ag.ch,2022-05-01,alphv,,,,correct,"Favoris AG, Swiss staffing/payrolling company",https://web.archive.org/web/2021/https://favoris-ag.ch/
+10,36861,country,EG,alx-pc.com,alx-pc.com,2026-04-27,eraleignapt73,,,,correct,"Alexandria Petroleum Company, Al Max, Alexandria, Egypt",https://web.archive.org/web/2026/https://alx-pc.com/
+11,34838,sector,Manufacturing,Refarmed Chemicals,,2022-11-17,izis,,,,wrong,Healthcare,https://www.refarmed.com
+12,33414,country,US,MORE THEN,alpsrx.com,2021-11-23,lv,,,,correct,"Assisted Living Pharmacy Service, Menomonee Falls WI",https://alpsrx.com
+13,190,country,US,Print Globe,printglobe.com,2023-05-23,8base,,,,correct,"PrintGlobe, Austin TX",https://printglobe.com
+14,30208,country,US,jtchapman.com,jtchapman.com,2022-10-10,lockbit3,,,,correct,"J.T. Chapman, power transmission reps, Dallas TX",https://jtchapman.com
+15,34994,sector,Professional Services,SwissReal Group,,2023-08-28,everest,,,,unsure,'SwissReal Group' not uniquely identifiable (UBS Swissreal fund / Swiss Real Management?),
+16,28691,country,US,atsair.com,atsair.com,2022-01-04,lockbit2,,,,correct,"ATS Air, HVAC contractor, Silicon Valley CA",https://atsair.com
+17,33520,sector,Transportation,Pa...,transaher.es,2022-01-30,lockbit3,,,,correct,"Transaher, Spanish logistics/transport company",https://transaher.es
+18,22012,country,US,www.neodesha.org,neodesha.org,2024-06-04,ransomhub,,,,correct,"City of Neodesha, Kansas",https://neodesha.org
+19,28351,country,AR,ENVASES GROUP,,2021-12-26,conti,,,,wrong,MX,https://www.inside.beer/news/detail/germany-party-keg-pioneer-bought-by-envases-group
+20,30002,country,US,thorguard.com,thorguard.com,2022-09-22,lockbit3,,,,correct,"Thor Guard, Sunrise FL",https://thorguard.com
+21,34486,country,EC,remar.com.ec,remar.com.ec,2022-05-20,lockbit3,,,,correct,Remar entities on .com.ec are Ecuadorian (Guayaquil/Quito),https://www.dunsguide.com/company/c0df03cfbba9ecfcaa2c258abeea488a/remar-representaciones-maritimas-del-ecuador-sa-remar
+22,36051,country,US,gervetusa.com,gervetusa.com,2025-04-23,satanlock,,,,correct,"GerVetUSA Inc, Albertson, New York",https://www.gervetusa.com/about-us
+23,35970,sector,Government & Defense,Iraqi Ministry of Finance,,2025-03-14,babukbjorka,,,,correct,Iraqi Ministry of Finance is a government ministry,
+24,36957,sector,Professional Services,McParlane & Associates,,2026-05-12,kairos,,,,unsure,McParlane & Associates not found online,
+25,34658,country,SG,equis.com,equis.com,2022-06-07,lockbit3,,,,correct,"Equis Development Pte. Ltd., Singapore (+65)",https://equis.com
+26,33591,country,US,wpdn.net,wpdn.net,2022-03-24,lockbit3,,,,correct,"Williams, Porter, Day & Neville, Wyoming law firm",https://wpdn.net
+27,32872,country,US,glenroy.com,glenroy.com,2022-01-30,lockbit3,,,,correct,"Glenroy flexible packaging, Wisconsin USA",https://glenroy.com
+28,31435,country,US,gocontec.com,gocontec.com,2024-04-19,dispossessor,,,,correct,"Contec, US connected-tech supply chain (Schenectady NY)",https://gocontec.com
+29,31365,country,US,www.stginternational.com,stginternational.com,2024-04-19,dispossessor,,,,correct,"STG International, US federal healthcare contractor",https://stginternational.com
+30,30943,country,IT,AD Consulting Group,adcgroup.com,2023-07-26,alphv,,,,correct,"AD Consulting, Italian IT system integrator",https://adcgroup.com
+31,33851,country,GB,optimissa.com,optimissa.com,2022-02-17,lockbit3,,,,wrong,ES,https://iberianlawyer.com/?p=147578
+32,37183,sector,Professional Services,SF Bay Data Entry,,2026-08-12,crpx0,,,,unsure,SF Bay Data Entry not identifiable,
+33,36218,country,TW,To Taiwan Government and Chansn Hospital .2025.05.11,,2025-05-13,nightspire,,,,correct,"Taiwan government / Chansn Hospital, Taoyuan, Taiwan",https://news.tvbs.com.tw/english/2846408
+34,36657,country,CA,kelseyschooldivision.ca,kelseyschooldivision.ca,2025-12-29,ransomwareblog,,,,correct,"Kelsey School Division, Manitoba, Canada",https://kelseyschooldivision.ca
+35,29145,country,EC,remar.com.ec,remar.com.ec,2022-04-03,lockbit2,,,,correct,Remar entities on .com.ec are Ecuadorian,https://www.dunsguide.com/company/c0df03cfbba9ecfcaa2c258abeea488a/remar-representaciones-maritimas-del-ecuador-sa-remar
+36,34684,country,ID,"1,3 BILLION INDONESIAN SIMCARD REGISTRATION",,2022-08-31,bjorka,,,,correct,Indonesian SIM card registration data,
+37,30712,sector,Healthcare,Vercity,,2022-12-11,karakurt,,,,wrong,Professional Services,https://year-ahead.partnershipsbulletin.com/derek-sharkey-0
+38,15540,country,CH,Aglobis,,2023-01-20,medusa,,,,correct,"Aglobis AG, Zug, Switzerland (chemical raw materials trading)",https://business-monitor.ch/de/companies/146480-aglobis-ag
+39,33364,country,AT,chipsaway.at,chipsaway.at,2022-02-09,lockbit3,,,,correct,"ChipsAway Austria, car repair, +43 phone",https://chipsaway.at
+40,37068,country,BR,"<h2 id=""about"">ABOUT</h2> <p>Nissin Foods Do Brasil Ltda is a company that operates in the",,2026-07-08,dataleak,,,,correct,Nissin Foods do Brasil Ltda,
+41,1599,sector,Retail & E-Commerce,minoas.gr,minoas.gr,2025-04-02,akira,,,,wrong,Other,https://www.minoas.gr/international-rights
+42,32850,country,DE,hoffsuemmer.de,hoffsuemmer.de,2022-02-04,lockbit3,,,,correct,"Gebr. Hoffsümmer Spezialpapier, Düren, Germany",https://web.archive.org/web/20221231093958/https://www.hoffsuemmer.de/
+43,37184,country,US,DinaTec,,2026-08-12,crpx0,,,,unsure,DinaTec not identifiable,
+44,33031,sector,Energy & Utilities,sdfeg.com,sdfeg.com,2021-09-10,lockbit3,,,,correct,"SDF Energy Group, Panama mini-hydro power generation",https://web.archive.org/web/20200705212133/http://www.sdfeg.com:80/
+45,28733,sector,Financial Services,ugcorp.com,ugcorp.com,2022-02-27,lockbit2,,,,correct,"United Guaranty, mortgage insurance (Arch MI)",https://web.archive.org/web/2022/https://ugcorp.com/
+46,37215,country,US,North America,,2026-08-10,wallstreet,,,,unsure,Victim 'North America' not identifiable,
+47,37346,sector,Government & Defense,City of Princeton,,2026-09-16,incransom,,,,correct,"City of Princeton, Texas municipal government",https://www.breachsense.com/breaches/city-of-princeton-texas-data-breach/
+48,33375,sector,Retail & E-Commerce,totalfire.biz,totalfire.biz,2021-11-29,lockbit3,,,,wrong,Manufacturing,https://www.constructionowners.com/news/total-fire-protection-expands-into-pennsylvania-with-victory-fire-protection-addition
+49,30406,country,US,quantumplastics.com,quantumplastics.com,2022-11-04,royal,,,,correct,"Quantum Plastics, US injection molder (Central time, 844 number)",https://quantumplastics.com
+50,30059,country,GH,Tema Litoclean Group,,2022-09-13,sparta,,,,unsure,Tema Litoclean Group not found online,
+51,33973,sector,Financial Services,lakeview.com,lakeview.com,2022-05-10,lockbit3,,,,correct,"Lakeview Loan Servicing, US mortgage servicer",https://web.archive.org/web/2022/https://lakeview.com/
+52,28440,country,IR,vaja.ir,vaja.ir,2021-12-18,cryp70n1c0d3,,,,correct,vaja.ir = Iranian Ministry of Intelligence,https://vaja.ir
+53,36324,sector,Government & Defense,Union Civil Service Board,,2025-07-24,walocker,,,,correct,"Union Civil Service Board, Myanmar statutory body",https://en.wikipedia.org/wiki/Union_Civil_Service_Board
+54,35146,country,ES,GRUPO SCA(Release of all data in 20 hours),,2024-02-04,knight,,,,correct,"Grupo SCA, Spanish consultancy (Madrid, Bilbao)",https://bouncewatch.com/company/grupo-sca
+55,19191,sector,Professional Services,Moyes,moyesco.com,2025-12-02,qilin,,,,correct,"Moyes & Co., oil & gas energy consulting firm, Dallas",https://moyescoged.com/site
+56,30135,country,US,lincare.com,lincare.com,2022-10-30,lockbit3,,,,correct,"Lincare Holdings HQ Clearwater, Florida, US",https://www.lincare.com
+57,27161,sector,Professional Services,denark.com,denark.com,2021-09-19,lockbit2,,,,wrong,Manufacturing,https://www.denark.com/
+58,36469,country,US,aa-llp.com,aa-llp.com,2025-10-31,incransom,,,,correct,"aa-llp.com = Adamson Ahdoot LLP, personal injury law firm, Los Angeles",http://web.archive.org/web/20210812062729/https://aa-llp.com/
+59,35432,country,CH,"Kinematica, Switzerland",,2024-10-09,wikileaksv2,,,,correct,"Kinematica AG, Malters, Switzerland",https://www.kinematica.ch
+60,33650,country,US,Lincoln Industries,lincolnindustries.com,2021-12-22,alphv,,,,correct,"Lincoln Industries, Lincoln, Nebraska",https://www.lincolnindustries.com
+61,37261,country,NI,Josee Bendaaa-Guerrero Asociados,,2026-09-29,thegentlemen,,,,correct,"Guy José Bendaña-Guerrero & Asociados, IP law firm in Managua",https://www.galalaw.com/member-info/nicaragua/guy-josé-bendaña-guerreroasociados
+62,30279,country,US,Modular Mining,,2022-11-24,bianlian,,,,correct,"Modular Mining Systems HQ Tucson, Arizona (Komatsu subsidiary)",https://www.modularmining.com
+63,28061,country,US,totalfire.biz,totalfire.biz,2021-11-29,lockbit2,,,,correct,"Total Fire Protection, Grand Rapids, Michigan",https://totalfire.biz
+64,34376,country,DE,ekz.de,ekz.de,2022-06-01,lockbit3,,,,correct,"EKZ library services, Reutlingen, Germany",https://en.wikipedia.org/wiki/EKZ
+65,28630,country,US,Butler County Community College,,2022-01-14,vicesociety,,,,correct,"Butler County Community College, Pennsylvania (or Kansas), both US",https://bc3.edu
+66,35236,sector,Technology,tox.chat,tox.chat,2024-05-03,stormous,,,,correct,Tox is open-source encrypted messaging software,https://tox.chat
+67,36783,country,AE,Dubai Airport - Data,,2026-03-30,nasirsecurity,,,,correct,"Dubai Airports, UAE",
+68,36777,country,DE,****ne*i***,pe.de,2026-02-03,cloak,,,,correct,"pe.de = PE Automotive, commercial vehicle parts, Bremen, Germany",https://pe.de
+69,30177,country,US,MultiCareInc pt.3,multicare.org,2022-10-18,everest,,,,correct,"MultiCare Health System, Tacoma, Washington",https://www.multicare.org
+70,34247,country,US,Noble Oil,nobleoil.com,2022-03-18,alphv,,,,correct,"Noble Oil Services, used-oil recycling, North Carolina",https://nobleoil.com
+71,35040,sector,Healthcare,Oswaldo Cruz Foundation(Fiocruz),,2023-10-27,noescape,,,,correct,Fiocruz: Brazilian public health research/vaccine institution under Ministry of Health,https://portal.fiocruz.br
+72,34655,country,US,slgienergy.com,slgienergy.com,2022-06-12,lockbit3,,,,correct,"SL Global Energy, oilfield consulting, Houston TX 77024",https://slgienergy.com
+73,29597,country,OM,business.gov.om,business.gov.om,2022-06-20,lockbit2,,,,correct,Oman government business portal,
+74,36434,sector,Retail & E-Commerce,curaleaf.com,curaleaf.com,2025-09-24,miga,,,,unsure,Curaleaf: cannabis cultivator/processor and dispensary operator; Retail vs Healthcare/Agriculture,https://curaleaf.com
+75,37004,country,MS,BreachForums is Back,breachforu.ms,2026-06-13,shadowbyt3,,,,wrong,"Unknown; .ms is vanity TLD of a hacker forum, not Montserrat",
+76,36684,country,SY,ILDefenseLeaks : Saar Engineering – “ ”,saarengineer.com,2025-12-10,toufan,,,,wrong,IL,http://web.archive.org/web/20231231224500/https://saarengineer.com/
+77,37069,sector,Manufacturing,"<h2 id=""about"">ABOUT</h2> <p>The RKW Group is an independent private company headquartered",,2026-07-08,dataleak,,,,correct,"RKW SE, plastic film manufacturer, Germany",https://www.rkw-group.com
+78,29661,country,US,colonail.com,colonail.com,2022-06-04,lockbit2,,,,correct,"colonail.com = official site of City of Colona, Illinois",https://colonail.com
+79,34138,sector,Healthcare,ikk-group.com,ikk-group.com,2022-03-13,lockbit3,,,,wrong,Manufacturing,http://web.archive.org/web/2021/http://ikk-group.com/
+80,34474,sector,Government & Defense,westminster.de,westminster.de,2022-05-16,lockbit3,,,,wrong,Professional Services,https://www.westminster.de
+81,28650,country,US,SAVANNAH State University,,2022-01-09,vicesociety,,,,correct,"Savannah State University, Georgia, US",https://www.savannahstate.edu
+82,28186,sector,Professional Services,daviscrump.com,daviscrump.com,2021-11-10,lockbit2,,,,correct,"Davis & Crump P.C., law firm, Gulfport, Mississippi",https://daviscrump.com
+83,34504,country,CA,gpmlife.com,gpmlife.com,2022-06-07,lockbit3,,,,wrong,US,https://gpmlife.com
+84,33406,country,BR,atlas.ind.br,atlas.ind.br,2022-01-30,lockbit3,,,,correct,"Atlas (atlas.ind.br), Brazilian stove manufacturer",
+85,37267,country,US,Williamson Dacar Associates,,2026-09-29,thegentlemen,,,,unsure,Williamson Dacar Associates not identifiable online,
+86,28418,country,PT,HI FLY,,2021-12-18,hive,,,,correct,Hi Fly charter airline headquartered in Lisbon,https://en.wikipedia.org/wiki/Hi_Fly_(airline)
+87,35918,sector,Government & Defense,(SOLD)Indian military and government defense,,2025-03-19,babukbjorka,,,,correct,Indian military/government defence data,
+88,31367,country,US,zurifurniture.com,zurifurniture.com,2024-04-19,dispossessor,,,,correct,"Zuri Furniture HQ Lewisville/Dallas, Texas",https://www.goodbed.com/mattress-retailer/zuri-furniture/
+89,36354,sector,Technology,Medusa,,2025-07-10,ransomedvc,,,,wrong,Other,https://www.breachsense.com/breaches/medusa-data-breach/
+90,33426,country,NE,...,planters-oil.ne,2022-01-30,lockbit3,,,,unsure,planters-oil.ne likely truncated domain; organisation not identifiable,
+91,34364,sector,Technology,valoores.com,valoores.com,2022-04-23,lockbit3,,,,correct,"Valoores, AI/big data enterprise software",https://valoores.com
+92,34878,country,PH,Philippine Economic Zone Authority (PEZA),peza.gov.ph,2022-12-07,alphv,,,,correct,"Philippine Economic Zone Authority, Philippine government agency",https://peza.gov.ph
+93,37382,country,GT,incan.org.gt,incan.org.gt,2026-09-03,krybit,,,,correct,"Instituto de Cancerología (INCAN), Guatemala",https://incan.org.gt
+94,27135,country,US,drhrlaw.com,drhrlaw.com,2021-09-22,lockbit2,,,,correct,"DRHR Law, business litigation firm, Houston",https://drhrlaw.com
+95,33990,sector,Education,.a...,trauma.lbg.ac,2022-03-27,lockbit3,,,,unsure,LBI Trauma: biomedical research institute (Vienna); Education vs Healthcare,https://trauma.lbg.ac.at/about-us/?lang=en
+96,33625,sector,Education,riverhead.net,riverhead.net,2021-12-26,lockbit3,,,,correct,"Riverhead Central School District, New York",https://riverhead.net
+97,31791,sector,Professional Services,akobdc.com,akobdc.com,2024-12-15,funksec,,,,unsure,Ako Business Development Center (Iran): business coaching and online courses; Education vs Professional Services,https://akobdc.com
+98,33160,country,NO,/,inocean.no,2021-09-09,revil,,,,correct,"Inocean AS, Norwegian marine engineering company",https://inocean.no
+99,35782,country,US,FortiGate (New),,2025-02-19,belsengroup,,,,unsure,"FortiGate device leak, multi-victim; no single organisation",
+100,37255,country,US,Silvercup Studios,,2026-09-30,storm,,,,correct,"Silvercup Studios, film studio in Long Island City, New York",https://www.silvercupstudios.com
+101,36622,country,CO,Colombian Military PII + Firearms Permit Docs,,2025-11-10,kazu,,,,correct,Colombian military data,
+102,32800,sector,Agriculture and Food Production,vlastuin.nl,vlastuin.nl,2021-09-28,lockbit3,,,,wrong,Transportation,https://vlastuin.nl
+103,29829,country,AU,Ramada Hervey Bay Hotel Resort,,2022-08-30,bianlian,,,,correct,"Ramada Hervey Bay, Queensland, Australia",
+104,37260,country,KR,newyjh.com,newyjh.com,2026-09-29,ulose,,,,correct,"newyjh.com = H+ Yangji Hospital, Seoul",https://newyjh.com
+105,36624,country,AR,Official Portal of Argentina’s Ministry of Education,,2025-11-10,kazu,,,,correct,Argentina Ministry of Education,
+106,31319,country,US,schnabel-eng.com,schnabel-eng.com,2024-04-19,dispossessor,,,,correct,"Schnabel Engineering, Glen Allen, Virginia",https://schnabel-eng.com
+107,34404,country,US,ssi-steel.com,ssi-steel.com,2022-04-19,lockbit3,,,,wrong,TH,https://www.ssi-steel.com
+108,30955,country,US,SolarCraft,solarcraft.com,2023-07-26,alphv,,,,correct,"SolarCraft, solar installer, Novato, California",https://solarcraft.com
+109,35946,sector,Government & Defense,(SIAK DUKCAPIL MINISTRY OF HOME AFFAIRS OF INDONESIA),dukcapil.kemendagri.go.id,2025-03-19,babukbjorka,,,,correct,"Dukcapil, Directorate General of Population, Indonesian Ministry of Home Affairs",https://dukcapil.kemendagri.go.id
+110,34744,country,VE,unexca.edu.ve,unexca.edu.ve,2022-08-18,blacktor,,,,correct,"UNEXCA, Universidad Nacional Experimental de la Gran Caracas, Venezuela",https://unexca.edu.ve
+111,5887,country,DE,sma*******,,2026-08-05,clop,,,,unsure,"Masked victim name, organisation not identifiable",
+112,33277,country,BR,planitox.com.br,planitox.com.br,2021-10-12,lockbit3,,,,correct,"Planitox, toxicology consulting, Campinas SP, Brazil",https://planitox.com.br/
+113,29242,country,IT,ingesw.com,ingesw.com,2022-04-20,lockbit2,,,,correct,"Ingegneria & Software Industriale S.p.A., Rome",http://www.ingesw.com/ingesw/
+114,34588,country,ES,zine-eskola.eus,zine-eskola.eus,2022-05-12,lockbit3,,,,correct,"Elias Querejeta Zine Eskola, San Sebastian, Basque Country, Spain",https://zine-eskola.eus
+115,36795,country,UY,tuna.uy,tuna.uy,2026-03-23,cipherforce,,,,wrong,BR,https://www.cbinsights.com/company/tuna
+116,36621,country,CO,Colombian Navy Recruitment Portal,,2025-11-10,kazu,,,,correct,Colombian Navy (Armada de Colombia),
+117,32326,country,CA,Leprohon (Image !),,2025-10-14,medusa,,,,correct,"Leprohon inc., HVAC-R company in Quebec (Sherbrooke, Granby...)",https://www.caaquebec.com/fr/habitation/entreprises-recommandees/leprohon-inc-sherbrooke
+118,37274,country,TW,Drinks Wines Spirits,,2026-09-29,thegentlemen,,,,correct,"Likely Drinks, Taiwan's largest imported wine & spirits retail chain",https://vino-joy.com/2026/02/26/taiwans-godfather-of-imported-spirits-dies-at-80/
+119,33557,sector,Financial Services,rttax.com,rttax.com,2022-01-30,lockbit3,,,,wrong,Professional Services,https://getprospect.com/business-directory/rt-tax
+120,34574,sector,Manufacturing,hinakaorg.com,hinakaorg.com,2022-05-16,lockbit3,,,,correct,"HINAKA Fluid Power, pneumatic/hydraulic cylinder manufacturer, Taiwan",https://hinakaorg.com/
+121,30729,country,GB,Nexon Asia Pacific,,2022-12-09,nokoyawa,,,,wrong,AU,https://www.seek.com.au/companies/nexon-asia-pacific-1251116
+122,29106,country,US,"Backus, Meyer & Branch, LLP",,2022-03-07,everest,,,,correct,"Law firm in Manchester, New Hampshire",
+123,28382,country,KW,www.hajery.com,hajery.com,2021-12-21,lockbit2,,,,correct,"Mohamed Naser Al-Hajery & Sons, Shuwaikh, Kuwait",https://www.hajery.com/
+124,30274,country,US,friedmanlawoffices.com,friedmanlawoffices.com,2022-11-26,royal,,,,correct,"Law Offices of Heywood G. Friedman, California",https://friedmanlawoffices.com/
+125,30587,country,US,ALLSTATEPETERBILT.COM,allstatepeterbilt.com,2022-12-22,clop,,,,correct,"Allstate Peterbilt truck dealer group, Minnesota",https://allstatepeterbilt.com
+126,28307,sector,Professional Services,wpdn.net,wpdn.net,2021-11-02,lockbit2,,,,correct,"Williams, Porter, Day & Neville law firm, Wyoming",https://wpdn.net/
+127,33133,sector,Retail & E-Commerce,De-Hashed,bigbasket.com,2021-09-09,darkleakmarket,,,,correct,"BigBasket, Indian online grocery retailer",https://www.bigbasket.com
+128,34795,country,US,Pierce Sloan Kennedy & Early LLC,,2022-09-27,monte,,,,correct,"Law firm in Charleston, South Carolina",
+129,34851,sector,Financial Services,45 MILLION MYPERTAMINA INDONESIA,,2022-11-10,bjorka,,,,wrong,Energy & Utilities,https://mypertamina.id
+130,27810,sector,Manufacturing,paramountme.com,paramountme.com,2021-09-09,lockbit2,,,,wrong,Retail & E-Commerce,https://paramountme.com/
+131,36223,country,BR,brdigital.net.br,brdigital.net.br,2025-05-12,jgroup,,,,correct,Brazilian .net.br internet provider,https://brdigital.net.br
+132,33079,country,US,yakimacoop.com,yakimacoop.com,2022-02-08,lockbit3,,,,correct,"Yakima Cooperative Association, Yakima WA",https://yakimacoop.com/
+133,34878,sector,Government & Defense,Philippine Economic Zone Authority (PEZA),peza.gov.ph,2022-12-07,alphv,,,,correct,"PEZA, Philippine government agency",https://peza.gov.ph
+134,35885,sector,Government & Defense,(Thailand Intelligence Agency),smic.mi.th,2025-03-20,babukbjorka,,,,correct,mi.th Thai military domain,
+135,32890,country,CA,novotech.com,novotech.com,2022-01-30,lockbit3,,,,correct,"Novotech Technologies Corp., Ottawa ON",https://www.novotech.com/
+136,34272,country,US,lawsdn.com,lawsdn.com,2022-04-02,lockbit3,,,,correct,"Redirects to Smart Law Group, Danbury CT",https://smartlawgrp.com/
+137,36985,sector,Technology,ADMINS,,2026-05-02,qilin,,,,unsure,"Generic name 'ADMINS', organisation not identifiable",
+138,33471,country,CN,royole.com,royole.com,2022-02-18,lockbit3,,,,correct,"Royole Corporation, Shenzhen, China",https://en.wikipedia.org/wiki/Royole
+139,30911,country,MX,FRISAcom,frisa.com,2023-07-26,alphv,,,,correct,"FRISA, forging company, Monterrey, Mexico",https://frisa.com
+140,35085,country,IL,Hacked ZIV Hospital,,2023-12-27,malekteam,,,,correct,"Ziv Medical Center, Safed, Israel",
+141,29465,country,US,suntecktts.com,suntecktts.com,2022-05-17,lockbit2,,,,correct,"Sunteck Transport, Boca Raton, Florida",https://suntecktts.com
+142,34051,country,HK,pwma.org.hk,pwma.org.hk,2022-04-13,lockbit3,,,,correct,"Private Wealth Management Association, Hong Kong",https://pwma.org.hk
+143,33436,country,BR,more then,docol.com.br,2021-11-22,lv,,,,correct,"Docol, sanitary fittings maker, Joinville, Brazil",https://docol.com.br
+144,35267,sector,Healthcare,Maryhaven,,2024-06-22,incransom,,,,correct,"Maryhaven, behavioral health/addiction treatment, Columbus OH",
+145,30562,country,ZA,ELANDRETAIL.COM,elandretail.com,2022-12-22,clop,,,,wrong,KR,https://en.wikipedia.org/wiki/E-Land_Group
+146,32385,country,US,New Obscura 2.0!,fbi.gov,2025-12-12,obscura,,,,unsure,Victim is a gang announcement; fbi.gov domain likely spurious,
+147,27387,country,TW,American Megatrends International,,2021-09-09,ransomexx,,,,wrong,US,https://www.ami.com/office-locations
+148,28288,country,US,waclighting.com,waclighting.com,2021-11-06,lockbit2,,,,correct,"WAC Lighting, Port Washington NY",https://waclighting.com
+149,29660,sector,Education,ora.com,ora.com,2022-06-04,lockbit2,,,,unsure,"O'Reilly Media: publishing/learning platform, between Education and Other (media)",https://www.urlert.com/domains/ora.com
+150,31267,country,MY,notablefrontier.com,notablefrontier.com,2024-04-19,dispossessor,,,,correct,"Notable Frontier Sdn Bhd, IT consulting, Kuala Lumpur",https://sgpgrid.com/company/notable-frontier-sdn-bhd-ID0001
+151,34129,country,CA,....,ci.hercules.ca,2022-02-01,lockbit3,,,,wrong,US,https://www.ci.hercules.ca.us
+152,36294,sector,Financial Services,rhmc.com.au,rhmc.com.au,2025-06-05,eldorado,,,,wrong,Professional Services,https://rhmc.com.au/
+153,35835,sector,Technology,pureincubation.com,pureincubation.com,2025-03-28,babukbjorka,,,,unsure,Lead generation/B2B data holding firm; between Technology and Professional Services,https://prnewswire.com/news-releases/pure-incubation-places-on-2019-inc-5000-the-most-successful-companies-in-america-300902225.html
+154,36562,sector,Technology,"Salesforce, Inc.",,2025-10-03,scatteredlapsushunters,,,,correct,"Salesforce, enterprise software",https://en.wikipedia.org/wiki/Salesforce
+155,36791,sector,Technology,sportradar.io,sportradar.io,2026-03-26,cipherforce,,,,correct,"Sportradar, sports data and technology company",https://sportradar.com
+156,34069,sector,Education,savonia.fi,savonia.fi,2022-02-04,lockbit3,,,,correct,"Savonia University of Applied Sciences, Finland",https://savonia.fi
+157,33470,country,CN,royole.com,royole.com,2022-01-30,lockbit3,,,,correct,"Royole Corporation, Shenzhen, China",https://en.wikipedia.org/wiki/Royole
+158,33986,country,US,fehrs.com,fehrs.com,2022-02-25,lockbit3,,,,correct,"FEHRS Metal Building Construction, Seminole TX",https://www.fehrs.com/
+159,28114,country,US,mpusd.net,mpusd.net,2021-11-25,lockbit2,,,,correct,"Monterey Peninsula Unified School District, California",https://mpusd.net
+160,30306,country,GT,www.minex.gob.gt,minex.gob.gt,2022-11-21,onyx,,,,correct,Ministerio de Relaciones Exteriores de Guatemala,https://minex.gob.gt
+161,35344,country,AU,mctas.org.au,mctas.org.au,2024-09-30,3am,,,,correct,.org.au Tasmanian organisation,https://mctas.org.au
+162,29239,country,TH,lekise.com,lekise.com,2022-04-20,lockbit2,,,,correct,"Lekise Lighting, Thai lighting manufacturer",https://lekise.com
+163,30588,country,DE,PRETTL.COM,prettl.com,2022-12-22,clop,,,,correct,"PRETTL group HQ Pfullingen, Germany",https://www.prettl.com
+164,33491,country,IT,rintal.com,rintal.com,2022-04-26,lockbit3,,,,correct,"Rintal staircase manufacturer, Italy",https://www.rintal.com
+165,36103,country,GB,D-Line,,2025-12-19,kairos,,,,correct,"D-Line HQ North Shields, UK (acquired by Luceco 2024)",https://www.luceco.com/uk/latest-news/luceco-group-acquires-d-line
+166,36437,sector,Retail & E-Commerce,kixat.com,kixat.com,2025-09-24,miga,,,,correct,Kixat Arabic online shopping site,https://web.archive.org/web/2022/https://kixat.com
+167,35013,country,US,Center For Urban Community Services,,2023-09-18,noescape,,,,correct,CUCS is a New York City non-profit,https://www.cucs.org
+168,36720,country,IL,DGM,,2026-01-01,bqtlock,,,,unsure,'DGM' generic acronym; Israeli organisation not identifiable,
+169,36193,sector,Government & Defense,navy-mil-bd,,2025-04-02,babukbjorka,,,,correct,"Bangladesh Navy (navy.mil.bd), military",https://www.navy.mil.bd
+170,28367,country,AO,Sodiba,,2021-12-23,quantum,,,,correct,"Sodiba, Angolan beverage company (Sociedade de Distribuição de Bebidas de Angola)",
+171,34840,sector,Manufacturing,*С******-****F** International,,2022-11-16,karakurt,,,,unsure,"Victim name masked, not identifiable",
+172,30466,country,US,"Midland Cogeneration Venture, Michigan",,2022-11-01,quantum,,,,correct,"Midland Cogeneration Venture power plant, Midland, Michigan",https://en.wikipedia.org/wiki/Midland_Cogeneration_Venture
+173,30039,country,US,inspecshawaii.com,inspecshawaii.com,2022-09-14,lockbit3,,,,correct,"INSPECS Hawaii, Honolulu, US",https://inspecshawaii.com
+174,30216,country,PT,Município De Loures,,2022-10-09,hive,,,,correct,"Loures municipality, Portugal",https://www.cm-loures.pt
+175,34933,country,ID,"including companies AICC, JBI, TJFI (part of the kddi.com holding company, whos",kkdi.co.id,2023-05-05,alphv,,,,correct,"KDDI Indonesia, head office Jakarta",https://id.kddi.com/en/company/corporate/
+176,33762,country,DK,vestas.com,vestas.com,2022-02-15,lockbit3,,,,correct,"Vestas HQ Aarhus, Denmark",https://www.vestas.com
+177,34259,country,LB,gezairi.com,gezairi.com,2022-03-18,lockbit3,,,,correct,"Gezairi Transport, Beirut, Lebanon",https://www.gezairi.com
+178,36671,country,GB,Medical Reports,,2025-12-19,kairos,,,,unsure,"Generic name 'Medical Reports', organisation not identifiable",
+179,37224,sector,Professional Services,Fox Rothschild LLP,,2026-08-08,leakeddata,,,,correct,Fox Rothschild is a US law firm,https://www.foxrothschild.com
+180,35761,country,US,bendixengineering,,2025-01-08,ransomwareblog,,,,unsure,No company 'Bendix Engineering' identifiable (not Bendix CVS),
+181,37249,sector,Technology,Aware,,2026-09-30,thegentlemen,,,,unsure,"Generic name 'Aware'; possibly Aware Inc. (biometrics software, MA) but not confirmable","https://en.wikipedia.org/wiki/Aware,_Inc."
+182,35044,country,US,St Vincent's Medical Center,,2023-10-27,noescape,,,,unsure,"Several St Vincent's Medical Centers (US: Bridgeport, Jacksonville; also Australia); not identifiable",
+183,37271,sector,Manufacturing,Europrim,,2026-09-29,thegentlemen,,,,unsure,Europrim not identifiable (only Belgian fruit wholesaler Europrim'S found),https://trendstop.levif.be/fr/detail/475985037/europrims.aspx
+184,36522,country,IL,Operation – “Enter Upon Them By The Gate” – 0x14,shiran-tours.co.il,2025-10-04,toufan,,,,correct,"Shiran Tours, Israeli travel agency (.co.il)",
+185,37316,country,TZ,/ airtanzania.com,airtanzania.co.tz,2026-09-24,krybit,,,,correct,"Air Tanzania, national airline of Tanzania",https://www.airtanzania.co.tz
+186,36578,country,JP,Japan Exchange Group,,2025-11-28,root,,,,correct,"Japan Exchange Group, Tokyo",https://www.jpx.co.jp
+187,36067,sector,Technology,go4kora.tv,go4kora.tv,2025-04-23,satanlock,,,,wrong,Other,https://web.archive.org/web/2022/https://go4kora.tv
+188,36393,sector,Other,International Game Technology has been hit by a cyberattack,,2025-08-18,leaknet,,,,unsure,IGT gaming/lottery technology: between Technology and Other,https://en.wikipedia.org/wiki/International_Game_Technology
+189,37231,country,US,"Buford-Thompson Company, LTD",,2026-09-30,aurora,,,,correct,"Buford-Thompson Company, construction manager, Fort Worth TX",https://www.corporationwiki.com/Texas/Fort-Worth/buford-thompson-company-llc/39404238.aspx
+190,29278,country,HK,kpcg.com.hk,kpcg.com.hk,2022-04-14,lockbit2,,,,correct,"Credit Gain online lending, Hong Kong",https://web.archive.org/web/2022/https://kpcg.com.hk
+191,34214,country,US,Bradsby Group,bradsbygroup.com,2022-03-22,alphv,,,,correct,"Bradsby Group staffing, Denver CO",https://bradsbygroup.com
+192,29012,country,FR,rh-europe.com,rh-europe.com,2022-03-21,lockbit2,,,,correct,"Erasch hydraulic fittings, French-language site, France",https://web.archive.org/web/2022/https://rh-europe.com
+193,35908,sector,Government & Defense,(SOLD)Baykar Turkish defense company C4I and artificial intelligence By Babuk Locker 2.0,,2025-03-19,babukbjorka,,,,correct,"Baykar, Turkish military drone/defense contractor",https://en.wikipedia.org/wiki/Baykar
+194,30519,country,US,DRC-LAW.COM,drc-law.com,2022-12-22,clop,,,,correct,"Dymond Reagor & Colville law firm, Denver CO",https://web.archive.org/web/2022/https://drc-law.com
+195,37258,sector,Manufacturing,Corswarem Group,,2026-09-29,thegentlemen,,,,unsure,excluded: only evidence was a breach-listing site (forbidden source),https://www.breachsense.com/breaches/corswarem-group-data-breach/
+196,34009,country,US,strix.com,strix.com,2022-02-19,lockbit3,,,,wrong,IM,https://www.strix.com
+197,36253,country,IL,Weizmann,,2025-06-27,handala,,,,correct,"Weizmann Institute of Science, Rehovot, Israel",https://www.weizmann.ac.il
+198,29082,sector,Manufacturing,cachibi.co,cachibi.co,2022-03-12,lockbit2,,,,correct,"Agregados y Mezclas Cachibí, construction aggregates/concrete, Colombia",https://web.archive.org/web/2022/https://cachibi.co
+199,36525,country,IL,Operation – “Enter Upon Them By The Gate” – 0x17 : ACOM Communication Strategies,,2025-10-04,toufan,,,,unsure,ACOM ambiguous: Spanish pro-Israel org ACOM (Madrid) or unknown Israeli firm,https://linkedin.com/company/acom
+200,33564,sector,Retail & E-Commerce,mym.com.pe,mym.com.pe,2021-11-06,lockbit3,,,,correct,M&M Peru imports and sells heavy fleet parts (wholesale),https://web.archive.org/web/2022/https://mym.com.pe
+201,37317,country,US,PRESS RELEASE RE PSA,,2026-09-23,shinyhunters,,,,unsure,'PRESS RELEASE RE PSA' not identifiable,
+202,33449,sector,Financial Services,consortiumlegal...,,2021-11-21,lockbit3,,,,wrong,Professional Services,https://globalarbitrationreview.com/organisation/consortium-legal
+203,34950,sector,Technology,The Reddit,,2023-06-18,alphv,,,,correct,"Reddit, social platform/tech company",https://en.wikipedia.org/wiki/Reddit
+204,30317,country,CA,m2selectronics.com,m2selectronics.com,2022-11-17,royal,,,,correct,"M2S Electronics, Quebec, Canada",https://web.archive.org/web/2022/https://m2selectronics.com
+205,33280,sector,Manufacturing,nofeurope.com,nofeurope.com,2022-01-30,lockbit3,,,,correct,"NOF Europe, chemicals manufacturer (NOF Corp subsidiary)",https://www.nofeurope.com
+206,30598,country,US,Horwitz Horwitz & Associates,horwitzlaw.com,2022-12-21,unsafe,,,,correct,"Horwitz Horwitz & Associates, Chicago law firm",https://horwitzlaw.com
+207,36657,sector,Education,kelseyschooldivision.ca,kelseyschooldivision.ca,2025-12-29,ransomwareblog,,,,correct,"Kelsey School Division, Manitoba school division",https://kelseyschooldivision.ca
+208,33504,country,US,....,comfacundi.com,2021-11-10,lockbit3,,,,wrong,CO,https://www.comfacundi.com
+209,30566,country,US,RFF.ORG,rff.org,2022-12-22,clop,,,,correct,"Resources for the Future, Washington DC",https://www.rff.org
+210,34020,country,US,brookledge.com,brookledge.com,2022-04-03,lockbit3,,,,correct,"Brook Ledge Horse Transportation, Pennsylvania",https://web.archive.org/web/2022/https://brookledge.com
+211,36103,sector,Manufacturing,D-Line,,2025-12-19,kairos,,,,correct,D-Line makes cable management products,https://www.luceco.com/uk/latest-news/luceco-group-acquires-d-line
+212,29873,country,US,destinationhope.com,destinationhope.com,2022-08-23,lockbit3,,,,correct,"Destination Hope treatment center, Fort Lauderdale FL",https://web.archive.org/web/2022/https://destinationhope.com
+213,29566,country,US,zdgllc.com,zdgllc.com,2022-05-01,lockbit2,,,,correct,"ZDG construction management, New York City",https://www.zoominfo.com/c/zdg/357077030
+214,2880,country,US,Noteboom - The Law Firm,noteboom.com,2023-07-26,alphv,,,,correct,"Noteboom The Law Firm, Texas",https://noteboom.com
+215,37252,sector,Professional Services,North Hills Facility Services,,2026-09-30,storm,,,,unsure,"Janitorial/building maintenance contractor, NY: between Other and Professional Services",https://cleanlink.com/news/article.aspx?id=27654
+216,37070,country,US,"<h2 id=""about"">ABOUT</h2> <p>SCHERDELWiesauplast ist ein international tätiger Hersteller",,2026-07-08,dataleak,,,,wrong,DE,https://www.scherdel.com
+217,32913,country,RS,...,novohamburgo.rs,2021-09-10,lockbit3,,,,wrong,BR,https://novohamburgo.rs.gov.br
+218,31980,sector,Education,cu-barika.dz,cu-barika.dz,2025-01-21,funksec,,,,correct,"Centro Universitário de Barika, Algeria - university",https://cu-barika.dz
+219,33550,country,IT,cilentospa.it,cilentospa.it,2022-01-30,lockbit3,,,,correct,"Cilento SpA, Italian buffalo mozzarella producer",https://cilentospa.it
+220,29628,country,US,Grand Valley State University,,2022-06-13,vicesociety,,,,correct,"Grand Valley State University, Michigan, US",https://www.gvsu.edu
+221,30385,country,LB,thenet.group,thenet.group,2022-11-06,lockbit3,,,,correct,"The Net Group logistics, Sin El Fil, Lebanon",https://thenetglobal.group/
+222,30692,country,US,William A. Kibbe & Associates,,2022-12-11,karakurt,,,,correct,"William A. Kibbe & Associates, Saginaw, Michigan, US",
+223,34098,country,ES,prefimetal.com,prefimetal.com,2022-02-04,lockbit3,,,,correct,"Prefimetal, metal manufacturing, Madrid, Spain",https://prefimetal.com
+224,30264,country,US,Altec Engineering LLC,,2022-11-27,bianlian,,,,unsure,Could not identify Altec Engineering LLC unambiguously,
+225,29033,country,BR,solvi.com,solvi.com,2022-03-18,lockbit2,,,,correct,"Solví group, waste/environment, Brazil",https://solvi.com
+226,33161,sector,Professional Services,/ atworksprofessional / atworks.com,lstaff.com,2021-09-09,revil,,,,correct,"AtWork Personnel, staffing firm (Knoxville, TN)",http://web.archive.org/web/20180808194210/http://www.lstaff.com:80/
+227,35885,country,TH,(Thailand Intelligence Agency),smic.mi.th,2025-03-20,babukbjorka,,,,correct,smic.mi.th - Thai military (.mi.th) domain,
+228,29719,country,US,coastalmedps.com,coastalmedps.com,2022-07-20,lockbit3,,,,correct,"CoastalMed Pharmacy Services, Florida (850 area code), US",https://coastalmedps.com
+229,32796,country,CO,anasia.com,anasia.com,2021-09-28,lockbit3,,,,wrong,EG,https://www.anasia.com
+230,34392,sector,Technology,Instituto Meteorológico Nacional and,racsa.go.cr,2022-04-20,conti,,,,correct,"RACSA (racsa.go.cr), Costa Rica state telecom/ISP",https://www.racsa.go.cr
+231,35712,sector,Agriculture and Food Production,industrialdealimentos.com,industrialdealimentos.com,2025-01-27,babukbjorka,,,,correct,Industrial de Alimentos: food ingredients and products producer,http://web.archive.org/web/20211207212455/http://industrialdealimentos.com/
+232,36461,sector,Technology,Operation – “Enter Upon Them By The Gate” – Go-net – 0x05,,2025-09-03,toufan,,,,correct,"Go-net, Israeli internet/network provider (Toufan targets Israel)",https://networksdb.io/network/gonet
+233,36574,country,US,Williamson County,,2025-11-28,qilin,,,,correct,Williamson County - US county government,
+234,32856,country,US,j-addington.com,j-addington.com,2021-09-22,lockbit3,,,,correct,"J. Addington General Contractors, Idaho (208), US",https://j-addington.com
+235,30628,country,HK,stmc.edu.hk,stmc.edu.hk,2022-12-19,lockbit3,,,,correct,"St. Mary's Canossian College, Hong Kong (.edu.hk)",https://stmc.edu.hk
+236,29541,country,GR,ELTA Hellenic Post,,2022-05-04,vicesociety,,,,correct,"ELTA Hellenic Post, Greek national postal service",https://www.elta.gr
+237,35279,sector,Healthcare,AMI Global Assistance,,2024-06-11,eraleignapt73,,,,correct,"AMI Global Assistance: medical assistance, operates own hospitals",https://www.itij.com/latest/long-read/global-approach-laser-focus
+238,33623,sector,Technology,cgm.com,cgm.com,2022-01-30,lockbit3,,,,correct,"CompuGroup Medical, healthcare software vendor",https://www.cgm.com
+239,29315,sector,Transportation,spirit-ord.com,spirit-ord.com,2022-04-10,lockbit2,,,,correct,"Spirit International Transport, logistics",https://spirit-ord.com
+240,35080,country,ID,217 MILLION SIAK DUKCAPIL MINISTRY OF HOME AFFAIRS OF INDONESIA,,2023-12-28,bjorka,,,,correct,"Dukcapil, Indonesian Ministry of Home Affairs",
+241,35642,sector,Hospitality,ome.tv,ome.tv,2025-01-30,eraleignapt73,,,,wrong,Technology,https://en.wikipedia.org/wiki/OmeTV
+242,33038,sector,Government & Defense,delrantownship....,,2022-01-30,lockbit3,,,,correct,"Delran Township, New Jersey municipality",
+243,34850,country,CA,Aeronautik company Canada,,2022-11-11,everest,,,,correct,Victim described as aeronautics company in Canada,
+244,35368,sector,Manufacturing,caillau.com.br,caillau.com.br,2024-10-31,3am,,,,correct,"Caillau Brasil, automotive hose clamp manufacturer",https://caillau.com.br
+245,35733,sector,Other,fol-23.fr,fol-23.fr,2025-01-17,eraleignapt73,,,,correct,"Fédération des Œuvres Laïques de la Creuse, non-profit association",https://village.ai/company/fol23
+246,29847,country,US,stjohnvianney.org,stjohnvianney.org,2022-08-26,lockbit3,,,,correct,"St. John Vianney Catholic Church, Houston, TX",https://stjohnvianney.org
+247,34791,country,TZ,Tanzania Telecommunications Company,,2022-09-30,karakurt,,,,correct,"Tanzania Telecommunications Company, state telecom of Tanzania",
+248,32854,country,BR,ebarc.adv.br,ebarc.adv.br,2022-01-30,lockbit3,,,,correct,ebarc.adv.br - Brazilian law firm domain (.adv.br),
+249,33634,sector,Manufacturing,lozzaspa.it,lozzaspa.it,2022-02-07,lockbit3,,,,wrong,Transportation,https://lozzaspa.it
+250,36386,country,US,First batch of data from the AconLabs company is publicly accessible.,,2025-08-18,leaknet,,,,correct,"ACON Laboratories HQ San Diego, US",https://www.aconlabs.com/about/
+251,36834,sector,Retail & E-Commerce,banak.com,banak.com,2026-03-10,eraleignapt73,,,,correct,"Banak, Spanish furniture retailer with stores/e-shop",https://banak.com
+252,33680,country,NE,...,skinnertrans.ne,2022-06-08,lockbit3,,,,wrong,US,https://www.skinnertrans.net
+253,34059,country,AU,Medical Staff,medicalstaff.com.au,2022-02-13,alphv,,,,correct,"Medical Staff, Australian medical staffing agency",https://medicalstaff.com.au
+254,36658,sector,Manufacturing,rene.co.ug,rene.co.ug,2025-12-29,ransomwareblog,,,,wrong,Healthcare,https://rene.co.ug
+255,34941,country,ID,35 MILLION MYINDIHOME TELKOM INDONESIA,,2023-06-27,bjorka,,,,correct,"IndiHome, Telkom Indonesia",
+256,37207,country,TR,KUVEYT TURK,,2026-08-12,crpx0,,,,correct,"Kuveyt Türk Participation Bank, Istanbul, Turkey",
+257,34145,country,BR,castgroup.com.br,castgroup.com.br,2022-03-31,alphv,,,,correct,"CAST group, Brazilian IT services",https://castgroup.com.br
+258,36300,country,US,lumenation.net,lumenation.net,2025-06-03,eldorado,,,,correct,"Lumenation lighting agency, Kentucky/southern Indiana, US",https://lumenation.net
+259,33447,country,US,.s...,telemovil.com,2021-11-21,lockbit3,,,,wrong,SV,https://en.wikipedia.org/wiki/Tigo_El_Salvador
+260,37269,sector,Other,DBU Construction,,2026-09-29,thegentlemen,,,,wrong,Manufacturing,https://www.thebluebook.com/iProView/17959/dbu-constr-inc/subcontractors/
+261,36503,country,LB,First Statment,,2025-10-08,nasirsecurity,,,,unsure,"'First Statment' is a statement, no identifiable organisation",
+262,35180,country,FR,Victor Fauconnier,,2024-04-11,ragroup,,,,correct,"Victor Fauconnier: calvados brand of Fauconnier, Marconne, France",https://www.societe.com/societe/fauconnier-616220034.html
+263,29718,country,EC,competencia.com.ec,competencia.com.ec,2022-07-20,lockbit3,,,,correct,"La Competencia S.A., Ecuador",https://competencia.com.ec
+264,37012,sector,Professional Services,amc.org.au,amc.org.au,2026-06-12,3am,,,,unsure,Australian Medical Council: medical education accreditation body; Healthcare/Education/Other ambiguous,http://web.archive.org/web/20220102215026/https://www.amc.org.au/
+265,29109,country,US,Law Offices of Brandon Sua & Associates,,2022-03-07,everest,,,,correct,"Law firm in Simi Valley, California, US",https://apps.calbar.ca.gov/attorney/licensee/detail/291476
+266,34861,sector,Education,The Benbrook Public Library,,2022-11-04,royal,,,,unsure,"Municipal public library (Benbrook, TX): Government vs Education",
+267,2782,country,US,American Foam & Packaging,amfoaminc.com,2023-07-26,alphv,,,,correct,"American Foam & Packaging, US custom foam fabricator",https://www.owler.com/company/amfoaminc/competitors
+268,37233,country,BE,assist2enjoy.be,assist2enjoy.be,2026-09-30,safepay,,,,correct,"Assist2Enjoy, Belgian kitchen appliance distributor (NL/FR site)",https://assist2enjoy.be
+269,35676,sector,Professional Services,pti.agency,pti.agency,2025-01-27,babukbjorka,,,,wrong,Financial Services,https://pti.agency
+270,28178,country,IT,rintal.com,rintal.com,2021-11-12,lockbit2,,,,correct,"Rintal, Italian stair manufacturer",https://rintal.com

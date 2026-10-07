@@ -1,0 +1,16 @@
+{
+  "model": "AttNHP",
+  "mark": "country",
+  "best_valid_loglike": -1.927252670022345,
+  "params": {
+    "lr": 0.006794394567493121,
+    "batch_size": 8,
+    "dropout": 0.0,
+    "hidden_size": 32,
+    "num_layers": 1,
+    "num_heads": 4,
+    "time_emb_size": 16,
+    "use_ln": true
+  },
+  "n_trials": 20
+}

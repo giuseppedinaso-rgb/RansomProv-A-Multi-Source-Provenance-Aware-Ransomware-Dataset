@@ -1,0 +1,26 @@
+{
+  "model": "NHP",
+  "version": "enriched",
+  "mark": "country",
+  "seed": 2,
+  "params": {
+    "lr": 0.003407876918558358,
+    "batch_size": 8,
+    "dropout": 0.0,
+    "hidden_size": 128,
+    "max_epoch": 100
+  },
+  "best_epoch": 51,
+  "valid": {
+    "loglike": -1.6364354174820435,
+    "num_events": 4651.0,
+    "acc": 0.5525693399268975,
+    "rmse": 9.712588393005285
+  },
+  "test": {
+    "loglike": -1.6663837362995078,
+    "num_events": 12831.0,
+    "acc": 0.5500740394357415,
+    "rmse": 13.630029359299387
+  }
+}

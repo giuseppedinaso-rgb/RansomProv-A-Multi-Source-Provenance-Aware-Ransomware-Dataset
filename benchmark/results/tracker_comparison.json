@@ -1,0 +1,171 @@
+{
+ "overall": {
+  "RL": {
+   "volume": 31368,
+   "share_of_union_pct": 83.9,
+   "exclusive_events": 2959,
+   "exclusive_pct_of_own": 9.4,
+   "exclusive_contribution_pct_of_union": 7.9,
+   "gangs_seen": 352,
+   "gang_coverage_pct": 85.9,
+   "latency_median_days": 0.0,
+   "latency_p90_days": 0.0,
+   "same_day_as_first_pct": 93.1,
+   "own_country_pct": 75.2,
+   "own_sector_pct": 96.1
+  },
+  "RF": {
+   "volume": 25376,
+   "share_of_union_pct": 67.9,
+   "exclusive_events": 540,
+   "exclusive_pct_of_own": 2.1,
+   "exclusive_contribution_pct_of_union": 1.4,
+   "gangs_seen": 284,
+   "gang_coverage_pct": 69.3,
+   "latency_median_days": 0.0,
+   "latency_p90_days": 0.0,
+   "same_day_as_first_pct": 97.1,
+   "own_country_pct": 99.1,
+   "own_sector_pct": 96.8
+  },
+  "LK": {
+   "volume": 32008,
+   "share_of_union_pct": 85.6,
+   "exclusive_events": 4622,
+   "exclusive_pct_of_own": 14.4,
+   "exclusive_contribution_pct_of_union": 12.4,
+   "gangs_seen": 330,
+   "gang_coverage_pct": 80.5,
+   "latency_median_days": 0.0,
+   "latency_p90_days": 0.0,
+   "same_day_as_first_pct": 93.2,
+   "own_country_pct": 0.0,
+   "own_sector_pct": 0.0
+  }
+ },
+ "pairs": {
+  "RL-RF": {
+   "jaccard": 0.732,
+   "RL_not_in_RF_pct": 23.5,
+   "RF_not_in_RL_pct": 5.5
+  },
+  "RL-LK": {
+   "jaccard": 0.72,
+   "RL_not_in_LK_pct": 15.4,
+   "LK_not_in_RL_pct": 17.1
+  },
+  "RF-LK": {
+   "jaccard": 0.667,
+   "RF_not_in_LK_pct": 9.5,
+   "LK_not_in_RF_pct": 28.3
+  }
+ },
+ "by_year": {
+  "RL": {
+   "2020": {
+    "volume": 247,
+    "exclusive": 214
+   },
+   "2021": {
+    "volume": 1750,
+    "exclusive": 457
+   },
+   "2022": {
+    "volume": 2780,
+    "exclusive": 753
+   },
+   "2023": {
+    "volume": 5097,
+    "exclusive": 412
+   },
+   "2024": {
+    "volume": 5981,
+    "exclusive": 312
+   },
+   "2025": {
+    "volume": 8004,
+    "exclusive": 408
+   },
+   "2026": {
+    "volume": 7434,
+    "exclusive": 328
+   }
+  },
+  "RF": {
+   "2020": {
+    "volume": 1,
+    "exclusive": 0
+   },
+   "2021": {
+    "volume": 175,
+    "exclusive": 8
+   },
+   "2022": {
+    "volume": 597,
+    "exclusive": 37
+   },
+   "2023": {
+    "volume": 4774,
+    "exclusive": 109
+   },
+   "2024": {
+    "volume": 5171,
+    "exclusive": 121
+   },
+   "2025": {
+    "volume": 7441,
+    "exclusive": 62
+   },
+   "2026": {
+    "volume": 7217,
+    "exclusive": 203
+   }
+  },
+  "LK": {
+   "2020": {
+    "volume": 35,
+    "exclusive": 2
+   },
+   "2021": {
+    "volume": 1699,
+    "exclusive": 497
+   },
+   "2022": {
+    "volume": 3582,
+    "exclusive": 1619
+   },
+   "2023": {
+    "volume": 4857,
+    "exclusive": 217
+   },
+   "2024": {
+    "volume": 5989,
+    "exclusive": 504
+   },
+   "2025": {
+    "volume": 8182,
+    "exclusive": 1086
+   },
+   "2026": {
+    "volume": 7664,
+    "exclusive": 697
+   }
+  }
+ },
+ "confirmed_victims": {
+  "n_confirmed_in_dataset": 105,
+  "RL": {
+   "recall_pct": 92.4,
+   "sector_agreement_pct": 82.3,
+   "sector_n": 96
+  },
+  "RF": {
+   "recall_pct": 82.9,
+   "sector_agreement_pct": 73.6,
+   "sector_n": 87
+  },
+  "LK": {
+   "recall_pct": 94.3
+  }
+ }
+}

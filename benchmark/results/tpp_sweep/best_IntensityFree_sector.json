@@ -1,0 +1,13 @@
+{
+  "model": "IntensityFree",
+  "mark": "sector",
+  "best_valid_loglike": 0.02568820911539521,
+  "params": {
+    "lr": 0.0005850022602718031,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 32,
+    "num_mix_components": 32
+  },
+  "n_trials": 20
+}

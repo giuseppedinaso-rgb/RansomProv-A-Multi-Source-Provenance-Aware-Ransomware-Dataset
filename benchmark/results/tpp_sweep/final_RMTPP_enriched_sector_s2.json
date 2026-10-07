@@ -1,0 +1,27 @@
+{
+  "model": "RMTPP",
+  "version": "enriched",
+  "mark": "sector",
+  "seed": 2,
+  "params": {
+    "lr": 0.008751120939899677,
+    "batch_size": 8,
+    "dropout": 0.3,
+    "hidden_size": 16,
+    "time_emb_size": 8,
+    "max_epoch": 200
+  },
+  "best_epoch": 198,
+  "valid": {
+    "loglike": -4.7559340449718475,
+    "num_events": 4651.0,
+    "acc": 0.136529778542249,
+    "rmse": 7.820737910125758
+  },
+  "test": {
+    "loglike": -4.758989849184227,
+    "num_events": 12831.0,
+    "acc": 0.16927753097965864,
+    "rmse": 12.277218077426362
+  }
+}

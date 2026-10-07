@@ -1,0 +1,326 @@
+[
+ {
+  "row": 55,
+  "label": "correct",
+  "note": "Moyes & Co., oil & gas energy consulting firm, Dallas",
+  "evidence_url": "https://moyescoged.com/site"
+ },
+ {
+  "row": 56,
+  "label": "correct",
+  "note": "Lincare Holdings HQ Clearwater, Florida, US",
+  "evidence_url": "https://www.lincare.com"
+ },
+ {
+  "row": 57,
+  "label": "wrong",
+  "note": "Manufacturing",
+  "evidence_url": "https://www.denark.com/"
+ },
+ {
+  "row": 58,
+  "label": "correct",
+  "note": "aa-llp.com = Adamson Ahdoot LLP, personal injury law firm, Los Angeles",
+  "evidence_url": "http://web.archive.org/web/20210812062729/https://aa-llp.com/"
+ },
+ {
+  "row": 59,
+  "label": "correct",
+  "note": "Kinematica AG, Malters, Switzerland",
+  "evidence_url": "https://www.kinematica.ch"
+ },
+ {
+  "row": 60,
+  "label": "correct",
+  "note": "Lincoln Industries, Lincoln, Nebraska",
+  "evidence_url": "https://www.lincolnindustries.com"
+ },
+ {
+  "row": 61,
+  "label": "correct",
+  "note": "Guy José Bendaña-Guerrero & Asociados, IP law firm in Managua",
+  "evidence_url": "https://www.galalaw.com/member-info/nicaragua/guy-josé-bendaña-guerreroasociados"
+ },
+ {
+  "row": 62,
+  "label": "correct",
+  "note": "Modular Mining Systems HQ Tucson, Arizona (Komatsu subsidiary)",
+  "evidence_url": "https://www.modularmining.com"
+ },
+ {
+  "row": 63,
+  "label": "correct",
+  "note": "Total Fire Protection, Grand Rapids, Michigan",
+  "evidence_url": "https://totalfire.biz"
+ },
+ {
+  "row": 64,
+  "label": "correct",
+  "note": "EKZ library services, Reutlingen, Germany",
+  "evidence_url": "https://en.wikipedia.org/wiki/EKZ"
+ },
+ {
+  "row": 65,
+  "label": "correct",
+  "note": "Butler County Community College, Pennsylvania (or Kansas), both US",
+  "evidence_url": "https://bc3.edu"
+ },
+ {
+  "row": 66,
+  "label": "correct",
+  "note": "Tox is open-source encrypted messaging software",
+  "evidence_url": "https://tox.chat"
+ },
+ {
+  "row": 67,
+  "label": "correct",
+  "note": "Dubai Airports, UAE",
+  "evidence_url": ""
+ },
+ {
+  "row": 68,
+  "label": "correct",
+  "note": "pe.de = PE Automotive, commercial vehicle parts, Bremen, Germany",
+  "evidence_url": "https://pe.de"
+ },
+ {
+  "row": 69,
+  "label": "correct",
+  "note": "MultiCare Health System, Tacoma, Washington",
+  "evidence_url": "https://www.multicare.org"
+ },
+ {
+  "row": 70,
+  "label": "correct",
+  "note": "Noble Oil Services, used-oil recycling, North Carolina",
+  "evidence_url": "https://nobleoil.com"
+ },
+ {
+  "row": 71,
+  "label": "correct",
+  "note": "Fiocruz: Brazilian public health research/vaccine institution under Ministry of Health",
+  "evidence_url": "https://portal.fiocruz.br"
+ },
+ {
+  "row": 72,
+  "label": "correct",
+  "note": "SL Global Energy, oilfield consulting, Houston TX 77024",
+  "evidence_url": "https://slgienergy.com"
+ },
+ {
+  "row": 73,
+  "label": "correct",
+  "note": "Oman government business portal",
+  "evidence_url": ""
+ },
+ {
+  "row": 74,
+  "label": "unsure",
+  "note": "Curaleaf: cannabis cultivator/processor and dispensary operator; Retail vs Healthcare/Agriculture",
+  "evidence_url": "https://curaleaf.com"
+ },
+ {
+  "row": 75,
+  "label": "wrong",
+  "note": "Unknown; .ms is vanity TLD of a hacker forum, not Montserrat",
+  "evidence_url": ""
+ },
+ {
+  "row": 76,
+  "label": "wrong",
+  "note": "IL",
+  "evidence_url": "http://web.archive.org/web/20231231224500/https://saarengineer.com/"
+ },
+ {
+  "row": 77,
+  "label": "correct",
+  "note": "RKW SE, plastic film manufacturer, Germany",
+  "evidence_url": "https://www.rkw-group.com"
+ },
+ {
+  "row": 78,
+  "label": "correct",
+  "note": "colonail.com = official site of City of Colona, Illinois",
+  "evidence_url": "https://colonail.com"
+ },
+ {
+  "row": 79,
+  "label": "wrong",
+  "note": "Manufacturing",
+  "evidence_url": "http://web.archive.org/web/2021/http://ikk-group.com/"
+ },
+ {
+  "row": 80,
+  "label": "wrong",
+  "note": "Professional Services",
+  "evidence_url": "https://www.westminster.de"
+ },
+ {
+  "row": 81,
+  "label": "correct",
+  "note": "Savannah State University, Georgia, US",
+  "evidence_url": "https://www.savannahstate.edu"
+ },
+ {
+  "row": 82,
+  "label": "correct",
+  "note": "Davis & Crump P.C., law firm, Gulfport, Mississippi",
+  "evidence_url": "https://daviscrump.com"
+ },
+ {
+  "row": 83,
+  "label": "wrong",
+  "note": "US",
+  "evidence_url": "https://gpmlife.com"
+ },
+ {
+  "row": 84,
+  "label": "correct",
+  "note": "Atlas (atlas.ind.br), Brazilian stove manufacturer",
+  "evidence_url": ""
+ },
+ {
+  "row": 85,
+  "label": "unsure",
+  "note": "Williamson Dacar Associates not identifiable online",
+  "evidence_url": ""
+ },
+ {
+  "row": 86,
+  "label": "correct",
+  "note": "Hi Fly charter airline headquartered in Lisbon",
+  "evidence_url": "https://en.wikipedia.org/wiki/Hi_Fly_(airline)"
+ },
+ {
+  "row": 87,
+  "label": "correct",
+  "note": "Indian military/government defence data",
+  "evidence_url": ""
+ },
+ {
+  "row": 88,
+  "label": "correct",
+  "note": "Zuri Furniture HQ Lewisville/Dallas, Texas",
+  "evidence_url": "https://www.goodbed.com/mattress-retailer/zuri-furniture/"
+ },
+ {
+  "row": 89,
+  "label": "wrong",
+  "note": "Other",
+  "evidence_url": "https://www.breachsense.com/breaches/medusa-data-breach/"
+ },
+ {
+  "row": 90,
+  "label": "unsure",
+  "note": "planters-oil.ne likely truncated domain; organisation not identifiable",
+  "evidence_url": ""
+ },
+ {
+  "row": 91,
+  "label": "correct",
+  "note": "Valoores, AI/big data enterprise software",
+  "evidence_url": "https://valoores.com"
+ },
+ {
+  "row": 92,
+  "label": "correct",
+  "note": "Philippine Economic Zone Authority, Philippine government agency",
+  "evidence_url": "https://peza.gov.ph"
+ },
+ {
+  "row": 93,
+  "label": "correct",
+  "note": "Instituto de Cancerología (INCAN), Guatemala",
+  "evidence_url": "https://incan.org.gt"
+ },
+ {
+  "row": 94,
+  "label": "correct",
+  "note": "DRHR Law, business litigation firm, Houston",
+  "evidence_url": "https://drhrlaw.com"
+ },
+ {
+  "row": 95,
+  "label": "unsure",
+  "note": "LBI Trauma: biomedical research institute (Vienna); Education vs Healthcare",
+  "evidence_url": "https://trauma.lbg.ac.at/about-us/?lang=en"
+ },
+ {
+  "row": 96,
+  "label": "correct",
+  "note": "Riverhead Central School District, New York",
+  "evidence_url": "https://riverhead.net"
+ },
+ {
+  "row": 97,
+  "label": "unsure",
+  "note": "Ako Business Development Center (Iran): business coaching and online courses; Education vs Professional Services",
+  "evidence_url": "https://akobdc.com"
+ },
+ {
+  "row": 98,
+  "label": "correct",
+  "note": "Inocean AS, Norwegian marine engineering company",
+  "evidence_url": "https://inocean.no"
+ },
+ {
+  "row": 99,
+  "label": "unsure",
+  "note": "FortiGate device leak, multi-victim; no single organisation",
+  "evidence_url": ""
+ },
+ {
+  "row": 100,
+  "label": "correct",
+  "note": "Silvercup Studios, film studio in Long Island City, New York",
+  "evidence_url": "https://www.silvercupstudios.com"
+ },
+ {
+  "row": 101,
+  "label": "correct",
+  "note": "Colombian military data",
+  "evidence_url": ""
+ },
+ {
+  "row": 102,
+  "label": "wrong",
+  "note": "Transportation",
+  "evidence_url": "https://vlastuin.nl"
+ },
+ {
+  "row": 103,
+  "label": "correct",
+  "note": "Ramada Hervey Bay, Queensland, Australia",
+  "evidence_url": ""
+ },
+ {
+  "row": 104,
+  "label": "correct",
+  "note": "newyjh.com = H+ Yangji Hospital, Seoul",
+  "evidence_url": "https://newyjh.com"
+ },
+ {
+  "row": 105,
+  "label": "correct",
+  "note": "Argentina Ministry of Education",
+  "evidence_url": ""
+ },
+ {
+  "row": 106,
+  "label": "correct",
+  "note": "Schnabel Engineering, Glen Allen, Virginia",
+  "evidence_url": "https://schnabel-eng.com"
+ },
+ {
+  "row": 107,
+  "label": "wrong",
+  "note": "TH",
+  "evidence_url": "https://www.ssi-steel.com"
+ },
+ {
+  "row": 108,
+  "label": "correct",
+  "note": "SolarCraft, solar installer, Novato, California",
+  "evidence_url": "https://solarcraft.com"
+ }
+]

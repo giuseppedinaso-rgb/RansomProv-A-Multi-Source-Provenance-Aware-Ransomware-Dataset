@@ -1,0 +1,16 @@
+{
+  "model": "THP",
+  "mark": "sector",
+  "best_valid_loglike": -3.5416770382251466,
+  "params": {
+    "lr": 0.005628602197625121,
+    "batch_size": 8,
+    "dropout": 0.0,
+    "hidden_size": 32,
+    "num_layers": 1,
+    "num_heads": 4,
+    "time_emb_size": 8,
+    "use_ln": true
+  },
+  "n_trials": 20
+}

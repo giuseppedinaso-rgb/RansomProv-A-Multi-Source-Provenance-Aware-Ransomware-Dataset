@@ -1,0 +1,13 @@
+{
+  "model": "tabformer",
+  "best_val_loss": 1.7021304166417088,
+  "params": {
+    "lr": 0.0009338309022888708,
+    "hidden": 256,
+    "layers": 3,
+    "dropout": 0.3,
+    "weight_decay": 0.01,
+    "win": 128,
+    "loss": "ce"
+  }
+}

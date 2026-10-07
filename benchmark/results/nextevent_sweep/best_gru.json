@@ -1,0 +1,13 @@
+{
+  "model": "gru",
+  "best_val_loss": 1.685134610262784,
+  "params": {
+    "lr": 0.0004149587159047227,
+    "hidden": 128,
+    "layers": 1,
+    "dropout": 0.3,
+    "weight_decay": 0.0,
+    "win": 128,
+    "loss": "ce"
+  }
+}

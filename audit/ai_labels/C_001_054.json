@@ -1,0 +1,326 @@
+[
+ {
+  "row": 1,
+  "label": "correct",
+  "note": "Brunswick Hospital Center, psychiatric/medical hospital, Amityville NY",
+  "evidence_url": "https://brunswickhospitalcenter.org"
+ },
+ {
+  "row": 2,
+  "label": "unsure",
+  "note": "VEC Mexico not identifiable; emissions testing could be Prof. Services or Government",
+  "evidence_url": ""
+ },
+ {
+  "row": 3,
+  "label": "correct",
+  "note": "Unimasters Logistics HQ Sofia, Bulgaria",
+  "evidence_url": "https://projectcargo-weekly.com/2017/08/24/unimasters-logistics-bulgaria/"
+ },
+ {
+  "row": 4,
+  "label": "wrong",
+  "note": "Other",
+  "evidence_url": "https://www.hogapage.de/jobs/firma/wtv-wurttemberger-medien-gmbh-co-kg-heilbronn"
+ },
+ {
+  "row": 5,
+  "label": "correct",
+  "note": "Bolt Burdon, UK law firm",
+  "evidence_url": "https://www.boltburdon.co.uk"
+ },
+ {
+  "row": 6,
+  "label": "correct",
+  "note": "Gaza Electricity Distribution Company",
+  "evidence_url": "https://gedco.ps"
+ },
+ {
+  "row": 7,
+  "label": "correct",
+  "note": "City of Alexandria, Louisiana, USA",
+  "evidence_url": "https://cityofalexandriala.com"
+ },
+ {
+  "row": 8,
+  "label": "wrong",
+  "note": "Manufacturing",
+  "evidence_url": "https://rosagroup.com"
+ },
+ {
+  "row": 9,
+  "label": "correct",
+  "note": "Favoris AG, Swiss staffing/payrolling company",
+  "evidence_url": "https://web.archive.org/web/2021/https://favoris-ag.ch/"
+ },
+ {
+  "row": 10,
+  "label": "correct",
+  "note": "Alexandria Petroleum Company, Al Max, Alexandria, Egypt",
+  "evidence_url": "https://web.archive.org/web/2026/https://alx-pc.com/"
+ },
+ {
+  "row": 11,
+  "label": "wrong",
+  "note": "Healthcare",
+  "evidence_url": "https://www.refarmed.com"
+ },
+ {
+  "row": 12,
+  "label": "correct",
+  "note": "Assisted Living Pharmacy Service, Menomonee Falls WI",
+  "evidence_url": "https://alpsrx.com"
+ },
+ {
+  "row": 13,
+  "label": "correct",
+  "note": "PrintGlobe, Austin TX",
+  "evidence_url": "https://printglobe.com"
+ },
+ {
+  "row": 14,
+  "label": "correct",
+  "note": "J.T. Chapman, power transmission reps, Dallas TX",
+  "evidence_url": "https://jtchapman.com"
+ },
+ {
+  "row": 15,
+  "label": "unsure",
+  "note": "'SwissReal Group' not uniquely identifiable (UBS Swissreal fund / Swiss Real Management?)",
+  "evidence_url": ""
+ },
+ {
+  "row": 16,
+  "label": "correct",
+  "note": "ATS Air, HVAC contractor, Silicon Valley CA",
+  "evidence_url": "https://atsair.com"
+ },
+ {
+  "row": 17,
+  "label": "correct",
+  "note": "Transaher, Spanish logistics/transport company",
+  "evidence_url": "https://transaher.es"
+ },
+ {
+  "row": 18,
+  "label": "correct",
+  "note": "City of Neodesha, Kansas",
+  "evidence_url": "https://neodesha.org"
+ },
+ {
+  "row": 19,
+  "label": "wrong",
+  "note": "MX",
+  "evidence_url": "https://www.inside.beer/news/detail/germany-party-keg-pioneer-bought-by-envases-group"
+ },
+ {
+  "row": 20,
+  "label": "correct",
+  "note": "Thor Guard, Sunrise FL",
+  "evidence_url": "https://thorguard.com"
+ },
+ {
+  "row": 21,
+  "label": "correct",
+  "note": "Remar entities on .com.ec are Ecuadorian (Guayaquil/Quito)",
+  "evidence_url": "https://www.dunsguide.com/company/c0df03cfbba9ecfcaa2c258abeea488a/remar-representaciones-maritimas-del-ecuador-sa-remar"
+ },
+ {
+  "row": 22,
+  "label": "correct",
+  "note": "GerVetUSA Inc, Albertson, New York",
+  "evidence_url": "https://www.gervetusa.com/about-us"
+ },
+ {
+  "row": 23,
+  "label": "correct",
+  "note": "Iraqi Ministry of Finance is a government ministry",
+  "evidence_url": ""
+ },
+ {
+  "row": 24,
+  "label": "unsure",
+  "note": "McParlane & Associates not found online",
+  "evidence_url": ""
+ },
+ {
+  "row": 25,
+  "label": "correct",
+  "note": "Equis Development Pte. Ltd., Singapore (+65)",
+  "evidence_url": "https://equis.com"
+ },
+ {
+  "row": 26,
+  "label": "correct",
+  "note": "Williams, Porter, Day & Neville, Wyoming law firm",
+  "evidence_url": "https://wpdn.net"
+ },
+ {
+  "row": 27,
+  "label": "correct",
+  "note": "Glenroy flexible packaging, Wisconsin USA",
+  "evidence_url": "https://glenroy.com"
+ },
+ {
+  "row": 28,
+  "label": "correct",
+  "note": "Contec, US connected-tech supply chain (Schenectady NY)",
+  "evidence_url": "https://gocontec.com"
+ },
+ {
+  "row": 29,
+  "label": "correct",
+  "note": "STG International, US federal healthcare contractor",
+  "evidence_url": "https://stginternational.com"
+ },
+ {
+  "row": 30,
+  "label": "correct",
+  "note": "AD Consulting, Italian IT system integrator",
+  "evidence_url": "https://adcgroup.com"
+ },
+ {
+  "row": 31,
+  "label": "wrong",
+  "note": "ES",
+  "evidence_url": "https://iberianlawyer.com/?p=147578"
+ },
+ {
+  "row": 32,
+  "label": "unsure",
+  "note": "SF Bay Data Entry not identifiable",
+  "evidence_url": ""
+ },
+ {
+  "row": 33,
+  "label": "correct",
+  "note": "Taiwan government / Chansn Hospital, Taoyuan, Taiwan",
+  "evidence_url": "https://news.tvbs.com.tw/english/2846408"
+ },
+ {
+  "row": 34,
+  "label": "correct",
+  "note": "Kelsey School Division, Manitoba, Canada",
+  "evidence_url": "https://kelseyschooldivision.ca"
+ },
+ {
+  "row": 35,
+  "label": "correct",
+  "note": "Remar entities on .com.ec are Ecuadorian",
+  "evidence_url": "https://www.dunsguide.com/company/c0df03cfbba9ecfcaa2c258abeea488a/remar-representaciones-maritimas-del-ecuador-sa-remar"
+ },
+ {
+  "row": 36,
+  "label": "correct",
+  "note": "Indonesian SIM card registration data",
+  "evidence_url": ""
+ },
+ {
+  "row": 37,
+  "label": "wrong",
+  "note": "Professional Services",
+  "evidence_url": "https://year-ahead.partnershipsbulletin.com/derek-sharkey-0"
+ },
+ {
+  "row": 38,
+  "label": "correct",
+  "note": "Aglobis AG, Zug, Switzerland (chemical raw materials trading)",
+  "evidence_url": "https://business-monitor.ch/de/companies/146480-aglobis-ag"
+ },
+ {
+  "row": 39,
+  "label": "correct",
+  "note": "ChipsAway Austria, car repair, +43 phone",
+  "evidence_url": "https://chipsaway.at"
+ },
+ {
+  "row": 40,
+  "label": "correct",
+  "note": "Nissin Foods do Brasil Ltda",
+  "evidence_url": ""
+ },
+ {
+  "row": 41,
+  "label": "wrong",
+  "note": "Other",
+  "evidence_url": "https://www.minoas.gr/international-rights"
+ },
+ {
+  "row": 42,
+  "label": "correct",
+  "note": "Gebr. Hoffsümmer Spezialpapier, Düren, Germany",
+  "evidence_url": "https://web.archive.org/web/20221231093958/https://www.hoffsuemmer.de/"
+ },
+ {
+  "row": 43,
+  "label": "unsure",
+  "note": "DinaTec not identifiable",
+  "evidence_url": ""
+ },
+ {
+  "row": 44,
+  "label": "correct",
+  "note": "SDF Energy Group, Panama mini-hydro power generation",
+  "evidence_url": "https://web.archive.org/web/20200705212133/http://www.sdfeg.com:80/"
+ },
+ {
+  "row": 45,
+  "label": "correct",
+  "note": "United Guaranty, mortgage insurance (Arch MI)",
+  "evidence_url": "https://web.archive.org/web/2022/https://ugcorp.com/"
+ },
+ {
+  "row": 46,
+  "label": "unsure",
+  "note": "Victim 'North America' not identifiable",
+  "evidence_url": ""
+ },
+ {
+  "row": 47,
+  "label": "correct",
+  "note": "City of Princeton, Texas municipal government",
+  "evidence_url": "https://www.breachsense.com/breaches/city-of-princeton-texas-data-breach/"
+ },
+ {
+  "row": 48,
+  "label": "wrong",
+  "note": "Manufacturing",
+  "evidence_url": "https://www.constructionowners.com/news/total-fire-protection-expands-into-pennsylvania-with-victory-fire-protection-addition"
+ },
+ {
+  "row": 49,
+  "label": "correct",
+  "note": "Quantum Plastics, US injection molder (Central time, 844 number)",
+  "evidence_url": "https://quantumplastics.com"
+ },
+ {
+  "row": 50,
+  "label": "unsure",
+  "note": "Tema Litoclean Group not found online",
+  "evidence_url": ""
+ },
+ {
+  "row": 51,
+  "label": "correct",
+  "note": "Lakeview Loan Servicing, US mortgage servicer",
+  "evidence_url": "https://web.archive.org/web/2022/https://lakeview.com/"
+ },
+ {
+  "row": 52,
+  "label": "correct",
+  "note": "vaja.ir = Iranian Ministry of Intelligence",
+  "evidence_url": "https://vaja.ir"
+ },
+ {
+  "row": 53,
+  "label": "correct",
+  "note": "Union Civil Service Board, Myanmar statutory body",
+  "evidence_url": "https://en.wikipedia.org/wiki/Union_Civil_Service_Board"
+ },
+ {
+  "row": 54,
+  "label": "correct",
+  "note": "Grupo SCA, Spanish consultancy (Madrid, Bilbao)",
+  "evidence_url": "https://bouncewatch.com/company/grupo-sca"
+ }
+]

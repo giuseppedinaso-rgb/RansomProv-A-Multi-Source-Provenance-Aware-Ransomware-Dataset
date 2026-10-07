@@ -1,0 +1,27 @@
+{
+  "model": "IntensityFree",
+  "version": "observed",
+  "mark": "country",
+  "seed": 2,
+  "params": {
+    "lr": 0.0003489663333523677,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 32,
+    "spec_num_mix_components": 8,
+    "max_epoch": 200
+  },
+  "best_epoch": 192,
+  "valid": {
+    "loglike": 0.4890264110446258,
+    "num_events": 4651.0,
+    "acc": 0.5964308750806279,
+    "rmse": 12.739012152592924
+  },
+  "test": {
+    "loglike": 0.055101858594952535,
+    "num_events": 12831.0,
+    "acc": 0.5628555841321798,
+    "rmse": 18.82590236824886
+  }
+}

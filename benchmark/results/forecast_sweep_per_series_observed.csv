@@ -1,0 +1,47 @@
+version,group,unique_id,model,MAE,MASE
+observed,country,country:AU,LSTM (tuned),2.0464231790974736,1.4294418624143548
+observed,country,country:BR,LSTM (tuned),1.6975177843123674,1.0453135829712998
+observed,country,country:CA,LSTM (tuned),3.5561033189296722,1.4347037528095574
+observed,country,country:DE,LSTM (tuned),2.9422126188874245,1.4433495866240196
+observed,country,country:ES,LSTM (tuned),1.7624555863440037,1.4369846940923234
+observed,country,country:FR,LSTM (tuned),2.8210389763116837,1.7889515459537506
+observed,country,country:GB,LSTM (tuned),2.933842409402132,1.2237417536543653
+observed,country,country:IN,LSTM (tuned),2.099516259506345,1.5024061306559164
+observed,country,country:IT,LSTM (tuned),3.5561260860413313,1.5583024421978868
+observed,country,country:US,LSTM (tuned),18.32905751466751,1.328274840022359
+observed,country,country:other,LSTM (tuned),13.365134626626968,1.8560483695137748
+observed,gang,gang:akira,LSTM (tuned),6.110176645219326,2.0933840922127707
+observed,gang,gang:babuk2,LSTM (tuned),0.0002755261205891202,0.000316044667734579
+observed,gang,gang:babukbjorka,LSTM (tuned),0.0002774945786825356,0.0002661218500480054
+observed,gang,gang:bianlian,LSTM (tuned),0.0002774945786825356,0.00013091478107200266
+observed,gang,gang:blackbasta,LSTM (tuned),0.0002774945786825356,9.52107498705474e-05
+observed,gang,gang:clop,LSTM (tuned),8.185401527569923,1.1266964455596247
+observed,gang,gang:dispossessor,LSTM (tuned),0.0002774945786825356,9.662757650552578e-05
+observed,gang,gang:dragonforce,LSTM (tuned),4.66993429325521,4.630358578905589
+observed,gang,gang:fog,LSTM (tuned),0.0002774945786825356,0.0003152122884063754
+observed,gang,gang:funksec,LSTM (tuned),0.0002774945786825356,0.0005695941351904677
+observed,gang,gang:hunters,LSTM (tuned),0.0003686808710483547,0.0002974873235355689
+observed,gang,gang:incransom,LSTM (tuned),4.5319515876472,2.8974772445613244
+observed,gang,gang:killsec,LSTM (tuned),1.230404786751933,1.219977627542171
+observed,gang,gang:lockbit3,LSTM (tuned),0.017894516093775792,0.0015813129780753532
+observed,gang,gang:lynx,LSTM (tuned),1.9405165281386871,1.974264641671534
+observed,gang,gang:medusa,LSTM (tuned),1.6015195304692043,0.953576514325175
+observed,gang,gang:other,LSTM (tuned),37.8089839220047,1.2551145180520782
+observed,gang,gang:play,LSTM (tuned),4.102463740855455,1.3150363224112007
+observed,gang,gang:qilin,LSTM (tuned),10.141039088368416,5.070519544184208
+observed,gang,gang:ransomhub,LSTM (tuned),0.0002774945786825356,0.00014054920218985566
+observed,gang,gang:safepay,LSTM (tuned),4.5997635747608,3.4833161051586643
+observed,sector,sector:Agriculture and Food Production,LSTM (tuned),2.8979012109339237,1.0031196499386659
+observed,sector,sector:Education,LSTM (tuned),2.663230247795582,0.9499937164392778
+observed,sector,sector:Energy & Utilities,LSTM (tuned),2.262086160480976,0.9469197881083156
+observed,sector,sector:Financial Services,LSTM (tuned),3.8726368844509125,1.0464168948747268
+observed,sector,sector:Government & Defense,LSTM (tuned),2.655906807631254,1.0040100048234466
+observed,sector,sector:Healthcare,LSTM (tuned),4.959717780351639,1.146812214033877
+observed,sector,sector:Hospitality,LSTM (tuned),2.1635133996605873,1.1611516869738014
+observed,sector,sector:Manufacturing,LSTM (tuned),7.519131898880005,0.8828283313286107
+observed,sector,sector:Other,LSTM (tuned),3.5639139767736197,2.3691928141051903
+observed,sector,sector:Professional Services,LSTM (tuned),8.431576818227768,0.8399271926203907
+observed,sector,sector:Retail & E-Commerce,LSTM (tuned),4.777590796351433,1.0749579291790723
+observed,sector,sector:Technology,LSTM (tuned),7.995336890220642,1.3547493354899567
+observed,sector,sector:Transportation,LSTM (tuned),2.8235092647373676,0.9520189739892565
+observed,total,total,LSTM (tuned),44.35691452026367,0.9460005466406944

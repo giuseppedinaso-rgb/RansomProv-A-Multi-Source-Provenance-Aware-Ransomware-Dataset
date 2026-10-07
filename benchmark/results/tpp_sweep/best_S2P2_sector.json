@@ -1,0 +1,15 @@
+{
+  "model": "S2P2",
+  "mark": "sector",
+  "best_valid_loglike": 0.058075720508799354,
+  "params": {
+    "lr": 0.005858069152476555,
+    "batch_size": 16,
+    "dropout": 0.1,
+    "hidden_size": 64,
+    "num_layers": 2,
+    "P": 32,
+    "ssm_dropout": 0.2
+  },
+  "n_trials": 20
+}

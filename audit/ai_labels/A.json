@@ -1,0 +1,502 @@
+[
+ {
+  "event_id": 5851,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5261,
+  "label": "same",
+  "note": "Domain plus revenue/country placeholder string"
+ },
+ {
+  "event_id": 19843,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5924,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 32714,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 7183,
+  "label": "same",
+  "note": "All names 'Idera' with leak-size tail; domains idera.com/ideracorp.com variants"
+ },
+ {
+  "event_id": 11233,
+  "label": "same",
+  "note": "URL plus truncated placeholder 'https:// /'"
+ },
+ {
+  "event_id": 21192,
+  "label": "same",
+  "note": "Same company, Chinese name suffix omitted"
+ },
+ {
+  "event_id": 19759,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 16428,
+  "label": "same",
+  "note": "Same two-domain claim (gazomet.pl & cgas.pl), one copy truncated"
+ },
+ {
+  "event_id": 5995,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 24889,
+  "label": "same",
+  "note": "Name vs its domain zschimmer-schwarz.com"
+ },
+ {
+  "event_id": 5622,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 31090,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5086,
+  "label": "same",
+  "note": "Domain plus revenue/country placeholder string"
+ },
+ {
+  "event_id": 21528,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 22132,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 21828,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6431,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6166,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 7142,
+  "label": "same",
+  "note": "Case difference only"
+ },
+ {
+  "event_id": 5822,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 22090,
+  "label": "same",
+  "note": "Kovra with trailing placeholder characters"
+ },
+ {
+  "event_id": 24753,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 26109,
+  "label": "same",
+  "note": "Same name, one copy without domain suffix"
+ },
+ {
+  "event_id": 22036,
+  "label": "same",
+  "note": "Same name, one copy without domain suffix"
+ },
+ {
+  "event_id": 29939,
+  "label": "same",
+  "note": "Case difference only"
+ },
+ {
+  "event_id": 11959,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 8820,
+  "label": "same",
+  "note": "Name vs its domain lasen.com"
+ },
+ {
+  "event_id": 6019,
+  "label": "same",
+  "note": "Bissell.com plus '(CLEO)' tail placeholder"
+ },
+ {
+  "event_id": 21483,
+  "label": "same",
+  "note": "Same names, case and [EVIDANCE] prefix differences"
+ },
+ {
+  "event_id": 4283,
+  "label": "same",
+  "note": "Case difference only"
+ },
+ {
+  "event_id": 32460,
+  "label": "same",
+  "note": "Leak-site tail 'Database leaked'"
+ },
+ {
+  "event_id": 6153,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 19118,
+  "label": "same",
+  "note": "Youngfor Corporation uses Liteconn brand; liteconn.com is Youngfor's site"
+ },
+ {
+  "event_id": 30174,
+  "label": "same",
+  "note": "Leak-site tail 'Leaked'"
+ },
+ {
+  "event_id": 6571,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 36488,
+  "label": "same",
+  "note": "Typo variant Colins/Collins Aerospace"
+ },
+ {
+  "event_id": 24779,
+  "label": "different",
+  "note": "KYC UK (kycuk) and Vouch (vouch.co.uk) are distinct UK KYC firms"
+ },
+ {
+  "event_id": 22010,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6963,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 22037,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 24733,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5973,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5611,
+  "label": "same",
+  "note": "Name vs its domain globalresultspr.com"
+ },
+ {
+  "event_id": 12368,
+  "label": "same",
+  "note": "Truncated variants of onedoc.ch URL"
+ },
+ {
+  "event_id": 22141,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 2631,
+  "label": "same",
+  "note": "Same description text, one missing Algeiba.com prefix"
+ },
+ {
+  "event_id": 16332,
+  "label": "same",
+  "note": "Typo variants of Burgess Kilpatrick"
+ },
+ {
+  "event_id": 5874,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 10889,
+  "label": "same",
+  "note": "Same name, one with domain in parentheses"
+ },
+ {
+  "event_id": 22159,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 8823,
+  "label": "same",
+  "note": "Name vs its domain kandelaar.com"
+ },
+ {
+  "event_id": 6568,
+  "label": "same",
+  "note": "Case difference only (domain mismatch irrelevant to names)"
+ },
+ {
+  "event_id": 5679,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 26952,
+  "label": "same",
+  "note": "Leak-site tail 'LEAK'"
+ },
+ {
+  "event_id": 6505,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 21130,
+  "label": "same",
+  "note": "R F Owens Co Inc does business as Trucchi's Supermarkets"
+ },
+ {
+  "event_id": 21869,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5927,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 2369,
+  "label": "same",
+  "note": "Same name, one with domain in parentheses"
+ },
+ {
+  "event_id": 16728,
+  "label": "same",
+  "note": "Case difference only"
+ },
+ {
+  "event_id": 31865,
+  "label": "same",
+  "note": "spdyn.de plus generic placeholder 'technology breach'"
+ },
+ {
+  "event_id": 6582,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5829,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6707,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 16687,
+  "label": "same",
+  "note": "Legal suffix difference Inc/LLC"
+ },
+ {
+  "event_id": 9854,
+  "label": "same",
+  "note": "Leak-site tail 'Hacked'"
+ },
+ {
+  "event_id": 6347,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 30557,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5202,
+  "label": "same",
+  "note": "Domain plus revenue/country placeholder string"
+ },
+ {
+  "event_id": 16399,
+  "label": "same",
+  "note": "Domain plus location placeholder"
+ },
+ {
+  "event_id": 25984,
+  "label": "same",
+  "note": "Keter domain variants of same company"
+ },
+ {
+  "event_id": 5980,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 32388,
+  "label": "same",
+  "note": "Case difference only"
+ },
+ {
+  "event_id": 6609,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 30500,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6009,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 21721,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 12035,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5820,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 5205,
+  "label": "same",
+  "note": "Domain plus revenue/country placeholder string"
+ },
+ {
+  "event_id": 5771,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 24773,
+  "label": "same",
+  "note": "URL/domain variants"
+ },
+ {
+  "event_id": 27305,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6487,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6275,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 22071,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6013,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 30516,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 6453,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 8902,
+  "label": "same",
+  "note": "Truncated Tankerska Plovidba vs tankerska.hr"
+ },
+ {
+  "event_id": 12265,
+  "label": "same",
+  "note": "Domain vs truncated URL"
+ },
+ {
+  "event_id": 6260,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 29635,
+  "label": "same",
+  "note": "Case difference in legal suffix"
+ },
+ {
+  "event_id": 6296,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ },
+ {
+  "event_id": 31851,
+  "label": "same",
+  "note": "Domain plus generic 'Breach' placeholder"
+ },
+ {
+  "event_id": 88,
+  "label": "same",
+  "note": "'&' vs 'and' spelling"
+ },
+ {
+  "event_id": 9890,
+  "label": "same",
+  "note": "Leak-site tail 'Hacked'"
+ },
+ {
+  "event_id": 31220,
+  "label": "same",
+  "note": "Case/URL-prefix variants of same domain"
+ }
+]

@@ -1,0 +1,30 @@
+{
+  "model": "SAHP",
+  "version": "enriched",
+  "mark": "country",
+  "seed": 1,
+  "params": {
+    "lr": 0.004409218366150208,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 32,
+    "num_layers": 1,
+    "num_heads": 2,
+    "time_emb_size": 8,
+    "use_ln": false,
+    "max_epoch": 100
+  },
+  "best_epoch": 98,
+  "valid": {
+    "loglike": -2.101645542457267,
+    "num_events": 4651.0,
+    "acc": 0.5095678348742206,
+    "rmse": 9.44687535284865
+  },
+  "test": {
+    "loglike": -2.408184314032391,
+    "num_events": 12831.0,
+    "acc": 0.4910762995869379,
+    "rmse": 13.146250400578348
+  }
+}

@@ -1,0 +1,10 @@
+# Dataset construction (stages 1-5, release, validation). Python 3.10.
+pandas==2.3.3
+numpy==2.2.6
+requests==2.34.2
+tldextract==5.3.2
+pycountry==26.2.16
+openai==3.24.0        # OpenAI-compatible client for the local vLLM server
+scikit-learn==1.7.2
+scipy==1.15.3
+# Local LLM serving (separate environment): vllm, with the gpt-oss-120b weights

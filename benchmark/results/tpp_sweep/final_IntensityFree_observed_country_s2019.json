@@ -1,0 +1,27 @@
+{
+  "model": "IntensityFree",
+  "version": "observed",
+  "mark": "country",
+  "seed": 2019,
+  "params": {
+    "lr": 0.0003489663333523677,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 32,
+    "spec_num_mix_components": 8,
+    "max_epoch": 200
+  },
+  "best_epoch": 196,
+  "valid": {
+    "loglike": 0.7329295401777203,
+    "num_events": 4651.0,
+    "acc": 0.5869705439690389,
+    "rmse": 21.209742195494307
+  },
+  "test": {
+    "loglike": 0.21298318113265038,
+    "num_events": 12831.0,
+    "acc": 0.5510872106616788,
+    "rmse": 87.95965550587482
+  }
+}

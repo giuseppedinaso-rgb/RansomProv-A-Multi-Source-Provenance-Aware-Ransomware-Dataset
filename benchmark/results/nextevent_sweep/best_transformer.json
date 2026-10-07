@@ -1,0 +1,13 @@
+{
+  "model": "transformer",
+  "best_val_loss": 1.714637384766338,
+  "params": {
+    "lr": 0.00036592691463901956,
+    "hidden": 64,
+    "layers": 3,
+    "dropout": 0.3,
+    "weight_decay": 0.01,
+    "win": 128,
+    "loss": "ce"
+  }
+}

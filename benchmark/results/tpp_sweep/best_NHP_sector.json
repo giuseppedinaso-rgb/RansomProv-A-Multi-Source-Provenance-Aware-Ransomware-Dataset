@@ -1,0 +1,12 @@
+{
+  "model": "NHP",
+  "mark": "sector",
+  "best_valid_loglike": -2.0451685942980173,
+  "params": {
+    "lr": 0.008729565281930045,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 128
+  },
+  "n_trials": 20
+}

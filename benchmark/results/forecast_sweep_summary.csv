@@ -1,0 +1,81 @@
+version,group,model,MAE,MASE
+enriched,country,Chronos-Bolt-base,5.262,1.222
+enriched,country,Chronos-Bolt-mini,5.333,1.234
+enriched,country,Chronos-Bolt-small,5.166,1.202
+enriched,country,Chronos-Bolt-tiny,5.256,1.211
+enriched,gang,Chronos-Bolt-base,3.903,1.226
+enriched,gang,Chronos-Bolt-mini,3.924,1.239
+enriched,gang,Chronos-Bolt-small,3.903,1.223
+enriched,gang,Chronos-Bolt-tiny,3.903,1.236
+enriched,sector,Chronos-Bolt-base,4.707,1.063
+enriched,sector,Chronos-Bolt-mini,4.713,1.065
+enriched,sector,Chronos-Bolt-small,4.655,1.059
+enriched,sector,Chronos-Bolt-tiny,4.689,1.062
+enriched,total,Chronos-Bolt-base,42.99,0.917
+enriched,total,Chronos-Bolt-mini,44.75,0.954
+enriched,total,Chronos-Bolt-small,42.126,0.898
+enriched,total,Chronos-Bolt-tiny,43.599,0.93
+observed,country,Chronos-Bolt-base,4.929,1.462
+observed,country,Chronos-Bolt-mini,5.028,1.487
+observed,country,Chronos-Bolt-small,4.834,1.439
+observed,country,Chronos-Bolt-tiny,4.929,1.449
+observed,gang,Chronos-Bolt-base,3.903,1.226
+observed,gang,Chronos-Bolt-mini,3.924,1.239
+observed,gang,Chronos-Bolt-small,3.903,1.223
+observed,gang,Chronos-Bolt-tiny,3.903,1.236
+observed,sector,Chronos-Bolt-base,4.329,1.127
+observed,sector,Chronos-Bolt-mini,4.357,1.139
+observed,sector,Chronos-Bolt-small,4.311,1.128
+observed,sector,Chronos-Bolt-tiny,4.335,1.134
+observed,total,Chronos-Bolt-base,42.99,0.917
+observed,total,Chronos-Bolt-mini,44.75,0.954
+observed,total,Chronos-Bolt-small,42.126,0.898
+observed,total,Chronos-Bolt-tiny,43.599,0.93
+enriched,country,NBEATS (tuned),5.759,1.3
+enriched,country,NHITS (tuned),5.464,1.226
+enriched,country,PatchTST (tuned),5.323,1.2
+enriched,country,TFT (tuned),5.285,1.192
+enriched,country,TiDE (tuned),5.652,1.284
+enriched,gang,NBEATS (tuned),4.256,1.283
+enriched,gang,NHITS (tuned),3.975,1.23
+enriched,gang,PatchTST (tuned),3.972,1.226
+enriched,gang,TFT (tuned),3.877,1.221
+enriched,gang,TiDE (tuned),4.219,1.303
+enriched,sector,NBEATS (tuned),5.049,1.139
+enriched,sector,NHITS (tuned),4.797,1.082
+enriched,sector,PatchTST (tuned),4.664,1.062
+enriched,sector,TFT (tuned),4.739,1.084
+enriched,sector,TiDE (tuned),4.948,1.117
+enriched,total,NBEATS (tuned),47.691,1.017
+enriched,total,NHITS (tuned),45.739,0.975
+enriched,total,PatchTST (tuned),44.645,0.952
+enriched,total,TFT (tuned),42.797,0.913
+enriched,total,TiDE (tuned),45.896,0.979
+observed,country,NBEATS (tuned),5.099,1.458
+observed,country,NHITS (tuned),5.155,1.47
+observed,country,PatchTST (tuned),5.014,1.437
+observed,country,TFT (tuned),5.037,1.445
+observed,country,TiDE (tuned),5.006,1.451
+observed,gang,NBEATS (tuned),4.028,1.231
+observed,gang,NHITS (tuned),4.018,1.239
+observed,gang,PatchTST (tuned),3.983,1.225
+observed,gang,TFT (tuned),3.929,1.233
+observed,gang,TiDE (tuned),3.994,1.228
+observed,sector,NBEATS (tuned),4.405,1.148
+observed,sector,NHITS (tuned),4.477,1.156
+observed,sector,PatchTST (tuned),4.379,1.138
+observed,sector,TFT (tuned),4.366,1.139
+observed,sector,TiDE (tuned),4.324,1.126
+observed,total,NBEATS (tuned),45.239,0.965
+observed,total,NHITS (tuned),46.072,0.983
+observed,total,PatchTST (tuned),44.376,0.946
+observed,total,TFT (tuned),43.502,0.928
+observed,total,TiDE (tuned),43.113,0.919
+enriched,country,LSTM (tuned),5.3,1.199
+enriched,gang,LSTM (tuned),4.032,1.244
+enriched,sector,LSTM (tuned),4.664,1.067
+enriched,total,LSTM (tuned),44.089,0.94
+observed,country,LSTM (tuned),5.01,1.459
+observed,gang,LSTM (tuned),4.045,1.239
+observed,sector,LSTM (tuned),4.353,1.133
+observed,total,LSTM (tuned),44.357,0.946

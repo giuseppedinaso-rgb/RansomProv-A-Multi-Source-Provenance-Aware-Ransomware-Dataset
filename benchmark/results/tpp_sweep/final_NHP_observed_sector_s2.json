@@ -1,0 +1,26 @@
+{
+  "model": "NHP",
+  "version": "observed",
+  "mark": "sector",
+  "seed": 2,
+  "params": {
+    "lr": 0.008729565281930045,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 128,
+    "max_epoch": 100
+  },
+  "best_epoch": 57,
+  "valid": {
+    "loglike": -1.9176835015214302,
+    "num_events": 4651.0,
+    "acc": 0.27477961728660505,
+    "rmse": 12.67767277633381
+  },
+  "test": {
+    "loglike": -2.371903382703359,
+    "num_events": 12831.0,
+    "acc": 0.2398877718026654,
+    "rmse": 15.432355713666745
+  }
+}

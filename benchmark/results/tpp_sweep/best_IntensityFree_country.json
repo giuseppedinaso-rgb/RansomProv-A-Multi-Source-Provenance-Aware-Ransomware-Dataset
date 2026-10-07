@@ -1,0 +1,13 @@
+{
+  "model": "IntensityFree",
+  "mark": "country",
+  "best_valid_loglike": 0.5578010303183182,
+  "params": {
+    "lr": 0.0003489663333523677,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 32,
+    "num_mix_components": 8
+  },
+  "n_trials": 20
+}

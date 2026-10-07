@@ -1,0 +1,15 @@
+{
+  "model": "S2P2",
+  "mark": "country",
+  "best_valid_loglike": 0.7814350788425666,
+  "params": {
+    "lr": 0.003600091192911611,
+    "batch_size": 16,
+    "dropout": 0.1,
+    "hidden_size": 64,
+    "num_layers": 2,
+    "P": 32,
+    "ssm_dropout": 0.2
+  },
+  "n_trials": 20
+}

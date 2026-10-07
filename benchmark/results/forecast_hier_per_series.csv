@@ -1,0 +1,1601 @@
+unique_id,model,MASE,level,version,dimension
+total,AutoETS,0.8802677317403869,total,enriched,country
+total,AutoTheta,0.8674058516879251,total,enriched,country
+total,AutoETS/BottomUp,0.8753377506255898,total,enriched,country
+total,AutoTheta/BottomUp,0.8532350700233954,total,enriched,country
+total,AutoETS/TopDown_method-forecast_proportions,0.8802677317403869,total,enriched,country
+total,AutoTheta/TopDown_method-forecast_proportions,0.8674058516879251,total,enriched,country
+total,AutoETS/MinTrace_method-ols,0.8798079392848233,total,enriched,country
+total,AutoTheta/MinTrace_method-ols,0.8663157915598847,total,enriched,country
+total,AutoETS/MinTrace_method-mint_shrink,0.8765930813910537,total,enriched,country
+total,AutoTheta/MinTrace_method-mint_shrink,0.8578917490311864,total,enriched,country
+total,CrostonClassic,0.8772879738839665,total,enriched,country
+total,CrostonSBA,0.9204943890486503,total,enriched,country
+total,TSB,0.8968423660749988,total,enriched,country
+total,ADIDA,0.8802278844854952,total,enriched,country
+total,IMAPA,0.8802278844854952,total,enriched,country
+total,Naive,1.0523548578199053,total,enriched,country
+total/country:AU,AutoETS,1.2501333911224548,bottom,enriched,country
+total/country:AU,AutoTheta,1.232518347650216,bottom,enriched,country
+total/country:AU,AutoETS/BottomUp,1.2501333911224548,bottom,enriched,country
+total/country:AU,AutoTheta/BottomUp,1.232518347650216,bottom,enriched,country
+total/country:AU,AutoETS/TopDown_method-forecast_proportions,1.2434574598809502,bottom,enriched,country
+total/country:AU,AutoTheta/TopDown_method-forecast_proportions,1.231030043542109,bottom,enriched,country
+total/country:AU,AutoETS/MinTrace_method-ols,1.2275166731956146,bottom,enriched,country
+total/country:AU,AutoTheta/MinTrace_method-ols,1.2296068342527617,bottom,enriched,country
+total/country:AU,AutoETS/MinTrace_method-mint_shrink,1.2500118062955308,bottom,enriched,country
+total/country:AU,AutoTheta/MinTrace_method-mint_shrink,1.23248110133345,bottom,enriched,country
+total/country:AU,CrostonClassic,1.2111248615244126,bottom,enriched,country
+total/country:AU,CrostonSBA,1.1966206222649858,bottom,enriched,country
+total/country:AU,TSB,1.264777692692812,bottom,enriched,country
+total/country:AU,ADIDA,1.2162119992846891,bottom,enriched,country
+total/country:AU,IMAPA,1.2162119992846891,bottom,enriched,country
+total/country:AU,Naive,1.4606393129770991,bottom,enriched,country
+total/country:BR,AutoETS,0.8773156228183296,bottom,enriched,country
+total/country:BR,AutoTheta,0.8247682026583196,bottom,enriched,country
+total/country:BR,AutoETS/BottomUp,0.8773156228183296,bottom,enriched,country
+total/country:BR,AutoTheta/BottomUp,0.8247682026583196,bottom,enriched,country
+total/country:BR,AutoETS/TopDown_method-forecast_proportions,0.8718819858994111,bottom,enriched,country
+total/country:BR,AutoTheta/TopDown_method-forecast_proportions,0.8291751708485731,bottom,enriched,country
+total/country:BR,AutoETS/MinTrace_method-ols,0.8662611199307042,bottom,enriched,country
+total/country:BR,AutoTheta/MinTrace_method-ols,0.8396265408140464,bottom,enriched,country
+total/country:BR,AutoETS/MinTrace_method-mint_shrink,0.8771362868613674,bottom,enriched,country
+total/country:BR,AutoTheta/MinTrace_method-mint_shrink,0.8248861721331247,bottom,enriched,country
+total/country:BR,CrostonClassic,0.823247661586215,bottom,enriched,country
+total/country:BR,CrostonSBA,0.8254493216348296,bottom,enriched,country
+total/country:BR,TSB,0.8285365452814062,bottom,enriched,country
+total/country:BR,ADIDA,0.8167245916405856,bottom,enriched,country
+total/country:BR,IMAPA,0.8180816849172019,bottom,enriched,country
+total/country:BR,Naive,1.0234375,bottom,enriched,country
+total/country:CA,AutoETS,1.2317868547901356,bottom,enriched,country
+total/country:CA,AutoTheta,1.189976289212048,bottom,enriched,country
+total/country:CA,AutoETS/BottomUp,1.2317868547901356,bottom,enriched,country
+total/country:CA,AutoTheta/BottomUp,1.189976289212048,bottom,enriched,country
+total/country:CA,AutoETS/TopDown_method-forecast_proportions,1.2285367535196619,bottom,enriched,country
+total/country:CA,AutoTheta/TopDown_method-forecast_proportions,1.1920296466055458,bottom,enriched,country
+total/country:CA,AutoETS/MinTrace_method-ols,1.2311800223265774,bottom,enriched,country
+total/country:CA,AutoTheta/MinTrace_method-ols,1.1938933976312494,bottom,enriched,country
+total/country:CA,AutoETS/MinTrace_method-mint_shrink,1.2316835382949005,bottom,enriched,country
+total/country:CA,AutoTheta/MinTrace_method-mint_shrink,1.1900295654033515,bottom,enriched,country
+total/country:CA,CrostonClassic,1.1566814548235693,bottom,enriched,country
+total/country:CA,CrostonSBA,1.1249233354074386,bottom,enriched,country
+total/country:CA,TSB,1.2097140627188123,bottom,enriched,country
+total/country:CA,ADIDA,1.1813633842096896,bottom,enriched,country
+total/country:CA,IMAPA,1.1813633842096896,bottom,enriched,country
+total/country:CA,Naive,1.6540178571428572,bottom,enriched,country
+total/country:DE,AutoETS,1.0938081382669447,bottom,enriched,country
+total/country:DE,AutoTheta,1.0798504291556918,bottom,enriched,country
+total/country:DE,AutoETS/BottomUp,1.0938081382669447,bottom,enriched,country
+total/country:DE,AutoTheta/BottomUp,1.0798504291556918,bottom,enriched,country
+total/country:DE,AutoETS/TopDown_method-forecast_proportions,1.0984820288063804,bottom,enriched,country
+total/country:DE,AutoTheta/TopDown_method-forecast_proportions,1.0877718858094008,bottom,enriched,country
+total/country:DE,AutoETS/MinTrace_method-ols,1.1059603328976646,bottom,enriched,country
+total/country:DE,AutoTheta/MinTrace_method-ols,1.1000156254555045,bottom,enriched,country
+total/country:DE,AutoETS/MinTrace_method-mint_shrink,1.0939374714286023,bottom,enriched,country
+total/country:DE,AutoTheta/MinTrace_method-mint_shrink,1.0800167888441696,bottom,enriched,country
+total/country:DE,CrostonClassic,1.0764860487952814,bottom,enriched,country
+total/country:DE,CrostonSBA,1.0967905758376593,bottom,enriched,country
+total/country:DE,TSB,1.1126179759750081,bottom,enriched,country
+total/country:DE,ADIDA,1.0932304849254506,bottom,enriched,country
+total/country:DE,IMAPA,1.0932304849254506,bottom,enriched,country
+total/country:DE,Naive,1.511892504118616,bottom,enriched,country
+total/country:ES,AutoETS,1.069200883435015,bottom,enriched,country
+total/country:ES,AutoTheta,1.0270549182375968,bottom,enriched,country
+total/country:ES,AutoETS/BottomUp,1.069200883435015,bottom,enriched,country
+total/country:ES,AutoTheta/BottomUp,1.0270549182375968,bottom,enriched,country
+total/country:ES,AutoETS/TopDown_method-forecast_proportions,1.0605916499947674,bottom,enriched,country
+total/country:ES,AutoTheta/TopDown_method-forecast_proportions,1.0316859022684,bottom,enriched,country
+total/country:ES,AutoETS/MinTrace_method-ols,1.038070428746555,bottom,enriched,country
+total/country:ES,AutoTheta/MinTrace_method-ols,1.0463605051317646,bottom,enriched,country
+total/country:ES,AutoETS/MinTrace_method-mint_shrink,1.0690040863244703,bottom,enriched,country
+total/country:ES,AutoTheta/MinTrace_method-mint_shrink,1.0271021890259713,bottom,enriched,country
+total/country:ES,CrostonClassic,1.0340458714904577,bottom,enriched,country
+total/country:ES,CrostonSBA,1.052530048780575,bottom,enriched,country
+total/country:ES,TSB,1.0403105778697677,bottom,enriched,country
+total/country:ES,ADIDA,1.0213688616221863,bottom,enriched,country
+total/country:ES,IMAPA,1.0278382509821031,bottom,enriched,country
+total/country:ES,Naive,1.1174597855227881,bottom,enriched,country
+total/country:FR,AutoETS,1.4152822305748751,bottom,enriched,country
+total/country:FR,AutoTheta,1.417317678390643,bottom,enriched,country
+total/country:FR,AutoETS/BottomUp,1.4152822305748751,bottom,enriched,country
+total/country:FR,AutoTheta/BottomUp,1.417317678390643,bottom,enriched,country
+total/country:FR,AutoETS/TopDown_method-forecast_proportions,1.4151556343197735,bottom,enriched,country
+total/country:FR,AutoTheta/TopDown_method-forecast_proportions,1.4181547609687781,bottom,enriched,country
+total/country:FR,AutoETS/MinTrace_method-ols,1.4169418473708648,bottom,enriched,country
+total/country:FR,AutoTheta/MinTrace_method-ols,1.4245265079011975,bottom,enriched,country
+total/country:FR,AutoETS/MinTrace_method-mint_shrink,1.4152859150306654,bottom,enriched,country
+total/country:FR,AutoTheta/MinTrace_method-mint_shrink,1.4173593503825646,bottom,enriched,country
+total/country:FR,CrostonClassic,1.4212131199042854,bottom,enriched,country
+total/country:FR,CrostonSBA,1.4249820954505215,bottom,enriched,country
+total/country:FR,TSB,1.4712573696105007,bottom,enriched,country
+total/country:FR,ADIDA,1.4204571053743609,bottom,enriched,country
+total/country:FR,IMAPA,1.4204571053743609,bottom,enriched,country
+total/country:FR,Naive,1.6996173469387756,bottom,enriched,country
+total/country:GB,AutoETS,0.9391748366169951,bottom,enriched,country
+total/country:GB,AutoTheta,0.9533822324992305,bottom,enriched,country
+total/country:GB,AutoETS/BottomUp,0.9391748366169951,bottom,enriched,country
+total/country:GB,AutoTheta/BottomUp,0.9533822324992305,bottom,enriched,country
+total/country:GB,AutoETS/TopDown_method-forecast_proportions,0.9415704709207228,bottom,enriched,country
+total/country:GB,AutoTheta/TopDown_method-forecast_proportions,0.9553591258318337,bottom,enriched,country
+total/country:GB,AutoETS/MinTrace_method-ols,0.946836937917236,bottom,enriched,country
+total/country:GB,AutoTheta/MinTrace_method-ols,0.9597893087809689,bottom,enriched,country
+total/country:GB,AutoETS/MinTrace_method-mint_shrink,0.9393012652136666,bottom,enriched,country
+total/country:GB,AutoTheta/MinTrace_method-mint_shrink,0.9534152552626344,bottom,enriched,country
+total/country:GB,CrostonClassic,0.9479837446034354,bottom,enriched,country
+total/country:GB,CrostonSBA,0.946535886651642,bottom,enriched,country
+total/country:GB,TSB,0.9922309869253815,bottom,enriched,country
+total/country:GB,ADIDA,0.9479838269357546,bottom,enriched,country
+total/country:GB,IMAPA,0.9479838269357546,bottom,enriched,country
+total/country:GB,Naive,1.0869932432432432,bottom,enriched,country
+total/country:IN,AutoETS,1.3219056875926478,bottom,enriched,country
+total/country:IN,AutoTheta,1.3243678410081505,bottom,enriched,country
+total/country:IN,AutoETS/BottomUp,1.3219056875926478,bottom,enriched,country
+total/country:IN,AutoTheta/BottomUp,1.3243678410081505,bottom,enriched,country
+total/country:IN,AutoETS/TopDown_method-forecast_proportions,1.3219898389891729,bottom,enriched,country
+total/country:IN,AutoTheta/TopDown_method-forecast_proportions,1.3241247559908238,bottom,enriched,country
+total/country:IN,AutoETS/MinTrace_method-ols,1.3242021718159926,bottom,enriched,country
+total/country:IN,AutoTheta/MinTrace_method-ols,1.3259127005712752,bottom,enriched,country
+total/country:IN,AutoETS/MinTrace_method-mint_shrink,1.32194413694289,bottom,enriched,country
+total/country:IN,AutoTheta/MinTrace_method-mint_shrink,1.3243633573677775,bottom,enriched,country
+total/country:IN,CrostonClassic,1.351496875334288,bottom,enriched,country
+total/country:IN,CrostonSBA,1.3525366969219041,bottom,enriched,country
+total/country:IN,TSB,1.3194593025226216,bottom,enriched,country
+total/country:IN,ADIDA,1.32832540527319,bottom,enriched,country
+total/country:IN,IMAPA,1.3248851936565653,bottom,enriched,country
+total/country:IN,Naive,1.4298720472440944,bottom,enriched,country
+total/country:IT,AutoETS,1.2409919460826737,bottom,enriched,country
+total/country:IT,AutoTheta,1.230460358616122,bottom,enriched,country
+total/country:IT,AutoETS/BottomUp,1.2409919460826737,bottom,enriched,country
+total/country:IT,AutoTheta/BottomUp,1.230460358616122,bottom,enriched,country
+total/country:IT,AutoETS/TopDown_method-forecast_proportions,1.238201924848083,bottom,enriched,country
+total/country:IT,AutoTheta/TopDown_method-forecast_proportions,1.2322650712523344,bottom,enriched,country
+total/country:IT,AutoETS/MinTrace_method-ols,1.236287861505462,bottom,enriched,country
+total/country:IT,AutoTheta/MinTrace_method-ols,1.2403064067252176,bottom,enriched,country
+total/country:IT,AutoETS/MinTrace_method-mint_shrink,1.2408340258999706,bottom,enriched,country
+total/country:IT,AutoTheta/MinTrace_method-mint_shrink,1.2307270350590092,bottom,enriched,country
+total/country:IT,CrostonClassic,1.2314449612987737,bottom,enriched,country
+total/country:IT,CrostonSBA,1.2335208954532084,bottom,enriched,country
+total/country:IT,TSB,1.2556617464463316,bottom,enriched,country
+total/country:IT,ADIDA,1.2389519298628382,bottom,enriched,country
+total/country:IT,IMAPA,1.2389519298628382,bottom,enriched,country
+total/country:IT,Naive,1.437359865470852,bottom,enriched,country
+total/country:US,AutoETS,0.9966350834674048,bottom,enriched,country
+total/country:US,AutoTheta,0.9849537905249112,bottom,enriched,country
+total/country:US,AutoETS/BottomUp,0.9966350834674048,bottom,enriched,country
+total/country:US,AutoTheta/BottomUp,0.9849537905249112,bottom,enriched,country
+total/country:US,AutoETS/TopDown_method-forecast_proportions,1.003358146326759,bottom,enriched,country
+total/country:US,AutoTheta/TopDown_method-forecast_proportions,0.983335653659221,bottom,enriched,country
+total/country:US,AutoETS/MinTrace_method-ols,0.9978313471210035,bottom,enriched,country
+total/country:US,AutoTheta/MinTrace_method-ols,0.9846000842069944,bottom,enriched,country
+total/country:US,AutoETS/MinTrace_method-mint_shrink,0.998198248214545,bottom,enriched,country
+total/country:US,AutoTheta/MinTrace_method-mint_shrink,0.9844414909011245,bottom,enriched,country
+total/country:US,CrostonClassic,0.9745065164785279,bottom,enriched,country
+total/country:US,CrostonSBA,0.9888331234541917,bottom,enriched,country
+total/country:US,TSB,1.0251276480834415,bottom,enriched,country
+total/country:US,ADIDA,0.9966485631686139,bottom,enriched,country
+total/country:US,IMAPA,0.9966485631686139,bottom,enriched,country
+total/country:US,Naive,1.1259984468604394,bottom,enriched,country
+total/country:other,AutoETS,1.4075613826142062,bottom,enriched,country
+total/country:other,AutoTheta,1.3865666475948768,bottom,enriched,country
+total/country:other,AutoETS/BottomUp,1.4075613826142062,bottom,enriched,country
+total/country:other,AutoTheta/BottomUp,1.3865666475948768,bottom,enriched,country
+total/country:other,AutoETS/TopDown_method-forecast_proportions,1.4136945309221027,bottom,enriched,country
+total/country:other,AutoTheta/TopDown_method-forecast_proportions,1.3985418473038431,bottom,enriched,country
+total/country:other,AutoETS/MinTrace_method-ols,1.4092492875598588,bottom,enriched,country
+total/country:other,AutoTheta/MinTrace_method-ols,1.389905380588305,bottom,enriched,country
+total/country:other,AutoETS/MinTrace_method-mint_shrink,1.4078991334456366,bottom,enriched,country
+total/country:other,AutoTheta/MinTrace_method-mint_shrink,1.387497622251177,bottom,enriched,country
+total/country:other,CrostonClassic,1.4361354108144928,bottom,enriched,country
+total/country:other,CrostonSBA,1.4980001952716564,bottom,enriched,country
+total/country:other,TSB,1.396865405834248,bottom,enriched,country
+total/country:other,ADIDA,1.403587986685758,bottom,enriched,country
+total/country:other,IMAPA,1.403587986685758,bottom,enriched,country
+total/country:other,Naive,1.7695208147818344,bottom,enriched,country
+total/country:unknown,AutoETS,0.38662363229218444,bottom,enriched,country
+total/country:unknown,AutoTheta,0.38588542919050894,bottom,enriched,country
+total/country:unknown,AutoETS/BottomUp,0.38662363229218444,bottom,enriched,country
+total/country:unknown,AutoTheta/BottomUp,0.38588542919050894,bottom,enriched,country
+total/country:unknown,AutoETS/TopDown_method-forecast_proportions,0.3862401721797835,bottom,enriched,country
+total/country:unknown,AutoTheta/TopDown_method-forecast_proportions,0.38548355827241954,bottom,enriched,country
+total/country:unknown,AutoETS/MinTrace_method-ols,0.38582915157251685,bottom,enriched,country
+total/country:unknown,AutoTheta/MinTrace_method-ols,0.38578222513814137,bottom,enriched,country
+total/country:unknown,AutoETS/MinTrace_method-mint_shrink,0.38498723401624874,bottom,enriched,country
+total/country:unknown,AutoTheta/MinTrace_method-mint_shrink,0.38597699388203155,bottom,enriched,country
+total/country:unknown,CrostonClassic,0.3860521604117159,bottom,enriched,country
+total/country:unknown,CrostonSBA,0.3803658451245938,bottom,enriched,country
+total/country:unknown,TSB,0.40045477498301246,bottom,enriched,country
+total/country:unknown,ADIDA,0.3866951872674712,bottom,enriched,country
+total/country:unknown,IMAPA,0.3866951872674712,bottom,enriched,country
+total/country:unknown,Naive,0.485223896434635,bottom,enriched,country
+total,AutoETS,0.8802677317403869,total,enriched,sector
+total,AutoTheta,0.8674058516879251,total,enriched,sector
+total,AutoETS/BottomUp,0.8823499670653036,total,enriched,sector
+total,AutoTheta/BottomUp,0.8679256453502491,total,enriched,sector
+total,AutoETS/TopDown_method-forecast_proportions,0.8802677317403869,total,enriched,sector
+total,AutoTheta/TopDown_method-forecast_proportions,0.8674058516879251,total,enriched,sector
+total,AutoETS/MinTrace_method-ols,0.8804065474287146,total,enriched,sector
+total,AutoTheta/MinTrace_method-ols,0.8673454316042545,total,enriched,sector
+total,AutoETS/MinTrace_method-mint_shrink,0.8820994004481475,total,enriched,sector
+total,AutoTheta/MinTrace_method-mint_shrink,0.8673816745307666,total,enriched,sector
+total,CrostonClassic,0.8772879738839665,total,enriched,sector
+total,CrostonSBA,0.9204943890486503,total,enriched,sector
+total,TSB,0.8968423660749988,total,enriched,sector
+total,ADIDA,0.8802278844854952,total,enriched,sector
+total,IMAPA,0.8802278844854952,total,enriched,sector
+total,Naive,1.0523548578199053,total,enriched,sector
+total/sector:Agriculture and Food Production,AutoETS,0.9268906299482875,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoTheta,0.8557409419875249,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoETS/BottomUp,0.9268906299482875,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoTheta/BottomUp,0.8557409419875249,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoETS/TopDown_method-forecast_proportions,0.9230542980159044,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoTheta/TopDown_method-forecast_proportions,0.863746534152472,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoETS/MinTrace_method-ols,0.9196312782304543,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoTheta/MinTrace_method-ols,0.8695625247393203,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoETS/MinTrace_method-mint_shrink,0.9265992857852369,bottom,enriched,sector
+total/sector:Agriculture and Food Production,AutoTheta/MinTrace_method-mint_shrink,0.8562659180479248,bottom,enriched,sector
+total/sector:Agriculture and Food Production,CrostonClassic,0.8525631519732043,bottom,enriched,sector
+total/sector:Agriculture and Food Production,CrostonSBA,0.8556544530174129,bottom,enriched,sector
+total/sector:Agriculture and Food Production,TSB,0.864589258621989,bottom,enriched,sector
+total/sector:Agriculture and Food Production,ADIDA,0.851721055781986,bottom,enriched,sector
+total/sector:Agriculture and Food Production,IMAPA,0.851721055781986,bottom,enriched,sector
+total/sector:Agriculture and Food Production,Naive,1.2727452531645569,bottom,enriched,sector
+total/sector:Education,AutoETS,0.8979494415792296,bottom,enriched,sector
+total/sector:Education,AutoTheta,0.9105013896599568,bottom,enriched,sector
+total/sector:Education,AutoETS/BottomUp,0.8979494415792296,bottom,enriched,sector
+total/sector:Education,AutoTheta/BottomUp,0.9105013896599568,bottom,enriched,sector
+total/sector:Education,AutoETS/TopDown_method-forecast_proportions,0.901041069162772,bottom,enriched,sector
+total/sector:Education,AutoTheta/TopDown_method-forecast_proportions,0.9124062198708822,bottom,enriched,sector
+total/sector:Education,AutoETS/MinTrace_method-ols,0.905983436744993,bottom,enriched,sector
+total/sector:Education,AutoTheta/MinTrace_method-ols,0.9198764222775234,bottom,enriched,sector
+total/sector:Education,AutoETS/MinTrace_method-mint_shrink,0.898143398862441,bottom,enriched,sector
+total/sector:Education,AutoTheta/MinTrace_method-mint_shrink,0.9103017006197309,bottom,enriched,sector
+total/sector:Education,CrostonClassic,0.8986036938257116,bottom,enriched,sector
+total/sector:Education,CrostonSBA,0.8928954576641386,bottom,enriched,sector
+total/sector:Education,TSB,0.9154140931151387,bottom,enriched,sector
+total/sector:Education,ADIDA,0.8982668249637016,bottom,enriched,sector
+total/sector:Education,IMAPA,0.8982668249637016,bottom,enriched,sector
+total/sector:Education,Naive,1.1617021276595745,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoETS,0.907565214793095,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoTheta,0.9427783836279003,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoETS/BottomUp,0.907565214793095,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoTheta/BottomUp,0.9427783836279003,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoETS/TopDown_method-forecast_proportions,0.9084313739704293,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoTheta/TopDown_method-forecast_proportions,0.9387885342613235,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoETS/MinTrace_method-ols,0.9101974138904614,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoTheta/MinTrace_method-ols,0.935564283184915,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoETS/MinTrace_method-mint_shrink,0.9075976181902973,bottom,enriched,sector
+total/sector:Energy & Utilities,AutoTheta/MinTrace_method-mint_shrink,0.9423901432295212,bottom,enriched,sector
+total/sector:Energy & Utilities,CrostonClassic,0.9306124288299384,bottom,enriched,sector
+total/sector:Energy & Utilities,CrostonSBA,0.9186967460020776,bottom,enriched,sector
+total/sector:Energy & Utilities,TSB,0.9513045689309952,bottom,enriched,sector
+total/sector:Energy & Utilities,ADIDA,0.930529345707007,bottom,enriched,sector
+total/sector:Energy & Utilities,IMAPA,0.930529345707007,bottom,enriched,sector
+total/sector:Energy & Utilities,Naive,1.114059967585089,bottom,enriched,sector
+total/sector:Financial Services,AutoETS,0.9545769083935193,bottom,enriched,sector
+total/sector:Financial Services,AutoTheta,0.9536127056403558,bottom,enriched,sector
+total/sector:Financial Services,AutoETS/BottomUp,0.9545769083935193,bottom,enriched,sector
+total/sector:Financial Services,AutoTheta/BottomUp,0.9536127056403558,bottom,enriched,sector
+total/sector:Financial Services,AutoETS/TopDown_method-forecast_proportions,0.9591487627214567,bottom,enriched,sector
+total/sector:Financial Services,AutoTheta/TopDown_method-forecast_proportions,0.9578200115078854,bottom,enriched,sector
+total/sector:Financial Services,AutoETS/MinTrace_method-ols,0.9606437251359535,bottom,enriched,sector
+total/sector:Financial Services,AutoTheta/MinTrace_method-ols,0.9569672018515392,bottom,enriched,sector
+total/sector:Financial Services,AutoETS/MinTrace_method-mint_shrink,0.9548715804542572,bottom,enriched,sector
+total/sector:Financial Services,AutoTheta/MinTrace_method-mint_shrink,0.9532174668083523,bottom,enriched,sector
+total/sector:Financial Services,CrostonClassic,0.9494252828405801,bottom,enriched,sector
+total/sector:Financial Services,CrostonSBA,0.9598997472993277,bottom,enriched,sector
+total/sector:Financial Services,TSB,0.9782129399563219,bottom,enriched,sector
+total/sector:Financial Services,ADIDA,0.9543634693091756,bottom,enriched,sector
+total/sector:Financial Services,IMAPA,0.9543634693091756,bottom,enriched,sector
+total/sector:Financial Services,Naive,0.9639546858908341,bottom,enriched,sector
+total/sector:Government & Defense,AutoETS,0.9695505632578081,bottom,enriched,sector
+total/sector:Government & Defense,AutoTheta,0.9973019433124738,bottom,enriched,sector
+total/sector:Government & Defense,AutoETS/BottomUp,0.9695505632578081,bottom,enriched,sector
+total/sector:Government & Defense,AutoTheta/BottomUp,0.9973019433124738,bottom,enriched,sector
+total/sector:Government & Defense,AutoETS/TopDown_method-forecast_proportions,0.9685184874146616,bottom,enriched,sector
+total/sector:Government & Defense,AutoTheta/TopDown_method-forecast_proportions,1.0056131779232003,bottom,enriched,sector
+total/sector:Government & Defense,AutoETS/MinTrace_method-ols,0.9686275205110909,bottom,enriched,sector
+total/sector:Government & Defense,AutoTheta/MinTrace_method-ols,1.0075983511941091,bottom,enriched,sector
+total/sector:Government & Defense,AutoETS/MinTrace_method-mint_shrink,0.9695153897095512,bottom,enriched,sector
+total/sector:Government & Defense,AutoTheta/MinTrace_method-mint_shrink,0.9970883220997684,bottom,enriched,sector
+total/sector:Government & Defense,CrostonClassic,0.9847508515576939,bottom,enriched,sector
+total/sector:Government & Defense,CrostonSBA,0.9646060528476742,bottom,enriched,sector
+total/sector:Government & Defense,TSB,0.9661479119747899,bottom,enriched,sector
+total/sector:Government & Defense,ADIDA,0.9692841645547564,bottom,enriched,sector
+total/sector:Government & Defense,IMAPA,0.9692841645547564,bottom,enriched,sector
+total/sector:Government & Defense,Naive,1.1556274900398407,bottom,enriched,sector
+total/sector:Healthcare,AutoETS,1.023894872055813,bottom,enriched,sector
+total/sector:Healthcare,AutoTheta,1.0010919771264748,bottom,enriched,sector
+total/sector:Healthcare,AutoETS/BottomUp,1.023894872055813,bottom,enriched,sector
+total/sector:Healthcare,AutoTheta/BottomUp,1.0010919771264748,bottom,enriched,sector
+total/sector:Healthcare,AutoETS/TopDown_method-forecast_proportions,1.0263615567267985,bottom,enriched,sector
+total/sector:Healthcare,AutoTheta/TopDown_method-forecast_proportions,0.992359386139018,bottom,enriched,sector
+total/sector:Healthcare,AutoETS/MinTrace_method-ols,1.0263263061606294,bottom,enriched,sector
+total/sector:Healthcare,AutoTheta/MinTrace_method-ols,0.9941134939494141,bottom,enriched,sector
+total/sector:Healthcare,AutoETS/MinTrace_method-mint_shrink,1.0240577319211317,bottom,enriched,sector
+total/sector:Healthcare,AutoTheta/MinTrace_method-mint_shrink,1.0004634525914387,bottom,enriched,sector
+total/sector:Healthcare,CrostonClassic,1.0181980155237607,bottom,enriched,sector
+total/sector:Healthcare,CrostonSBA,1.0441445055266938,bottom,enriched,sector
+total/sector:Healthcare,TSB,1.0740933861656172,bottom,enriched,sector
+total/sector:Healthcare,ADIDA,1.0223597446526806,bottom,enriched,sector
+total/sector:Healthcare,IMAPA,1.0223597446526806,bottom,enriched,sector
+total/sector:Healthcare,Naive,1.1706558295964127,bottom,enriched,sector
+total/sector:Hospitality,AutoETS,1.0172259598042726,bottom,enriched,sector
+total/sector:Hospitality,AutoTheta,1.030891882029595,bottom,enriched,sector
+total/sector:Hospitality,AutoETS/BottomUp,1.0172259598042726,bottom,enriched,sector
+total/sector:Hospitality,AutoTheta/BottomUp,1.030891882029595,bottom,enriched,sector
+total/sector:Hospitality,AutoETS/TopDown_method-forecast_proportions,1.0150779499722624,bottom,enriched,sector
+total/sector:Hospitality,AutoTheta/TopDown_method-forecast_proportions,1.0321862393067454,bottom,enriched,sector
+total/sector:Hospitality,AutoETS/MinTrace_method-ols,1.0136985138581773,bottom,enriched,sector
+total/sector:Hospitality,AutoTheta/MinTrace_method-ols,1.0320444710894898,bottom,enriched,sector
+total/sector:Hospitality,AutoETS/MinTrace_method-mint_shrink,1.017175596581044,bottom,enriched,sector
+total/sector:Hospitality,AutoTheta/MinTrace_method-mint_shrink,1.030860678615887,bottom,enriched,sector
+total/sector:Hospitality,CrostonClassic,1.0167867095235075,bottom,enriched,sector
+total/sector:Hospitality,CrostonSBA,1.009096593847148,bottom,enriched,sector
+total/sector:Hospitality,TSB,1.09462722907435,bottom,enriched,sector
+total/sector:Hospitality,ADIDA,1.018262702820189,bottom,enriched,sector
+total/sector:Hospitality,IMAPA,1.018262702820189,bottom,enriched,sector
+total/sector:Hospitality,Naive,1.6090521694214874,bottom,enriched,sector
+total/sector:Manufacturing,AutoETS,0.7497847972460936,bottom,enriched,sector
+total/sector:Manufacturing,AutoTheta,0.7356414307537213,bottom,enriched,sector
+total/sector:Manufacturing,AutoETS/BottomUp,0.7497847972460936,bottom,enriched,sector
+total/sector:Manufacturing,AutoTheta/BottomUp,0.7356414307537213,bottom,enriched,sector
+total/sector:Manufacturing,AutoETS/TopDown_method-forecast_proportions,0.7575760923296782,bottom,enriched,sector
+total/sector:Manufacturing,AutoTheta/TopDown_method-forecast_proportions,0.7233426709409099,bottom,enriched,sector
+total/sector:Manufacturing,AutoETS/MinTrace_method-ols,0.7526373472997984,bottom,enriched,sector
+total/sector:Manufacturing,AutoTheta/MinTrace_method-ols,0.7305996277154871,bottom,enriched,sector
+total/sector:Manufacturing,AutoETS/MinTrace_method-mint_shrink,0.751064503577571,bottom,enriched,sector
+total/sector:Manufacturing,AutoTheta/MinTrace_method-mint_shrink,0.733007980923064,bottom,enriched,sector
+total/sector:Manufacturing,CrostonClassic,0.7557470006124195,bottom,enriched,sector
+total/sector:Manufacturing,CrostonSBA,0.8081702182320154,bottom,enriched,sector
+total/sector:Manufacturing,TSB,0.7488179895039747,bottom,enriched,sector
+total/sector:Manufacturing,ADIDA,0.7498679272087826,bottom,enriched,sector
+total/sector:Manufacturing,IMAPA,0.7498679272087826,bottom,enriched,sector
+total/sector:Manufacturing,Naive,0.9236005434782608,bottom,enriched,sector
+total/sector:Other,AutoETS,1.978762991987935,bottom,enriched,sector
+total/sector:Other,AutoTheta,1.9809712853076114,bottom,enriched,sector
+total/sector:Other,AutoETS/BottomUp,1.978762991987935,bottom,enriched,sector
+total/sector:Other,AutoTheta/BottomUp,1.9809712853076114,bottom,enriched,sector
+total/sector:Other,AutoETS/TopDown_method-forecast_proportions,1.971263618302037,bottom,enriched,sector
+total/sector:Other,AutoTheta/TopDown_method-forecast_proportions,1.9571441970183672,bottom,enriched,sector
+total/sector:Other,AutoETS/MinTrace_method-ols,1.9878210715010036,bottom,enriched,sector
+total/sector:Other,AutoTheta/MinTrace_method-ols,1.9641043818995347,bottom,enriched,sector
+total/sector:Other,AutoETS/MinTrace_method-mint_shrink,1.9787775047783893,bottom,enriched,sector
+total/sector:Other,AutoTheta/MinTrace_method-mint_shrink,1.9806411593781992,bottom,enriched,sector
+total/sector:Other,CrostonClassic,1.9653109565622326,bottom,enriched,sector
+total/sector:Other,CrostonSBA,2.0105462347722214,bottom,enriched,sector
+total/sector:Other,TSB,1.8887912214105114,bottom,enriched,sector
+total/sector:Other,ADIDA,1.9301609382619151,bottom,enriched,sector
+total/sector:Other,IMAPA,1.9340444192000645,bottom,enriched,sector
+total/sector:Other,Naive,1.9270588235294117,bottom,enriched,sector
+total/sector:Professional Services,AutoETS,0.8141167066759443,bottom,enriched,sector
+total/sector:Professional Services,AutoTheta,0.8080853597745894,bottom,enriched,sector
+total/sector:Professional Services,AutoETS/BottomUp,0.8141167066759443,bottom,enriched,sector
+total/sector:Professional Services,AutoTheta/BottomUp,0.8080853597745894,bottom,enriched,sector
+total/sector:Professional Services,AutoETS/TopDown_method-forecast_proportions,0.8079909584889879,bottom,enriched,sector
+total/sector:Professional Services,AutoTheta/TopDown_method-forecast_proportions,0.7986509228396456,bottom,enriched,sector
+total/sector:Professional Services,AutoETS/MinTrace_method-ols,0.8117101593405708,bottom,enriched,sector
+total/sector:Professional Services,AutoTheta/MinTrace_method-ols,0.8048174256855363,bottom,enriched,sector
+total/sector:Professional Services,AutoETS/MinTrace_method-mint_shrink,0.8128233658314684,bottom,enriched,sector
+total/sector:Professional Services,AutoTheta/MinTrace_method-mint_shrink,0.8060341568521284,bottom,enriched,sector
+total/sector:Professional Services,CrostonClassic,0.7962998657390887,bottom,enriched,sector
+total/sector:Professional Services,CrostonSBA,0.8114567030740995,bottom,enriched,sector
+total/sector:Professional Services,TSB,0.8514658850746014,bottom,enriched,sector
+total/sector:Professional Services,ADIDA,0.8142030909308933,bottom,enriched,sector
+total/sector:Professional Services,IMAPA,0.8142030909308933,bottom,enriched,sector
+total/sector:Professional Services,Naive,1.090292104276069,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoETS,1.0014798389295174,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoTheta,1.0030173019397133,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoETS/BottomUp,1.0014798389295174,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoTheta/BottomUp,1.0030173019397133,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoETS/TopDown_method-forecast_proportions,0.9916151174162362,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoTheta/TopDown_method-forecast_proportions,0.9805243345881844,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoETS/MinTrace_method-ols,0.9926845193590603,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoTheta/MinTrace_method-ols,0.9838277340951419,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoETS/MinTrace_method-mint_shrink,1.000259218325076,bottom,enriched,sector
+total/sector:Retail & E-Commerce,AutoTheta/MinTrace_method-mint_shrink,0.9997899911496014,bottom,enriched,sector
+total/sector:Retail & E-Commerce,CrostonClassic,0.959041865606457,bottom,enriched,sector
+total/sector:Retail & E-Commerce,CrostonSBA,0.953639244158466,bottom,enriched,sector
+total/sector:Retail & E-Commerce,TSB,0.9871820718607135,bottom,enriched,sector
+total/sector:Retail & E-Commerce,ADIDA,1.001417890143995,bottom,enriched,sector
+total/sector:Retail & E-Commerce,IMAPA,1.001417890143995,bottom,enriched,sector
+total/sector:Retail & E-Commerce,Naive,1.2520988805970148,bottom,enriched,sector
+total/sector:Technology,AutoETS,1.205843526666612,bottom,enriched,sector
+total/sector:Technology,AutoTheta,1.2013124565410265,bottom,enriched,sector
+total/sector:Technology,AutoETS/BottomUp,1.205843526666612,bottom,enriched,sector
+total/sector:Technology,AutoTheta/BottomUp,1.2013124565410265,bottom,enriched,sector
+total/sector:Technology,AutoETS/TopDown_method-forecast_proportions,1.2081476678421965,bottom,enriched,sector
+total/sector:Technology,AutoTheta/TopDown_method-forecast_proportions,1.1705900278738002,bottom,enriched,sector
+total/sector:Technology,AutoETS/MinTrace_method-ols,1.2069799781204371,bottom,enriched,sector
+total/sector:Technology,AutoTheta/MinTrace_method-ols,1.1859735445968795,bottom,enriched,sector
+total/sector:Technology,AutoETS/MinTrace_method-mint_shrink,1.2060649624434039,bottom,enriched,sector
+total/sector:Technology,AutoTheta/MinTrace_method-mint_shrink,1.197793288947825,bottom,enriched,sector
+total/sector:Technology,CrostonClassic,1.1353660599060118,bottom,enriched,sector
+total/sector:Technology,CrostonSBA,1.1574977212136963,bottom,enriched,sector
+total/sector:Technology,TSB,1.1935343677644012,bottom,enriched,sector
+total/sector:Technology,ADIDA,1.205903700624886,bottom,enriched,sector
+total/sector:Technology,IMAPA,1.205903700624886,bottom,enriched,sector
+total/sector:Technology,Naive,1.3132944915254239,bottom,enriched,sector
+total/sector:Transportation,AutoETS,0.8841943579074639,bottom,enriched,sector
+total/sector:Transportation,AutoTheta,0.8968064156812913,bottom,enriched,sector
+total/sector:Transportation,AutoETS/BottomUp,0.8841943579074639,bottom,enriched,sector
+total/sector:Transportation,AutoTheta/BottomUp,0.8968064156812913,bottom,enriched,sector
+total/sector:Transportation,AutoETS/TopDown_method-forecast_proportions,0.8875396052240233,bottom,enriched,sector
+total/sector:Transportation,AutoTheta/TopDown_method-forecast_proportions,0.9104952622591306,bottom,enriched,sector
+total/sector:Transportation,AutoETS/MinTrace_method-ols,0.8892787525209745,bottom,enriched,sector
+total/sector:Transportation,AutoTheta/MinTrace_method-ols,0.9150462154696077,bottom,enriched,sector
+total/sector:Transportation,AutoETS/MinTrace_method-mint_shrink,0.8843590922359857,bottom,enriched,sector
+total/sector:Transportation,AutoTheta/MinTrace_method-mint_shrink,0.8971877655028622,bottom,enriched,sector
+total/sector:Transportation,CrostonClassic,0.8757892735113224,bottom,enriched,sector
+total/sector:Transportation,CrostonSBA,0.8795072387844936,bottom,enriched,sector
+total/sector:Transportation,TSB,0.9003354377992232,bottom,enriched,sector
+total/sector:Transportation,ADIDA,0.8839728979926111,bottom,enriched,sector
+total/sector:Transportation,IMAPA,0.8839728979926111,bottom,enriched,sector
+total/sector:Transportation,Naive,1.0826298701298702,bottom,enriched,sector
+total/sector:unknown,AutoETS,0.9457832197673424,bottom,enriched,sector
+total/sector:unknown,AutoTheta,0.9473443454353407,bottom,enriched,sector
+total/sector:unknown,AutoETS/BottomUp,0.9457832197673424,bottom,enriched,sector
+total/sector:unknown,AutoTheta/BottomUp,0.9473443454353407,bottom,enriched,sector
+total/sector:unknown,AutoETS/TopDown_method-forecast_proportions,0.9471646622941085,bottom,enriched,sector
+total/sector:unknown,AutoTheta/TopDown_method-forecast_proportions,0.9509533997280678,bottom,enriched,sector
+total/sector:unknown,AutoETS/MinTrace_method-ols,0.9474924382408904,bottom,enriched,sector
+total/sector:unknown,AutoTheta/MinTrace_method-ols,0.9534585985723621,bottom,enriched,sector
+total/sector:unknown,AutoETS/MinTrace_method-mint_shrink,0.9461058685283273,bottom,enriched,sector
+total/sector:unknown,AutoTheta/MinTrace_method-mint_shrink,0.9484660318423093,bottom,enriched,sector
+total/sector:unknown,CrostonClassic,0.945669191956257,bottom,enriched,sector
+total/sector:unknown,CrostonSBA,0.9313631369243123,bottom,enriched,sector
+total/sector:unknown,TSB,0.9491684193898868,bottom,enriched,sector
+total/sector:unknown,ADIDA,0.9441611716170037,bottom,enriched,sector
+total/sector:unknown,IMAPA,0.9441611716170037,bottom,enriched,sector
+total/sector:unknown,Naive,1.1740503368263473,bottom,enriched,sector
+total,AutoETS,0.8802677317403869,total,enriched,gang
+total,AutoTheta,0.8674058516879251,total,enriched,gang
+total,AutoETS/BottomUp,0.8735448097934128,total,enriched,gang
+total,AutoTheta/BottomUp,0.8499197001089782,total,enriched,gang
+total,AutoETS/TopDown_method-forecast_proportions,0.8802677317403869,total,enriched,gang
+total,AutoTheta/TopDown_method-forecast_proportions,0.8674058516879251,total,enriched,gang
+total,AutoETS/MinTrace_method-ols,0.8795594831401469,total,enriched,gang
+total,AutoTheta/MinTrace_method-ols,0.866269787010969,total,enriched,gang
+total,AutoETS/MinTrace_method-mint_shrink,0.8737786405380212,total,enriched,gang
+total,AutoTheta/MinTrace_method-mint_shrink,0.8537019608336207,total,enriched,gang
+total,CrostonClassic,0.8772879738839665,total,enriched,gang
+total,CrostonSBA,0.9204943890486503,total,enriched,gang
+total,TSB,0.8968423660749988,total,enriched,gang
+total,ADIDA,0.8802278844854952,total,enriched,gang
+total,IMAPA,0.8802278844854952,total,enriched,gang
+total,Naive,1.0523548578199053,total,enriched,gang
+total/gang:akira,AutoETS,1.7160067761061095,bottom,enriched,gang
+total/gang:akira,AutoTheta,1.7315249019991121,bottom,enriched,gang
+total/gang:akira,AutoETS/BottomUp,1.7160067761061095,bottom,enriched,gang
+total/gang:akira,AutoTheta/BottomUp,1.7315249019991121,bottom,enriched,gang
+total/gang:akira,AutoETS/TopDown_method-forecast_proportions,1.6999495694176503,bottom,enriched,gang
+total/gang:akira,AutoTheta/TopDown_method-forecast_proportions,1.7682352039461995,bottom,enriched,gang
+total/gang:akira,AutoETS/MinTrace_method-ols,1.70658568574541,bottom,enriched,gang
+total/gang:akira,AutoTheta/MinTrace_method-ols,1.757803193190704,bottom,enriched,gang
+total/gang:akira,AutoETS/MinTrace_method-mint_shrink,1.7154733650091951,bottom,enriched,gang
+total/gang:akira,AutoTheta/MinTrace_method-mint_shrink,1.732665413211413,bottom,enriched,gang
+total/gang:akira,CrostonClassic,1.8119143771768458,bottom,enriched,gang
+total/gang:akira,CrostonSBA,1.7708359533399656,bottom,enriched,gang
+total/gang:akira,TSB,1.7024197608942102,bottom,enriched,gang
+total/gang:akira,ADIDA,1.7311672410521644,bottom,enriched,gang
+total/gang:akira,IMAPA,1.7223726210097545,bottom,enriched,gang
+total/gang:akira,Naive,2.275118960468521,bottom,enriched,gang
+total/gang:babuk2,AutoETS,0.30431884353858013,bottom,enriched,gang
+total/gang:babuk2,AutoTheta,0.3142419099175832,bottom,enriched,gang
+total/gang:babuk2,AutoETS/BottomUp,0.30431884353858013,bottom,enriched,gang
+total/gang:babuk2,AutoTheta/BottomUp,0.3142419099175832,bottom,enriched,gang
+total/gang:babuk2,AutoETS/TopDown_method-forecast_proportions,0.2927119188838351,bottom,enriched,gang
+total/gang:babuk2,AutoTheta/TopDown_method-forecast_proportions,0.3397055508033616,bottom,enriched,gang
+total/gang:babuk2,AutoETS/MinTrace_method-ols,0.3128800594726645,bottom,enriched,gang
+total/gang:babuk2,AutoTheta/MinTrace_method-ols,0.5622947589307388,bottom,enriched,gang
+total/gang:babuk2,AutoETS/MinTrace_method-mint_shrink,0.3028659731672163,bottom,enriched,gang
+total/gang:babuk2,AutoTheta/MinTrace_method-mint_shrink,0.32736325481547607,bottom,enriched,gang
+total/gang:babuk2,CrostonClassic,0.43090127856989335,bottom,enriched,gang
+total/gang:babuk2,CrostonSBA,0.40935621464139865,bottom,enriched,gang
+total/gang:babuk2,TSB,0.23198293297570147,bottom,enriched,gang
+total/gang:babuk2,ADIDA,0.8259921631637037,bottom,enriched,gang
+total/gang:babuk2,IMAPA,1.1387810256977522,bottom,enriched,gang
+total/gang:babuk2,Naive,0.0,bottom,enriched,gang
+total/gang:babukbjorka,AutoETS,0.20878452781622392,bottom,enriched,gang
+total/gang:babukbjorka,AutoTheta,0.2178899244111966,bottom,enriched,gang
+total/gang:babukbjorka,AutoETS/BottomUp,0.20878452781622392,bottom,enriched,gang
+total/gang:babukbjorka,AutoTheta/BottomUp,0.2178899244111966,bottom,enriched,gang
+total/gang:babukbjorka,AutoETS/TopDown_method-forecast_proportions,0.20062571508052238,bottom,enriched,gang
+total/gang:babukbjorka,AutoTheta/TopDown_method-forecast_proportions,0.2360515218884405,bottom,enriched,gang
+total/gang:babukbjorka,AutoETS/MinTrace_method-ols,0.2201170569115765,bottom,enriched,gang
+total/gang:babukbjorka,AutoTheta/MinTrace_method-ols,0.4266140967394654,bottom,enriched,gang
+total/gang:babukbjorka,AutoETS/MinTrace_method-mint_shrink,0.20805548603714527,bottom,enriched,gang
+total/gang:babukbjorka,AutoTheta/MinTrace_method-mint_shrink,0.23213335282369177,bottom,enriched,gang
+total/gang:babukbjorka,CrostonClassic,0.38523239194223535,bottom,enriched,gang
+total/gang:babukbjorka,CrostonSBA,0.3659707723451236,bottom,enriched,gang
+total/gang:babukbjorka,TSB,0.16079480106883565,bottom,enriched,gang
+total/gang:babukbjorka,ADIDA,0.6754118153879171,bottom,enriched,gang
+total/gang:babukbjorka,IMAPA,1.027348568046871,bottom,enriched,gang
+total/gang:babukbjorka,Naive,0.0,bottom,enriched,gang
+total/gang:bianlian,AutoETS,0.08423169267120144,bottom,enriched,gang
+total/gang:bianlian,AutoTheta,0.05529590559305293,bottom,enriched,gang
+total/gang:bianlian,AutoETS/BottomUp,0.08423169267120144,bottom,enriched,gang
+total/gang:bianlian,AutoTheta/BottomUp,0.05529590559305293,bottom,enriched,gang
+total/gang:bianlian,AutoETS/TopDown_method-forecast_proportions,0.0817550314177066,bottom,enriched,gang
+total/gang:bianlian,AutoTheta/TopDown_method-forecast_proportions,0.05893489772445558,bottom,enriched,gang
+total/gang:bianlian,AutoETS/MinTrace_method-ols,0.08347169314208194,bottom,enriched,gang
+total/gang:bianlian,AutoTheta/MinTrace_method-ols,0.1570139943036867,bottom,enriched,gang
+total/gang:bianlian,AutoETS/MinTrace_method-mint_shrink,0.083878575532705,bottom,enriched,gang
+total/gang:bianlian,AutoTheta/MinTrace_method-mint_shrink,0.05702680844177985,bottom,enriched,gang
+total/gang:bianlian,CrostonClassic,1.1736217775207758,bottom,enriched,gang
+total/gang:bianlian,CrostonSBA,1.1149406886447368,bottom,enriched,gang
+total/gang:bianlian,TSB,0.006364704827197555,bottom,enriched,gang
+total/gang:bianlian,ADIDA,0.07150377608803916,bottom,enriched,gang
+total/gang:bianlian,IMAPA,0.06268812191069321,bottom,enriched,gang
+total/gang:bianlian,Naive,0.0,bottom,enriched,gang
+total/gang:blackbasta,AutoETS,0.01478440316783764,bottom,enriched,gang
+total/gang:blackbasta,AutoTheta,0.016844081199262114,bottom,enriched,gang
+total/gang:blackbasta,AutoETS/BottomUp,0.01478440316783764,bottom,enriched,gang
+total/gang:blackbasta,AutoTheta/BottomUp,0.016844081199262114,bottom,enriched,gang
+total/gang:blackbasta,AutoETS/TopDown_method-forecast_proportions,0.01430564578101998,bottom,enriched,gang
+total/gang:blackbasta,AutoTheta/TopDown_method-forecast_proportions,0.01794268458092598,bottom,enriched,gang
+total/gang:blackbasta,AutoETS/MinTrace_method-ols,0.027559009494496044,bottom,enriched,gang
+total/gang:blackbasta,AutoTheta/MinTrace_method-ols,0.09220486289710217,bottom,enriched,gang
+total/gang:blackbasta,AutoETS/MinTrace_method-mint_shrink,0.01443365864262551,bottom,enriched,gang
+total/gang:blackbasta,AutoTheta/MinTrace_method-mint_shrink,0.01934983530267537,bottom,enriched,gang
+total/gang:blackbasta,CrostonClassic,1.137446267189187,bottom,enriched,gang
+total/gang:blackbasta,CrostonSBA,1.0805739538297277,bottom,enriched,gang
+total/gang:blackbasta,TSB,0.0005510040558647255,bottom,enriched,gang
+total/gang:blackbasta,ADIDA,0.009310853985622406,bottom,enriched,gang
+total/gang:blackbasta,IMAPA,0.012026997801102344,bottom,enriched,gang
+total/gang:blackbasta,Naive,0.0,bottom,enriched,gang
+total/gang:clop,AutoETS,1.5724469763168052,bottom,enriched,gang
+total/gang:clop,AutoTheta,1.5484497683820124,bottom,enriched,gang
+total/gang:clop,AutoETS/BottomUp,1.5724469763168052,bottom,enriched,gang
+total/gang:clop,AutoTheta/BottomUp,1.5484497683820124,bottom,enriched,gang
+total/gang:clop,AutoETS/TopDown_method-forecast_proportions,1.5740643061222557,bottom,enriched,gang
+total/gang:clop,AutoTheta/TopDown_method-forecast_proportions,1.5672006835150143,bottom,enriched,gang
+total/gang:clop,AutoETS/MinTrace_method-ols,1.5743689964169063,bottom,enriched,gang
+total/gang:clop,AutoTheta/MinTrace_method-ols,1.5733260003766603,bottom,enriched,gang
+total/gang:clop,AutoETS/MinTrace_method-mint_shrink,1.574377920853856,bottom,enriched,gang
+total/gang:clop,AutoTheta/MinTrace_method-mint_shrink,1.5692144174347118,bottom,enriched,gang
+total/gang:clop,CrostonClassic,1.6320525534659638,bottom,enriched,gang
+total/gang:clop,CrostonSBA,1.5907762125573714,bottom,enriched,gang
+total/gang:clop,TSB,1.5897424659180965,bottom,enriched,gang
+total/gang:clop,ADIDA,1.5402036076307428,bottom,enriched,gang
+total/gang:clop,IMAPA,1.538294015139572,bottom,enriched,gang
+total/gang:clop,Naive,1.6625183823529412,bottom,enriched,gang
+total/gang:dispossessor,AutoETS,0.4512582607809805,bottom,enriched,gang
+total/gang:dispossessor,AutoTheta,0.003299848806285844,bottom,enriched,gang
+total/gang:dispossessor,AutoETS/BottomUp,0.4512582607809805,bottom,enriched,gang
+total/gang:dispossessor,AutoTheta/BottomUp,0.003299848806285844,bottom,enriched,gang
+total/gang:dispossessor,AutoETS/TopDown_method-forecast_proportions,0.44737917320546194,bottom,enriched,gang
+total/gang:dispossessor,AutoTheta/TopDown_method-forecast_proportions,0.0035150712939169314,bottom,enriched,gang
+total/gang:dispossessor,AutoETS/MinTrace_method-ols,0.43618439232913037,bottom,enriched,gang
+total/gang:dispossessor,AutoTheta/MinTrace_method-ols,0.08104105632168757,bottom,enriched,gang
+total/gang:dispossessor,AutoETS/MinTrace_method-mint_shrink,0.4375729145565154,bottom,enriched,gang
+total/gang:dispossessor,AutoTheta/MinTrace_method-mint_shrink,0.07285311455614646,bottom,enriched,gang
+total/gang:dispossessor,CrostonClassic,0.6549100685839623,bottom,enriched,gang
+total/gang:dispossessor,CrostonSBA,0.6221645651547641,bottom,enriched,gang
+total/gang:dispossessor,TSB,5.3666097495092495e-05,bottom,enriched,gang
+total/gang:dispossessor,ADIDA,0.2963066280248844,bottom,enriched,gang
+total/gang:dispossessor,IMAPA,0.3664286294324208,bottom,enriched,gang
+total/gang:dispossessor,Naive,0.0,bottom,enriched,gang
+total/gang:dragonforce,AutoETS,5.203616828719224,bottom,enriched,gang
+total/gang:dragonforce,AutoTheta,4.9789556386966725,bottom,enriched,gang
+total/gang:dragonforce,AutoETS/BottomUp,5.203616828719224,bottom,enriched,gang
+total/gang:dragonforce,AutoTheta/BottomUp,4.9789556386966725,bottom,enriched,gang
+total/gang:dragonforce,AutoETS/TopDown_method-forecast_proportions,5.2042859588666195,bottom,enriched,gang
+total/gang:dragonforce,AutoTheta/TopDown_method-forecast_proportions,5.027175336162919,bottom,enriched,gang
+total/gang:dragonforce,AutoETS/MinTrace_method-ols,5.2103546988719955,bottom,enriched,gang
+total/gang:dragonforce,AutoTheta/MinTrace_method-ols,5.0290344343851165,bottom,enriched,gang
+total/gang:dragonforce,AutoETS/MinTrace_method-mint_shrink,5.203909971284533,bottom,enriched,gang
+total/gang:dragonforce,AutoTheta/MinTrace_method-mint_shrink,4.9803851458110655,bottom,enriched,gang
+total/gang:dragonforce,CrostonClassic,5.011794402481666,bottom,enriched,gang
+total/gang:dragonforce,CrostonSBA,4.96183365481521,bottom,enriched,gang
+total/gang:dragonforce,TSB,4.802270396058333,bottom,enriched,gang
+total/gang:dragonforce,ADIDA,5.013403421837091,bottom,enriched,gang
+total/gang:dragonforce,IMAPA,5.004646385187097,bottom,enriched,gang
+total/gang:dragonforce,Naive,4.849179025423729,bottom,enriched,gang
+total/gang:fog,AutoETS,0.0016495774839033871,bottom,enriched,gang
+total/gang:fog,AutoTheta,0.00166160989376068,bottom,enriched,gang
+total/gang:fog,AutoETS/BottomUp,0.0016495774839033871,bottom,enriched,gang
+total/gang:fog,AutoTheta/BottomUp,0.00166160989376068,bottom,enriched,gang
+total/gang:fog,AutoETS/TopDown_method-forecast_proportions,0.001578319386358225,bottom,enriched,gang
+total/gang:fog,AutoTheta/TopDown_method-forecast_proportions,0.001819095105097178,bottom,enriched,gang
+total/gang:fog,AutoETS/MinTrace_method-ols,0.08561080960416165,bottom,enriched,gang
+total/gang:fog,AutoTheta/MinTrace_method-ols,0.25624442364937217,bottom,enriched,gang
+total/gang:fog,AutoETS/MinTrace_method-mint_shrink,0.0021949129421682755,bottom,enriched,gang
+total/gang:fog,AutoTheta/MinTrace_method-mint_shrink,0.0057382396327770435,bottom,enriched,gang
+total/gang:fog,CrostonClassic,0.9503897927670225,bottom,enriched,gang
+total/gang:fog,CrostonSBA,0.9028703031286714,bottom,enriched,gang
+total/gang:fog,TSB,0.039829994366460994,bottom,enriched,gang
+total/gang:fog,ADIDA,1.223151074553151,bottom,enriched,gang
+total/gang:fog,IMAPA,0.6042042454569929,bottom,enriched,gang
+total/gang:fog,Naive,0.0,bottom,enriched,gang
+total/gang:funksec,AutoETS,3.5754524845292378e-09,bottom,enriched,gang
+total/gang:funksec,AutoTheta,3.497283864416888e-09,bottom,enriched,gang
+total/gang:funksec,AutoETS/BottomUp,3.5754524845292378e-09,bottom,enriched,gang
+total/gang:funksec,AutoTheta/BottomUp,3.497283864416888e-09,bottom,enriched,gang
+total/gang:funksec,AutoETS/TopDown_method-forecast_proportions,3.417846074172487e-09,bottom,enriched,gang
+total/gang:funksec,AutoTheta/TopDown_method-forecast_proportions,3.844260091378089e-09,bottom,enriched,gang
+total/gang:funksec,AutoETS/MinTrace_method-ols,0.1546960503893335,bottom,enriched,gang
+total/gang:funksec,AutoTheta/MinTrace_method-ols,0.460039219798551,bottom,enriched,gang
+total/gang:funksec,AutoETS/MinTrace_method-mint_shrink,0.002748611168738255,bottom,enriched,gang
+total/gang:funksec,AutoTheta/MinTrace_method-mint_shrink,0.008611510161384022,bottom,enriched,gang
+total/gang:funksec,CrostonClassic,0.749509114906928,bottom,enriched,gang
+total/gang:funksec,CrostonSBA,0.7120336591615816,bottom,enriched,gang
+total/gang:funksec,TSB,0.05430652043969602,bottom,enriched,gang
+total/gang:funksec,ADIDA,2.5198389548529905,bottom,enriched,gang
+total/gang:funksec,IMAPA,1.8768857217614485,bottom,enriched,gang
+total/gang:funksec,Naive,0.0,bottom,enriched,gang
+total/gang:hunters,AutoETS,0.10233759087230916,bottom,enriched,gang
+total/gang:hunters,AutoTheta,0.10560749938346944,bottom,enriched,gang
+total/gang:hunters,AutoETS/BottomUp,0.10233759087230916,bottom,enriched,gang
+total/gang:hunters,AutoTheta/BottomUp,0.10560749938346944,bottom,enriched,gang
+total/gang:hunters,AutoETS/TopDown_method-forecast_proportions,0.0985170490558369,bottom,enriched,gang
+total/gang:hunters,AutoTheta/TopDown_method-forecast_proportions,0.1139279974598572,bottom,enriched,gang
+total/gang:hunters,AutoETS/MinTrace_method-ols,0.11409744573138238,bottom,enriched,gang
+total/gang:hunters,AutoTheta/MinTrace_method-ols,0.2819730187797118,bottom,enriched,gang
+total/gang:hunters,AutoETS/MinTrace_method-mint_shrink,0.10211682634741671,bottom,enriched,gang
+total/gang:hunters,AutoTheta/MinTrace_method-mint_shrink,0.10696164862030752,bottom,enriched,gang
+total/gang:hunters,CrostonClassic,1.774759504823575,bottom,enriched,gang
+total/gang:hunters,CrostonSBA,1.6860215295823955,bottom,enriched,gang
+total/gang:hunters,TSB,0.055911541570857655,bottom,enriched,gang
+total/gang:hunters,ADIDA,0.1663886207330371,bottom,enriched,gang
+total/gang:hunters,IMAPA,0.1348820712217707,bottom,enriched,gang
+total/gang:hunters,Naive,0.0,bottom,enriched,gang
+total/gang:incransom,AutoETS,2.79533541403967,bottom,enriched,gang
+total/gang:incransom,AutoTheta,2.789203831443462,bottom,enriched,gang
+total/gang:incransom,AutoETS/BottomUp,2.79533541403967,bottom,enriched,gang
+total/gang:incransom,AutoTheta/BottomUp,2.789203831443462,bottom,enriched,gang
+total/gang:incransom,AutoETS/TopDown_method-forecast_proportions,2.800846347861789,bottom,enriched,gang
+total/gang:incransom,AutoTheta/TopDown_method-forecast_proportions,2.814267693054006,bottom,enriched,gang
+total/gang:incransom,AutoETS/MinTrace_method-ols,2.8067094927606138,bottom,enriched,gang
+total/gang:incransom,AutoTheta/MinTrace_method-ols,2.7956166437902303,bottom,enriched,gang
+total/gang:incransom,AutoETS/MinTrace_method-mint_shrink,2.795508607858038,bottom,enriched,gang
+total/gang:incransom,AutoTheta/MinTrace_method-mint_shrink,2.7895322363181916,bottom,enriched,gang
+total/gang:incransom,CrostonClassic,2.7218643183766416,bottom,enriched,gang
+total/gang:incransom,CrostonSBA,2.712408486933631,bottom,enriched,gang
+total/gang:incransom,TSB,2.8421951527800062,bottom,enriched,gang
+total/gang:incransom,ADIDA,2.746698558232697,bottom,enriched,gang
+total/gang:incransom,IMAPA,2.77140981770256,bottom,enriched,gang
+total/gang:incransom,Naive,3.2566598360655736,bottom,enriched,gang
+total/gang:killsec,AutoETS,1.69028116286662,bottom,enriched,gang
+total/gang:killsec,AutoTheta,1.7152140741543846,bottom,enriched,gang
+total/gang:killsec,AutoETS/BottomUp,1.69028116286662,bottom,enriched,gang
+total/gang:killsec,AutoTheta/BottomUp,1.7152140741543846,bottom,enriched,gang
+total/gang:killsec,AutoETS/TopDown_method-forecast_proportions,1.683695763093507,bottom,enriched,gang
+total/gang:killsec,AutoTheta/TopDown_method-forecast_proportions,1.729329563064995,bottom,enriched,gang
+total/gang:killsec,AutoETS/MinTrace_method-ols,1.693028479777959,bottom,enriched,gang
+total/gang:killsec,AutoTheta/MinTrace_method-ols,1.799656649074325,bottom,enriched,gang
+total/gang:killsec,AutoETS/MinTrace_method-mint_shrink,1.6899982133319917,bottom,enriched,gang
+total/gang:killsec,AutoTheta/MinTrace_method-mint_shrink,1.7161799242301574,bottom,enriched,gang
+total/gang:killsec,CrostonClassic,1.5511657393753524,bottom,enriched,gang
+total/gang:killsec,CrostonSBA,1.5123389142709913,bottom,enriched,gang
+total/gang:killsec,TSB,1.6539049706423334,bottom,enriched,gang
+total/gang:killsec,ADIDA,1.7426475049589074,bottom,enriched,gang
+total/gang:killsec,IMAPA,1.6924804037117993,bottom,enriched,gang
+total/gang:killsec,Naive,2.416843220338983,bottom,enriched,gang
+total/gang:lockbit3,AutoETS,0.014665692421443038,bottom,enriched,gang
+total/gang:lockbit3,AutoTheta,0.014557291858505276,bottom,enriched,gang
+total/gang:lockbit3,AutoETS/BottomUp,0.014665692421443038,bottom,enriched,gang
+total/gang:lockbit3,AutoTheta/BottomUp,0.014557291858505276,bottom,enriched,gang
+total/gang:lockbit3,AutoETS/TopDown_method-forecast_proportions,0.014198164035439277,bottom,enriched,gang
+total/gang:lockbit3,AutoTheta/TopDown_method-forecast_proportions,0.015465447653838825,bottom,enriched,gang
+total/gang:lockbit3,AutoETS/MinTrace_method-ols,0.014172341653504256,bottom,enriched,gang
+total/gang:lockbit3,AutoTheta/MinTrace_method-ols,0.03350396961767613,bottom,enriched,gang
+total/gang:lockbit3,AutoETS/MinTrace_method-mint_shrink,0.01398306615779425,bottom,enriched,gang
+total/gang:lockbit3,AutoTheta/MinTrace_method-mint_shrink,0.03497698509086996,bottom,enriched,gang
+total/gang:lockbit3,CrostonClassic,0.11928280365979728,bottom,enriched,gang
+total/gang:lockbit3,CrostonSBA,0.1132496255236352,bottom,enriched,gang
+total/gang:lockbit3,TSB,0.009737107267370591,bottom,enriched,gang
+total/gang:lockbit3,ADIDA,0.014682213220865555,bottom,enriched,gang
+total/gang:lockbit3,IMAPA,0.014682213220865555,bottom,enriched,gang
+total/gang:lockbit3,Naive,0.0013807590634441088,bottom,enriched,gang
+total/gang:lynx,AutoETS,2.441818862215604,bottom,enriched,gang
+total/gang:lynx,AutoTheta,2.474541897190043,bottom,enriched,gang
+total/gang:lynx,AutoETS/BottomUp,2.441818862215604,bottom,enriched,gang
+total/gang:lynx,AutoTheta/BottomUp,2.474541897190043,bottom,enriched,gang
+total/gang:lynx,AutoETS/TopDown_method-forecast_proportions,2.4324033170546704,bottom,enriched,gang
+total/gang:lynx,AutoTheta/TopDown_method-forecast_proportions,2.4884627690113224,bottom,enriched,gang
+total/gang:lynx,AutoETS/MinTrace_method-ols,2.4481880597490497,bottom,enriched,gang
+total/gang:lynx,AutoTheta/MinTrace_method-ols,2.550805056724601,bottom,enriched,gang
+total/gang:lynx,AutoETS/MinTrace_method-mint_shrink,2.4417867881296327,bottom,enriched,gang
+total/gang:lynx,AutoTheta/MinTrace_method-mint_shrink,2.4753621634009937,bottom,enriched,gang
+total/gang:lynx,CrostonClassic,2.63056062203359,bottom,enriched,gang
+total/gang:lynx,CrostonSBA,2.5816956344101714,bottom,enriched,gang
+total/gang:lynx,TSB,2.3954387380666877,bottom,enriched,gang
+total/gang:lynx,ADIDA,2.5535948006773572,bottom,enriched,gang
+total/gang:lynx,IMAPA,2.449416837427548,bottom,enriched,gang
+total/gang:lynx,Naive,3.1157608695652175,bottom,enriched,gang
+total/gang:medusa,AutoETS,0.9311832396155594,bottom,enriched,gang
+total/gang:medusa,AutoTheta,0.9452702302048928,bottom,enriched,gang
+total/gang:medusa,AutoETS/BottomUp,0.9311832396155594,bottom,enriched,gang
+total/gang:medusa,AutoTheta/BottomUp,0.9452702302048928,bottom,enriched,gang
+total/gang:medusa,AutoETS/TopDown_method-forecast_proportions,0.9282314055250402,bottom,enriched,gang
+total/gang:medusa,AutoTheta/TopDown_method-forecast_proportions,0.9627649266943675,bottom,enriched,gang
+total/gang:medusa,AutoETS/MinTrace_method-ols,0.9405692767844089,bottom,enriched,gang
+total/gang:medusa,AutoTheta/MinTrace_method-ols,1.0389688797211152,bottom,enriched,gang
+total/gang:medusa,AutoETS/MinTrace_method-mint_shrink,0.9312767515277601,bottom,enriched,gang
+total/gang:medusa,AutoTheta/MinTrace_method-mint_shrink,0.9461648756023346,bottom,enriched,gang
+total/gang:medusa,CrostonClassic,1.267564749657025,bottom,enriched,gang
+total/gang:medusa,CrostonSBA,1.2265147564489831,bottom,enriched,gang
+total/gang:medusa,TSB,0.9180457604888284,bottom,enriched,gang
+total/gang:medusa,ADIDA,0.9372103221873208,bottom,enriched,gang
+total/gang:medusa,IMAPA,0.9341315027690029,bottom,enriched,gang
+total/gang:medusa,Naive,1.2466603053435115,bottom,enriched,gang
+total/gang:other,AutoETS,1.1380883095103707,bottom,enriched,gang
+total/gang:other,AutoTheta,1.1036503141885983,bottom,enriched,gang
+total/gang:other,AutoETS/BottomUp,1.1380883095103707,bottom,enriched,gang
+total/gang:other,AutoTheta/BottomUp,1.1036503141885983,bottom,enriched,gang
+total/gang:other,AutoETS/TopDown_method-forecast_proportions,1.1558922247273578,bottom,enriched,gang
+total/gang:other,AutoTheta/TopDown_method-forecast_proportions,1.0955906845209673,bottom,enriched,gang
+total/gang:other,AutoETS/MinTrace_method-ols,1.1395947077178261,bottom,enriched,gang
+total/gang:other,AutoTheta/MinTrace_method-ols,1.1027948092235078,bottom,enriched,gang
+total/gang:other,AutoETS/MinTrace_method-mint_shrink,1.1481878193390382,bottom,enriched,gang
+total/gang:other,AutoTheta/MinTrace_method-mint_shrink,1.097988871333674,bottom,enriched,gang
+total/gang:other,CrostonClassic,1.1182356620402387,bottom,enriched,gang
+total/gang:other,CrostonSBA,1.1570466059483728,bottom,enriched,gang
+total/gang:other,TSB,1.1582348206650213,bottom,enriched,gang
+total/gang:other,ADIDA,1.1289646104042732,bottom,enriched,gang
+total/gang:other,IMAPA,1.1289646104042732,bottom,enriched,gang
+total/gang:other,Naive,1.228778018158604,bottom,enriched,gang
+total/gang:play,AutoETS,1.2850456585642667,bottom,enriched,gang
+total/gang:play,AutoTheta,1.3189030086630775,bottom,enriched,gang
+total/gang:play,AutoETS/BottomUp,1.2850456585642667,bottom,enriched,gang
+total/gang:play,AutoTheta/BottomUp,1.3189030086630775,bottom,enriched,gang
+total/gang:play,AutoETS/TopDown_method-forecast_proportions,1.2915110761942732,bottom,enriched,gang
+total/gang:play,AutoTheta/TopDown_method-forecast_proportions,1.3438948352669613,bottom,enriched,gang
+total/gang:play,AutoETS/MinTrace_method-ols,1.2993137435224158,bottom,enriched,gang
+total/gang:play,AutoTheta/MinTrace_method-ols,1.3465957712812286,bottom,enriched,gang
+total/gang:play,AutoETS/MinTrace_method-mint_shrink,1.2854812779266198,bottom,enriched,gang
+total/gang:play,AutoTheta/MinTrace_method-mint_shrink,1.3198374507422623,bottom,enriched,gang
+total/gang:play,CrostonClassic,1.2870357663859608,bottom,enriched,gang
+total/gang:play,CrostonSBA,1.2582447657378952,bottom,enriched,gang
+total/gang:play,TSB,1.3476625343031192,bottom,enriched,gang
+total/gang:play,ADIDA,1.288840367456232,bottom,enriched,gang
+total/gang:play,IMAPA,1.288128555917535,bottom,enriched,gang
+total/gang:play,Naive,1.6428082191780822,bottom,enriched,gang
+total/gang:qilin,AutoETS,5.355160574773372,bottom,enriched,gang
+total/gang:qilin,AutoTheta,4.899063743707823,bottom,enriched,gang
+total/gang:qilin,AutoETS/BottomUp,5.355160574773372,bottom,enriched,gang
+total/gang:qilin,AutoTheta/BottomUp,4.899063743707823,bottom,enriched,gang
+total/gang:qilin,AutoETS/TopDown_method-forecast_proportions,5.2500655994019,bottom,enriched,gang
+total/gang:qilin,AutoTheta/TopDown_method-forecast_proportions,4.9143729400501375,bottom,enriched,gang
+total/gang:qilin,AutoETS/MinTrace_method-ols,5.332223775816703,bottom,enriched,gang
+total/gang:qilin,AutoTheta/MinTrace_method-ols,4.899955219108256,bottom,enriched,gang
+total/gang:qilin,AutoETS/MinTrace_method-mint_shrink,5.353153908983016,bottom,enriched,gang
+total/gang:qilin,AutoTheta/MinTrace_method-mint_shrink,4.899129189540204,bottom,enriched,gang
+total/gang:qilin,CrostonClassic,4.700336420574503,bottom,enriched,gang
+total/gang:qilin,CrostonSBA,4.772144706849548,bottom,enriched,gang
+total/gang:qilin,TSB,4.982186833398758,bottom,enriched,gang
+total/gang:qilin,ADIDA,4.8655239358934494,bottom,enriched,gang
+total/gang:qilin,IMAPA,4.882344357460884,bottom,enriched,gang
+total/gang:qilin,Naive,5.6328125,bottom,enriched,gang
+total/gang:ransomhub,AutoETS,0.009424090050726587,bottom,enriched,gang
+total/gang:ransomhub,AutoTheta,0.009470128385985765,bottom,enriched,gang
+total/gang:ransomhub,AutoETS/BottomUp,0.009424090050726587,bottom,enriched,gang
+total/gang:ransomhub,AutoTheta/BottomUp,0.009470128385985765,bottom,enriched,gang
+total/gang:ransomhub,AutoETS/TopDown_method-forecast_proportions,0.009022675778531948,bottom,enriched,gang
+total/gang:ransomhub,AutoTheta/TopDown_method-forecast_proportions,0.010345905488685438,bottom,enriched,gang
+total/gang:ransomhub,AutoETS/MinTrace_method-ols,0.038212694662938376,bottom,enriched,gang
+total/gang:ransomhub,AutoTheta/MinTrace_method-ols,0.12295206176117557,bottom,enriched,gang
+total/gang:ransomhub,AutoETS/MinTrace_method-mint_shrink,0.00989031610847239,bottom,enriched,gang
+total/gang:ransomhub,AutoTheta/MinTrace_method-mint_shrink,0.015691861709516138,bottom,enriched,gang
+total/gang:ransomhub,CrostonClassic,6.729631277158844,bottom,enriched,gang
+total/gang:ransomhub,CrostonSBA,6.3931497133009,bottom,enriched,gang
+total/gang:ransomhub,TSB,0.052412158257186224,bottom,enriched,gang
+total/gang:ransomhub,ADIDA,0.586243566774478,bottom,enriched,gang
+total/gang:ransomhub,IMAPA,0.2559747747237885,bottom,enriched,gang
+total/gang:ransomhub,Naive,0.0,bottom,enriched,gang
+total/gang:safepay,AutoETS,3.8527072081498073,bottom,enriched,gang
+total/gang:safepay,AutoTheta,3.65416390633742,bottom,enriched,gang
+total/gang:safepay,AutoETS/BottomUp,3.8527072081498073,bottom,enriched,gang
+total/gang:safepay,AutoTheta/BottomUp,3.65416390633742,bottom,enriched,gang
+total/gang:safepay,AutoETS/TopDown_method-forecast_proportions,3.8066611549039564,bottom,enriched,gang
+total/gang:safepay,AutoTheta/TopDown_method-forecast_proportions,3.7012050977315516,bottom,enriched,gang
+total/gang:safepay,AutoETS/MinTrace_method-ols,3.8073000298703654,bottom,enriched,gang
+total/gang:safepay,AutoTheta/MinTrace_method-ols,3.6939582949635086,bottom,enriched,gang
+total/gang:safepay,AutoETS/MinTrace_method-mint_shrink,3.851314444272173,bottom,enriched,gang
+total/gang:safepay,AutoTheta/MinTrace_method-mint_shrink,3.6553527882556582,bottom,enriched,gang
+total/gang:safepay,CrostonClassic,3.6178428509122886,bottom,enriched,gang
+total/gang:safepay,CrostonSBA,3.6068056070812684,bottom,enriched,gang
+total/gang:safepay,TSB,3.5677879189588815,bottom,enriched,gang
+total/gang:safepay,ADIDA,3.5904904363490404,bottom,enriched,gang
+total/gang:safepay,IMAPA,3.5978111118358798,bottom,enriched,gang
+total/gang:safepay,Naive,4.733009708737864,bottom,enriched,gang
+total,AutoETS,0.8802677317403869,total,observed,country
+total,AutoTheta,0.8674058516879251,total,observed,country
+total,AutoETS/BottomUp,0.8825977642590319,total,observed,country
+total,AutoTheta/BottomUp,0.85394734395657,total,observed,country
+total,AutoETS/TopDown_method-forecast_proportions,0.8802677317403869,total,observed,country
+total,AutoTheta/TopDown_method-forecast_proportions,0.8674058516879251,total,observed,country
+total,AutoETS/MinTrace_method-ols,0.8804469650110517,total,observed,country
+total,AutoTheta/MinTrace_method-ols,0.8659768659974003,total,observed,country
+total,AutoETS/MinTrace_method-mint_shrink,0.8818527698884323,total,observed,country
+total,AutoTheta/MinTrace_method-mint_shrink,0.8564316298363724,total,observed,country
+total,CrostonClassic,0.8772879738839665,total,observed,country
+total,CrostonSBA,0.9204943890486503,total,observed,country
+total,TSB,0.8968423660749988,total,observed,country
+total,ADIDA,0.8802278844854952,total,observed,country
+total,IMAPA,0.8802278844854952,total,observed,country
+total,Naive,1.0523548578199053,total,observed,country
+total/country:AU,AutoETS,1.3476745446465686,bottom,observed,country
+total/country:AU,AutoTheta,1.377391142027861,bottom,observed,country
+total/country:AU,AutoETS/BottomUp,1.3476745446465686,bottom,observed,country
+total/country:AU,AutoTheta/BottomUp,1.377391142027861,bottom,observed,country
+total/country:AU,AutoETS/TopDown_method-forecast_proportions,1.3488977198462828,bottom,observed,country
+total/country:AU,AutoTheta/TopDown_method-forecast_proportions,1.3795831192603147,bottom,observed,country
+total/country:AU,AutoETS/MinTrace_method-ols,1.352730725524157,bottom,observed,country
+total/country:AU,AutoTheta/MinTrace_method-ols,1.4070804274306548,bottom,observed,country
+total/country:AU,AutoETS/MinTrace_method-mint_shrink,1.3476772732757063,bottom,observed,country
+total/country:AU,AutoTheta/MinTrace_method-mint_shrink,1.3774241838232537,bottom,observed,country
+total/country:AU,CrostonClassic,1.3592272610219485,bottom,observed,country
+total/country:AU,CrostonSBA,1.3438746507400938,bottom,observed,country
+total/country:AU,TSB,1.4127166325949263,bottom,observed,country
+total/country:AU,ADIDA,1.3597811044376236,bottom,observed,country
+total/country:AU,IMAPA,1.3619303371892408,bottom,observed,country
+total/country:AU,Naive,1.6480410447761193,bottom,observed,country
+total/country:BR,AutoETS,1.0265720430972851,bottom,observed,country
+total/country:BR,AutoTheta,0.9997029244192008,bottom,observed,country
+total/country:BR,AutoETS/BottomUp,1.0265720430972851,bottom,observed,country
+total/country:BR,AutoTheta/BottomUp,0.9997029244192008,bottom,observed,country
+total/country:BR,AutoETS/TopDown_method-forecast_proportions,1.0293635951506481,bottom,observed,country
+total/country:BR,AutoTheta/TopDown_method-forecast_proportions,1.00024247170422,bottom,observed,country
+total/country:BR,AutoETS/MinTrace_method-ols,1.0452146554645927,bottom,observed,country
+total/country:BR,AutoTheta/MinTrace_method-ols,1.0264165941443855,bottom,observed,country
+total/country:BR,AutoETS/MinTrace_method-mint_shrink,1.0266030893340077,bottom,observed,country
+total/country:BR,AutoTheta/MinTrace_method-mint_shrink,0.9998645402410483,bottom,observed,country
+total/country:BR,CrostonClassic,0.9940532438693326,bottom,observed,country
+total/country:BR,CrostonSBA,1.0034908041582442,bottom,observed,country
+total/country:BR,TSB,1.0266474915771944,bottom,observed,country
+total/country:BR,ADIDA,1.007221970874646,bottom,observed,country
+total/country:BR,IMAPA,1.0001413512868111,bottom,observed,country
+total/country:BR,Naive,1.2412006578947368,bottom,observed,country
+total/country:CA,AutoETS,1.435293762702827,bottom,observed,country
+total/country:CA,AutoTheta,1.4624016306004735,bottom,observed,country
+total/country:CA,AutoETS/BottomUp,1.435293762702827,bottom,observed,country
+total/country:CA,AutoTheta/BottomUp,1.4624016306004735,bottom,observed,country
+total/country:CA,AutoETS/TopDown_method-forecast_proportions,1.4385542040467851,bottom,observed,country
+total/country:CA,AutoTheta/TopDown_method-forecast_proportions,1.4664067394606741,bottom,observed,country
+total/country:CA,AutoETS/MinTrace_method-ols,1.4469654804821719,bottom,observed,country
+total/country:CA,AutoTheta/MinTrace_method-ols,1.472170225717884,bottom,observed,country
+total/country:CA,AutoETS/MinTrace_method-mint_shrink,1.4353301325082055,bottom,observed,country
+total/country:CA,AutoTheta/MinTrace_method-mint_shrink,1.4624201262079704,bottom,observed,country
+total/country:CA,CrostonClassic,1.3900887322655535,bottom,observed,country
+total/country:CA,CrostonSBA,1.363597595529847,bottom,observed,country
+total/country:CA,TSB,1.458088662285639,bottom,observed,country
+total/country:CA,ADIDA,1.4350660996022384,bottom,observed,country
+total/country:CA,IMAPA,1.4350660996022384,bottom,observed,country
+total/country:CA,Naive,2.004633620689655,bottom,observed,country
+total/country:DE,AutoETS,1.3609811724762375,bottom,observed,country
+total/country:DE,AutoTheta,1.3468892835174975,bottom,observed,country
+total/country:DE,AutoETS/BottomUp,1.3609811724762375,bottom,observed,country
+total/country:DE,AutoTheta/BottomUp,1.3468892835174975,bottom,observed,country
+total/country:DE,AutoETS/TopDown_method-forecast_proportions,1.3426518898291473,bottom,observed,country
+total/country:DE,AutoTheta/TopDown_method-forecast_proportions,1.3272044981697446,bottom,observed,country
+total/country:DE,AutoETS/MinTrace_method-ols,1.3365731632021598,bottom,observed,country
+total/country:DE,AutoTheta/MinTrace_method-ols,1.3290479385224916,bottom,observed,country
+total/country:DE,AutoETS/MinTrace_method-mint_shrink,1.3609716613596807,bottom,observed,country
+total/country:DE,AutoTheta/MinTrace_method-mint_shrink,1.3469656702616872,bottom,observed,country
+total/country:DE,CrostonClassic,1.323692488681991,bottom,observed,country
+total/country:DE,CrostonSBA,1.359573083390305,bottom,observed,country
+total/country:DE,TSB,1.377738082720148,bottom,observed,country
+total/country:DE,ADIDA,1.3610078163008204,bottom,observed,country
+total/country:DE,IMAPA,1.3610078163008204,bottom,observed,country
+total/country:DE,Naive,1.8932783018867925,bottom,observed,country
+total/country:ES,AutoETS,1.3799320670742679,bottom,observed,country
+total/country:ES,AutoTheta,1.3168089543330566,bottom,observed,country
+total/country:ES,AutoETS/BottomUp,1.3799320670742679,bottom,observed,country
+total/country:ES,AutoTheta/BottomUp,1.3168089543330566,bottom,observed,country
+total/country:ES,AutoETS/TopDown_method-forecast_proportions,1.3931092938522354,bottom,observed,country
+total/country:ES,AutoTheta/TopDown_method-forecast_proportions,1.3489413026742687,bottom,observed,country
+total/country:ES,AutoETS/MinTrace_method-ols,1.4636366694332195,bottom,observed,country
+total/country:ES,AutoTheta/MinTrace_method-ols,1.4980465380827177,bottom,observed,country
+total/country:ES,AutoETS/MinTrace_method-mint_shrink,1.3799638855303311,bottom,observed,country
+total/country:ES,AutoTheta/MinTrace_method-mint_shrink,1.3164558598698142,bottom,observed,country
+total/country:ES,CrostonClassic,1.3262144351726914,bottom,observed,country
+total/country:ES,CrostonSBA,1.3525122714457234,bottom,observed,country
+total/country:ES,TSB,1.3183479546896042,bottom,observed,country
+total/country:ES,ADIDA,1.3349968453096004,bottom,observed,country
+total/country:ES,IMAPA,1.329289331252783,bottom,observed,country
+total/country:ES,Naive,1.3886106271777003,bottom,observed,country
+total/country:FR,AutoETS,1.6439133776340291,bottom,observed,country
+total/country:FR,AutoTheta,1.635568313070003,bottom,observed,country
+total/country:FR,AutoETS/BottomUp,1.6439133776340291,bottom,observed,country
+total/country:FR,AutoTheta/BottomUp,1.635568313070003,bottom,observed,country
+total/country:FR,AutoETS/TopDown_method-forecast_proportions,1.6471450401249152,bottom,observed,country
+total/country:FR,AutoTheta/TopDown_method-forecast_proportions,1.6325716157561414,bottom,observed,country
+total/country:FR,AutoETS/MinTrace_method-ols,1.6625757175942157,bottom,observed,country
+total/country:FR,AutoTheta/MinTrace_method-ols,1.652372204842103,bottom,observed,country
+total/country:FR,AutoETS/MinTrace_method-mint_shrink,1.643887939470556,bottom,observed,country
+total/country:FR,AutoTheta/MinTrace_method-mint_shrink,1.6356451420175628,bottom,observed,country
+total/country:FR,CrostonClassic,1.640008351991059,bottom,observed,country
+total/country:FR,CrostonSBA,1.6473839697808887,bottom,observed,country
+total/country:FR,TSB,1.6904033998231645,bottom,observed,country
+total/country:FR,ADIDA,1.6424476335160816,bottom,observed,country
+total/country:FR,IMAPA,1.641542198384113,bottom,observed,country
+total/country:FR,Naive,1.892530487804878,bottom,observed,country
+total/country:GB,AutoETS,1.175401406419403,bottom,observed,country
+total/country:GB,AutoTheta,1.178195716969801,bottom,observed,country
+total/country:GB,AutoETS/BottomUp,1.175401406419403,bottom,observed,country
+total/country:GB,AutoTheta/BottomUp,1.178195716969801,bottom,observed,country
+total/country:GB,AutoETS/TopDown_method-forecast_proportions,1.1796707888313038,bottom,observed,country
+total/country:GB,AutoTheta/TopDown_method-forecast_proportions,1.1867834379783528,bottom,observed,country
+total/country:GB,AutoETS/MinTrace_method-ols,1.1880511848278899,bottom,observed,country
+total/country:GB,AutoTheta/MinTrace_method-ols,1.196850512666591,bottom,observed,country
+total/country:GB,AutoETS/MinTrace_method-mint_shrink,1.1754452394308061,bottom,observed,country
+total/country:GB,AutoTheta/MinTrace_method-mint_shrink,1.1782805215878493,bottom,observed,country
+total/country:GB,CrostonClassic,1.164317194469773,bottom,observed,country
+total/country:GB,CrostonSBA,1.1592497593495612,bottom,observed,country
+total/country:GB,TSB,1.2240096309080408,bottom,observed,country
+total/country:GB,ADIDA,1.1752833538805665,bottom,observed,country
+total/country:GB,IMAPA,1.1752833538805665,bottom,observed,country
+total/country:GB,Naive,1.3099933155080214,bottom,observed,country
+total/country:IN,AutoETS,1.4442907261656663,bottom,observed,country
+total/country:IN,AutoTheta,1.4480213636417332,bottom,observed,country
+total/country:IN,AutoETS/BottomUp,1.4442907261656663,bottom,observed,country
+total/country:IN,AutoTheta/BottomUp,1.4480213636417332,bottom,observed,country
+total/country:IN,AutoETS/TopDown_method-forecast_proportions,1.4410055559021357,bottom,observed,country
+total/country:IN,AutoTheta/TopDown_method-forecast_proportions,1.44551184191751,bottom,observed,country
+total/country:IN,AutoETS/MinTrace_method-ols,1.4436237511906616,bottom,observed,country
+total/country:IN,AutoTheta/MinTrace_method-ols,1.4618039433941914,bottom,observed,country
+total/country:IN,AutoETS/MinTrace_method-mint_shrink,1.4443598707233334,bottom,observed,country
+total/country:IN,AutoTheta/MinTrace_method-mint_shrink,1.448166365528925,bottom,observed,country
+total/country:IN,CrostonClassic,1.4651121213564375,bottom,observed,country
+total/country:IN,CrostonSBA,1.4775940759900268,bottom,observed,country
+total/country:IN,TSB,1.448078754464688,bottom,observed,country
+total/country:IN,ADIDA,1.4496968409672155,bottom,observed,country
+total/country:IN,IMAPA,1.4471308695032732,bottom,observed,country
+total/country:IN,Naive,1.5877293577981653,bottom,observed,country
+total/country:IT,AutoETS,1.5507536463944063,bottom,observed,country
+total/country:IT,AutoTheta,1.5191267803669393,bottom,observed,country
+total/country:IT,AutoETS/BottomUp,1.5507536463944063,bottom,observed,country
+total/country:IT,AutoTheta/BottomUp,1.5191267803669393,bottom,observed,country
+total/country:IT,AutoETS/TopDown_method-forecast_proportions,1.547256740727302,bottom,observed,country
+total/country:IT,AutoTheta/TopDown_method-forecast_proportions,1.5292584444472317,bottom,observed,country
+total/country:IT,AutoETS/MinTrace_method-ols,1.5476247624593082,bottom,observed,country
+total/country:IT,AutoTheta/MinTrace_method-ols,1.5674533517697804,bottom,observed,country
+total/country:IT,AutoETS/MinTrace_method-mint_shrink,1.5506515831150653,bottom,observed,country
+total/country:IT,AutoTheta/MinTrace_method-mint_shrink,1.5194373185106493,bottom,observed,country
+total/country:IT,CrostonClassic,1.5183305007864711,bottom,observed,country
+total/country:IT,CrostonSBA,1.519486796228197,bottom,observed,country
+total/country:IT,TSB,1.5500875006158839,bottom,observed,country
+total/country:IT,ADIDA,1.5180714688692452,bottom,observed,country
+total/country:IT,IMAPA,1.5180714688692452,bottom,observed,country
+total/country:IT,Naive,1.7459620786516854,bottom,observed,country
+total/country:US,AutoETS,1.3216564154962664,bottom,observed,country
+total/country:US,AutoTheta,1.3016419372539056,bottom,observed,country
+total/country:US,AutoETS/BottomUp,1.3216564154962664,bottom,observed,country
+total/country:US,AutoTheta/BottomUp,1.3016419372539056,bottom,observed,country
+total/country:US,AutoETS/TopDown_method-forecast_proportions,1.2973300024182783,bottom,observed,country
+total/country:US,AutoTheta/TopDown_method-forecast_proportions,1.2770991313037448,bottom,observed,country
+total/country:US,AutoETS/MinTrace_method-ols,1.316856361718149,bottom,observed,country
+total/country:US,AutoTheta/MinTrace_method-ols,1.2940098762710803,bottom,observed,country
+total/country:US,AutoETS/MinTrace_method-mint_shrink,1.318916454347164,bottom,observed,country
+total/country:US,AutoTheta/MinTrace_method-mint_shrink,1.296056179815419,bottom,observed,country
+total/country:US,CrostonClassic,1.256419804206288,bottom,observed,country
+total/country:US,CrostonSBA,1.2613061144035573,bottom,observed,country
+total/country:US,TSB,1.309457256985119,bottom,observed,country
+total/country:US,ADIDA,1.3217893688923528,bottom,observed,country
+total/country:US,IMAPA,1.3217893688923528,bottom,observed,country
+total/country:US,Naive,1.4357773304428616,bottom,observed,country
+total/country:other,AutoETS,1.7223566388960252,bottom,observed,country
+total/country:other,AutoTheta,1.6848953106048659,bottom,observed,country
+total/country:other,AutoETS/BottomUp,1.7223566388960252,bottom,observed,country
+total/country:other,AutoTheta/BottomUp,1.6848953106048659,bottom,observed,country
+total/country:other,AutoETS/TopDown_method-forecast_proportions,1.7166650315178802,bottom,observed,country
+total/country:other,AutoTheta/TopDown_method-forecast_proportions,1.699581731019604,bottom,observed,country
+total/country:other,AutoETS/MinTrace_method-ols,1.7215223628104634,bottom,observed,country
+total/country:other,AutoTheta/MinTrace_method-ols,1.6923621065561385,bottom,observed,country
+total/country:other,AutoETS/MinTrace_method-mint_shrink,1.7220746983085742,bottom,observed,country
+total/country:other,AutoTheta/MinTrace_method-mint_shrink,1.6849764589155274,bottom,observed,country
+total/country:other,CrostonClassic,1.741069543132428,bottom,observed,country
+total/country:other,CrostonSBA,1.8349043953675364,bottom,observed,country
+total/country:other,TSB,1.6983009902094577,bottom,observed,country
+total/country:other,ADIDA,1.7069958920305974,bottom,observed,country
+total/country:other,IMAPA,1.7069958920305974,bottom,observed,country
+total/country:other,Naive,2.198089762611276,bottom,observed,country
+total/country:unknown,AutoETS,0.3703549383782261,bottom,observed,country
+total/country:unknown,AutoTheta,0.36892279447440945,bottom,observed,country
+total/country:unknown,AutoETS/BottomUp,0.3703549383782261,bottom,observed,country
+total/country:unknown,AutoTheta/BottomUp,0.36892279447440945,bottom,observed,country
+total/country:unknown,AutoETS/TopDown_method-forecast_proportions,0.36825839964347334,bottom,observed,country
+total/country:unknown,AutoTheta/TopDown_method-forecast_proportions,0.3707369828991338,bottom,observed,country
+total/country:unknown,AutoETS/MinTrace_method-ols,0.36874788590539637,bottom,observed,country
+total/country:unknown,AutoTheta/MinTrace_method-ols,0.36939570375403985,bottom,observed,country
+total/country:unknown,AutoETS/MinTrace_method-mint_shrink,0.3696947682838787,bottom,observed,country
+total/country:unknown,AutoTheta/MinTrace_method-mint_shrink,0.38147876252219026,bottom,observed,country
+total/country:unknown,CrostonClassic,0.36891685310540206,bottom,observed,country
+total/country:unknown,CrostonSBA,0.3644796922301977,bottom,observed,country
+total/country:unknown,TSB,0.3874264494783174,bottom,observed,country
+total/country:unknown,ADIDA,0.37036499939375084,bottom,observed,country
+total/country:unknown,IMAPA,0.37036499939375084,bottom,observed,country
+total/country:unknown,Naive,0.43560332369942195,bottom,observed,country
+total,AutoETS,0.8802677317403869,total,observed,sector
+total,AutoTheta,0.8674058516879251,total,observed,sector
+total,AutoETS/BottomUp,0.8883413006790561,total,observed,sector
+total,AutoTheta/BottomUp,0.8678867572323281,total,observed,sector
+total,AutoETS/TopDown_method-forecast_proportions,0.8802677317403869,total,observed,sector
+total,AutoTheta/TopDown_method-forecast_proportions,0.8674058516879251,total,observed,sector
+total,AutoETS/MinTrace_method-ols,0.8807568925301583,total,observed,sector
+total,AutoTheta/MinTrace_method-ols,0.8673838091339465,total,observed,sector
+total,AutoETS/MinTrace_method-mint_shrink,0.8867361256990235,total,observed,sector
+total,AutoTheta/MinTrace_method-mint_shrink,0.867249997707964,total,observed,sector
+total,CrostonClassic,0.8772879738839665,total,observed,sector
+total,CrostonSBA,0.9204943890486503,total,observed,sector
+total,TSB,0.8968423660749988,total,observed,sector
+total,ADIDA,0.8802278844854952,total,observed,sector
+total,IMAPA,0.8802278844854952,total,observed,sector
+total,Naive,1.0523548578199053,total,observed,sector
+total/sector:Agriculture and Food Production,AutoETS,1.0348675470156732,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoTheta,0.9787431748407458,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoETS/BottomUp,1.0348675470156732,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoTheta/BottomUp,0.9787431748407458,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoETS/TopDown_method-forecast_proportions,1.0241132212141466,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoTheta/TopDown_method-forecast_proportions,0.978257641285639,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoETS/MinTrace_method-ols,1.0170776644920587,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoTheta/MinTrace_method-ols,0.9822553476011948,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoETS/MinTrace_method-mint_shrink,1.0343752506750719,bottom,observed,sector
+total/sector:Agriculture and Food Production,AutoTheta/MinTrace_method-mint_shrink,0.9787169936767162,bottom,observed,sector
+total/sector:Agriculture and Food Production,CrostonClassic,0.9771440448265098,bottom,observed,sector
+total/sector:Agriculture and Food Production,CrostonSBA,0.9835351674390418,bottom,observed,sector
+total/sector:Agriculture and Food Production,TSB,1.0023121960920092,bottom,observed,sector
+total/sector:Agriculture and Food Production,ADIDA,0.9765095495963844,bottom,observed,sector
+total/sector:Agriculture and Food Production,IMAPA,0.9765095495963844,bottom,observed,sector
+total/sector:Agriculture and Food Production,Naive,1.4981971153846154,bottom,observed,sector
+total/sector:Education,AutoETS,0.9562892462118805,bottom,observed,sector
+total/sector:Education,AutoTheta,0.9671455571556559,bottom,observed,sector
+total/sector:Education,AutoETS/BottomUp,0.9562892462118805,bottom,observed,sector
+total/sector:Education,AutoTheta/BottomUp,0.9671455571556559,bottom,observed,sector
+total/sector:Education,AutoETS/TopDown_method-forecast_proportions,0.9539651880062554,bottom,observed,sector
+total/sector:Education,AutoTheta/TopDown_method-forecast_proportions,0.9660821699341554,bottom,observed,sector
+total/sector:Education,AutoETS/MinTrace_method-ols,0.953637989368567,bottom,observed,sector
+total/sector:Education,AutoTheta/MinTrace_method-ols,0.9640213427387863,bottom,observed,sector
+total/sector:Education,AutoETS/MinTrace_method-mint_shrink,0.956213142155794,bottom,observed,sector
+total/sector:Education,AutoTheta/MinTrace_method-mint_shrink,0.9668758415008585,bottom,observed,sector
+total/sector:Education,CrostonClassic,0.9570645863713719,bottom,observed,sector
+total/sector:Education,CrostonSBA,0.9478765174915196,bottom,observed,sector
+total/sector:Education,TSB,0.9826453155274062,bottom,observed,sector
+total/sector:Education,ADIDA,0.9571276900407847,bottom,observed,sector
+total/sector:Education,IMAPA,0.9571276900407847,bottom,observed,sector
+total/sector:Education,Naive,1.276343368902439,bottom,observed,sector
+total/sector:Energy & Utilities,AutoETS,0.9300614508458805,bottom,observed,sector
+total/sector:Energy & Utilities,AutoTheta,0.9531505692891207,bottom,observed,sector
+total/sector:Energy & Utilities,AutoETS/BottomUp,0.9300614508458805,bottom,observed,sector
+total/sector:Energy & Utilities,AutoTheta/BottomUp,0.9531505692891207,bottom,observed,sector
+total/sector:Energy & Utilities,AutoETS/TopDown_method-forecast_proportions,0.9311131563094985,bottom,observed,sector
+total/sector:Energy & Utilities,AutoTheta/TopDown_method-forecast_proportions,0.9538041726959887,bottom,observed,sector
+total/sector:Energy & Utilities,AutoETS/MinTrace_method-ols,0.9330776309811415,bottom,observed,sector
+total/sector:Energy & Utilities,AutoTheta/MinTrace_method-ols,0.9559352013317085,bottom,observed,sector
+total/sector:Energy & Utilities,AutoETS/MinTrace_method-mint_shrink,0.9300203540341189,bottom,observed,sector
+total/sector:Energy & Utilities,AutoTheta/MinTrace_method-mint_shrink,0.95304969322528,bottom,observed,sector
+total/sector:Energy & Utilities,CrostonClassic,0.944625988240424,bottom,observed,sector
+total/sector:Energy & Utilities,CrostonSBA,0.9392203026666888,bottom,observed,sector
+total/sector:Energy & Utilities,TSB,0.9658028187088105,bottom,observed,sector
+total/sector:Energy & Utilities,ADIDA,0.9444756629830959,bottom,observed,sector
+total/sector:Energy & Utilities,IMAPA,0.9444756629830959,bottom,observed,sector
+total/sector:Energy & Utilities,Naive,1.1380813953488373,bottom,observed,sector
+total/sector:Financial Services,AutoETS,0.9703329561324047,bottom,observed,sector
+total/sector:Financial Services,AutoTheta,0.9687246008776004,bottom,observed,sector
+total/sector:Financial Services,AutoETS/BottomUp,0.9703329561324047,bottom,observed,sector
+total/sector:Financial Services,AutoTheta/BottomUp,0.9687246008776004,bottom,observed,sector
+total/sector:Financial Services,AutoETS/TopDown_method-forecast_proportions,0.9747606010249147,bottom,observed,sector
+total/sector:Financial Services,AutoTheta/TopDown_method-forecast_proportions,0.9716148634273919,bottom,observed,sector
+total/sector:Financial Services,AutoETS/MinTrace_method-ols,0.9760920535549552,bottom,observed,sector
+total/sector:Financial Services,AutoTheta/MinTrace_method-ols,0.9715876581043068,bottom,observed,sector
+total/sector:Financial Services,AutoETS/MinTrace_method-mint_shrink,0.9705957228643576,bottom,observed,sector
+total/sector:Financial Services,AutoTheta/MinTrace_method-mint_shrink,0.968739090884756,bottom,observed,sector
+total/sector:Financial Services,CrostonClassic,0.9713075494265858,bottom,observed,sector
+total/sector:Financial Services,CrostonSBA,0.9833083417641939,bottom,observed,sector
+total/sector:Financial Services,TSB,1.0001734828271516,bottom,observed,sector
+total/sector:Financial Services,ADIDA,0.9713075722470429,bottom,observed,sector
+total/sector:Financial Services,IMAPA,0.9713075722470429,bottom,observed,sector
+total/sector:Financial Services,Naive,1.0301674364896074,bottom,observed,sector
+total/sector:Government & Defense,AutoETS,1.033783842112616,bottom,observed,sector
+total/sector:Government & Defense,AutoTheta,0.9904400453079769,bottom,observed,sector
+total/sector:Government & Defense,AutoETS/BottomUp,1.033783842112616,bottom,observed,sector
+total/sector:Government & Defense,AutoTheta/BottomUp,0.9904400453079769,bottom,observed,sector
+total/sector:Government & Defense,AutoETS/TopDown_method-forecast_proportions,1.021762649296142,bottom,observed,sector
+total/sector:Government & Defense,AutoTheta/TopDown_method-forecast_proportions,0.9920370538966408,bottom,observed,sector
+total/sector:Government & Defense,AutoETS/MinTrace_method-ols,1.0135698320755706,bottom,observed,sector
+total/sector:Government & Defense,AutoTheta/MinTrace_method-ols,0.9884670145606383,bottom,observed,sector
+total/sector:Government & Defense,AutoETS/MinTrace_method-mint_shrink,1.0333254537114829,bottom,observed,sector
+total/sector:Government & Defense,AutoTheta/MinTrace_method-mint_shrink,0.9903174015442531,bottom,observed,sector
+total/sector:Government & Defense,CrostonClassic,0.9749618322536864,bottom,observed,sector
+total/sector:Government & Defense,CrostonSBA,0.9649271988893363,bottom,observed,sector
+total/sector:Government & Defense,TSB,0.9493496019077967,bottom,observed,sector
+total/sector:Government & Defense,ADIDA,0.9775450285110687,bottom,observed,sector
+total/sector:Government & Defense,IMAPA,0.9775450285110687,bottom,observed,sector
+total/sector:Government & Defense,Naive,1.1045537156704361,bottom,observed,sector
+total/sector:Healthcare,AutoETS,1.0750413293121854,bottom,observed,sector
+total/sector:Healthcare,AutoTheta,1.060226418540676,bottom,observed,sector
+total/sector:Healthcare,AutoETS/BottomUp,1.0750413293121854,bottom,observed,sector
+total/sector:Healthcare,AutoTheta/BottomUp,1.060226418540676,bottom,observed,sector
+total/sector:Healthcare,AutoETS/TopDown_method-forecast_proportions,1.077979790813688,bottom,observed,sector
+total/sector:Healthcare,AutoTheta/TopDown_method-forecast_proportions,1.0475571046865224,bottom,observed,sector
+total/sector:Healthcare,AutoETS/MinTrace_method-ols,1.0778873309980317,bottom,observed,sector
+total/sector:Healthcare,AutoTheta/MinTrace_method-ols,1.0496268535555449,bottom,observed,sector
+total/sector:Healthcare,AutoETS/MinTrace_method-mint_shrink,1.0751865553788695,bottom,observed,sector
+total/sector:Healthcare,AutoTheta/MinTrace_method-mint_shrink,1.059508341732622,bottom,observed,sector
+total/sector:Healthcare,CrostonClassic,1.0720603968084605,bottom,observed,sector
+total/sector:Healthcare,CrostonSBA,1.0948865791211082,bottom,observed,sector
+total/sector:Healthcare,TSB,1.1253158675861856,bottom,observed,sector
+total/sector:Healthcare,ADIDA,1.0753165578665183,bottom,observed,sector
+total/sector:Healthcare,IMAPA,1.0753165578665183,bottom,observed,sector
+total/sector:Healthcare,Naive,1.2609004446640317,bottom,observed,sector
+total/sector:Hospitality,AutoETS,1.0109197772748666,bottom,observed,sector
+total/sector:Hospitality,AutoTheta,1.0913943982951937,bottom,observed,sector
+total/sector:Hospitality,AutoETS/BottomUp,1.0109197772748666,bottom,observed,sector
+total/sector:Hospitality,AutoTheta/BottomUp,1.0913943982951937,bottom,observed,sector
+total/sector:Hospitality,AutoETS/TopDown_method-forecast_proportions,1.00916836457246,bottom,observed,sector
+total/sector:Hospitality,AutoTheta/TopDown_method-forecast_proportions,1.0937087277259934,bottom,observed,sector
+total/sector:Hospitality,AutoETS/MinTrace_method-ols,1.0095198343157765,bottom,observed,sector
+total/sector:Hospitality,AutoTheta/MinTrace_method-ols,1.0925007789519237,bottom,observed,sector
+total/sector:Hospitality,AutoETS/MinTrace_method-mint_shrink,1.0108548021599624,bottom,observed,sector
+total/sector:Hospitality,AutoTheta/MinTrace_method-mint_shrink,1.091437313466717,bottom,observed,sector
+total/sector:Hospitality,CrostonClassic,1.083624587635447,bottom,observed,sector
+total/sector:Hospitality,CrostonSBA,1.0899216818235324,bottom,observed,sector
+total/sector:Hospitality,TSB,1.1764807799627828,bottom,observed,sector
+total/sector:Hospitality,ADIDA,1.0836280517026309,bottom,observed,sector
+total/sector:Hospitality,IMAPA,1.0836280517026309,bottom,observed,sector
+total/sector:Hospitality,Naive,1.719108371559633,bottom,observed,sector
+total/sector:Manufacturing,AutoETS,0.812011029043252,bottom,observed,sector
+total/sector:Manufacturing,AutoTheta,0.782663689125928,bottom,observed,sector
+total/sector:Manufacturing,AutoETS/BottomUp,0.812011029043252,bottom,observed,sector
+total/sector:Manufacturing,AutoTheta/BottomUp,0.782663689125928,bottom,observed,sector
+total/sector:Manufacturing,AutoETS/TopDown_method-forecast_proportions,0.8203724715342302,bottom,observed,sector
+total/sector:Manufacturing,AutoTheta/TopDown_method-forecast_proportions,0.7738547089180248,bottom,observed,sector
+total/sector:Manufacturing,AutoETS/MinTrace_method-ols,0.8146534645438217,bottom,observed,sector
+total/sector:Manufacturing,AutoTheta/MinTrace_method-ols,0.7773105049827775,bottom,observed,sector
+total/sector:Manufacturing,AutoETS/MinTrace_method-mint_shrink,0.8126205148094456,bottom,observed,sector
+total/sector:Manufacturing,AutoTheta/MinTrace_method-mint_shrink,0.7808743979530206,bottom,observed,sector
+total/sector:Manufacturing,CrostonClassic,0.8202018633173579,bottom,observed,sector
+total/sector:Manufacturing,CrostonSBA,0.8905709750180193,bottom,observed,sector
+total/sector:Manufacturing,TSB,0.7989985860082058,bottom,observed,sector
+total/sector:Manufacturing,ADIDA,0.811841888513747,bottom,observed,sector
+total/sector:Manufacturing,IMAPA,0.811841888513747,bottom,observed,sector
+total/sector:Manufacturing,Naive,0.985151154039137,bottom,observed,sector
+total/sector:Other,AutoETS,2.331437969539356,bottom,observed,sector
+total/sector:Other,AutoTheta,2.3371141661303536,bottom,observed,sector
+total/sector:Other,AutoETS/BottomUp,2.331437969539356,bottom,observed,sector
+total/sector:Other,AutoTheta/BottomUp,2.3371141661303536,bottom,observed,sector
+total/sector:Other,AutoETS/TopDown_method-forecast_proportions,2.3118297978789544,bottom,observed,sector
+total/sector:Other,AutoTheta/TopDown_method-forecast_proportions,2.299541498142616,bottom,observed,sector
+total/sector:Other,AutoETS/MinTrace_method-ols,2.3305369595178456,bottom,observed,sector
+total/sector:Other,AutoTheta/MinTrace_method-ols,2.3135815007901672,bottom,observed,sector
+total/sector:Other,AutoETS/MinTrace_method-mint_shrink,2.3313139556733855,bottom,observed,sector
+total/sector:Other,AutoTheta/MinTrace_method-mint_shrink,2.336697274273605,bottom,observed,sector
+total/sector:Other,CrostonClassic,2.3242908790491783,bottom,observed,sector
+total/sector:Other,CrostonSBA,2.3838859508800367,bottom,observed,sector
+total/sector:Other,TSB,2.221199788414137,bottom,observed,sector
+total/sector:Other,ADIDA,2.272647865777403,bottom,observed,sector
+total/sector:Other,IMAPA,2.2737989731424695,bottom,observed,sector
+total/sector:Other,Naive,2.2332208806818183,bottom,observed,sector
+total/sector:Professional Services,AutoETS,0.8373033042952001,bottom,observed,sector
+total/sector:Professional Services,AutoTheta,0.8359880413127813,bottom,observed,sector
+total/sector:Professional Services,AutoETS/BottomUp,0.8373033042952001,bottom,observed,sector
+total/sector:Professional Services,AutoTheta/BottomUp,0.8359880413127813,bottom,observed,sector
+total/sector:Professional Services,AutoETS/TopDown_method-forecast_proportions,0.8308036989616737,bottom,observed,sector
+total/sector:Professional Services,AutoTheta/TopDown_method-forecast_proportions,0.8289287129174482,bottom,observed,sector
+total/sector:Professional Services,AutoETS/MinTrace_method-ols,0.8346227840147248,bottom,observed,sector
+total/sector:Professional Services,AutoTheta/MinTrace_method-ols,0.833226672985133,bottom,observed,sector
+total/sector:Professional Services,AutoETS/MinTrace_method-mint_shrink,0.83630909138866,bottom,observed,sector
+total/sector:Professional Services,AutoTheta/MinTrace_method-mint_shrink,0.8346707087377262,bottom,observed,sector
+total/sector:Professional Services,CrostonClassic,0.8281801020111405,bottom,observed,sector
+total/sector:Professional Services,CrostonSBA,0.8364474042539355,bottom,observed,sector
+total/sector:Professional Services,TSB,0.8702843868343166,bottom,observed,sector
+total/sector:Professional Services,ADIDA,0.837424263427269,bottom,observed,sector
+total/sector:Professional Services,IMAPA,0.837424263427269,bottom,observed,sector
+total/sector:Professional Services,Naive,1.0817768199233717,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoETS,1.055608557787128,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoTheta,1.0585376432349192,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoETS/BottomUp,1.055608557787128,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoTheta/BottomUp,1.0585376432349192,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoETS/TopDown_method-forecast_proportions,1.046442371554772,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoTheta/TopDown_method-forecast_proportions,1.0365003914778586,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoETS/MinTrace_method-ols,1.0464752801725958,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoTheta/MinTrace_method-ols,1.03799471039197,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoETS/MinTrace_method-mint_shrink,1.0548165835937307,bottom,observed,sector
+total/sector:Retail & E-Commerce,AutoTheta/MinTrace_method-mint_shrink,1.0557566139976176,bottom,observed,sector
+total/sector:Retail & E-Commerce,CrostonClassic,1.0059330312724455,bottom,observed,sector
+total/sector:Retail & E-Commerce,CrostonSBA,1.0025707883925086,bottom,observed,sector
+total/sector:Retail & E-Commerce,TSB,1.0382462079584491,bottom,observed,sector
+total/sector:Retail & E-Commerce,ADIDA,1.0558553709256977,bottom,observed,sector
+total/sector:Retail & E-Commerce,IMAPA,1.0558553709256977,bottom,observed,sector
+total/sector:Retail & E-Commerce,Naive,1.339453125,bottom,observed,sector
+total/sector:Technology,AutoETS,1.2841193126796997,bottom,observed,sector
+total/sector:Technology,AutoTheta,1.2796716597758089,bottom,observed,sector
+total/sector:Technology,AutoETS/BottomUp,1.2841193126796997,bottom,observed,sector
+total/sector:Technology,AutoTheta/BottomUp,1.2796716597758089,bottom,observed,sector
+total/sector:Technology,AutoETS/TopDown_method-forecast_proportions,1.2794301538745119,bottom,observed,sector
+total/sector:Technology,AutoTheta/TopDown_method-forecast_proportions,1.2421644103002305,bottom,observed,sector
+total/sector:Technology,AutoETS/MinTrace_method-ols,1.2818301717920162,bottom,observed,sector
+total/sector:Technology,AutoTheta/MinTrace_method-ols,1.2601195586682514,bottom,observed,sector
+total/sector:Technology,AutoETS/MinTrace_method-mint_shrink,1.283872092003773,bottom,observed,sector
+total/sector:Technology,AutoTheta/MinTrace_method-mint_shrink,1.2760909270040954,bottom,observed,sector
+total/sector:Technology,CrostonClassic,1.2345249022342213,bottom,observed,sector
+total/sector:Technology,CrostonSBA,1.260775377948817,bottom,observed,sector
+total/sector:Technology,TSB,1.275075524156419,bottom,observed,sector
+total/sector:Technology,ADIDA,1.2842200330641702,bottom,observed,sector
+total/sector:Technology,IMAPA,1.2842200330641702,bottom,observed,sector
+total/sector:Technology,Naive,1.4217279145546704,bottom,observed,sector
+total/sector:Transportation,AutoETS,0.9313794981651848,bottom,observed,sector
+total/sector:Transportation,AutoTheta,0.9163742453076706,bottom,observed,sector
+total/sector:Transportation,AutoETS/BottomUp,0.9313794981651848,bottom,observed,sector
+total/sector:Transportation,AutoTheta/BottomUp,0.9163742453076706,bottom,observed,sector
+total/sector:Transportation,AutoETS/TopDown_method-forecast_proportions,0.9303452284873568,bottom,observed,sector
+total/sector:Transportation,AutoTheta/TopDown_method-forecast_proportions,0.9359492266648938,bottom,observed,sector
+total/sector:Transportation,AutoETS/MinTrace_method-ols,0.9298874736326532,bottom,observed,sector
+total/sector:Transportation,AutoTheta/MinTrace_method-ols,0.944236157014048,bottom,observed,sector
+total/sector:Transportation,AutoETS/MinTrace_method-mint_shrink,0.9312982234838755,bottom,observed,sector
+total/sector:Transportation,AutoTheta/MinTrace_method-mint_shrink,0.9170879408272172,bottom,observed,sector
+total/sector:Transportation,CrostonClassic,0.8991756971264285,bottom,observed,sector
+total/sector:Transportation,CrostonSBA,0.9104554599867898,bottom,observed,sector
+total/sector:Transportation,TSB,0.8994348502955495,bottom,observed,sector
+total/sector:Transportation,ADIDA,0.9030410639281858,bottom,observed,sector
+total/sector:Transportation,IMAPA,0.9030410639281858,bottom,observed,sector
+total/sector:Transportation,Naive,1.1063580691642652,bottom,observed,sector
+total/sector:unknown,AutoETS,0.7494468897646943,bottom,observed,sector
+total/sector:unknown,AutoTheta,0.7494628911712531,bottom,observed,sector
+total/sector:unknown,AutoETS/BottomUp,0.7494468897646943,bottom,observed,sector
+total/sector:unknown,AutoTheta/BottomUp,0.7494628911712531,bottom,observed,sector
+total/sector:unknown,AutoETS/TopDown_method-forecast_proportions,0.7448932276449264,bottom,observed,sector
+total/sector:unknown,AutoTheta/TopDown_method-forecast_proportions,0.7494535950563616,bottom,observed,sector
+total/sector:unknown,AutoETS/MinTrace_method-ols,0.7469607815786276,bottom,observed,sector
+total/sector:unknown,AutoTheta/MinTrace_method-ols,0.7498028034471913,bottom,observed,sector
+total/sector:unknown,AutoETS/MinTrace_method-mint_shrink,0.7452892958767169,bottom,observed,sector
+total/sector:unknown,AutoTheta/MinTrace_method-mint_shrink,0.7501444196848709,bottom,observed,sector
+total/sector:unknown,CrostonClassic,0.746267475019033,bottom,observed,sector
+total/sector:unknown,CrostonSBA,0.7429330600666618,bottom,observed,sector
+total/sector:unknown,TSB,0.7585289292445692,bottom,observed,sector
+total/sector:unknown,ADIDA,0.7494457520243565,bottom,observed,sector
+total/sector:unknown,IMAPA,0.7494457520243565,bottom,observed,sector
+total/sector:unknown,Naive,0.7996198641216435,bottom,observed,sector
+total,AutoETS,0.8802677317403869,total,observed,gang
+total,AutoTheta,0.8674058516879251,total,observed,gang
+total,AutoETS/BottomUp,0.8735448097934128,total,observed,gang
+total,AutoTheta/BottomUp,0.8499197001089782,total,observed,gang
+total,AutoETS/TopDown_method-forecast_proportions,0.8802677317403869,total,observed,gang
+total,AutoTheta/TopDown_method-forecast_proportions,0.8674058516879251,total,observed,gang
+total,AutoETS/MinTrace_method-ols,0.8795594831401469,total,observed,gang
+total,AutoTheta/MinTrace_method-ols,0.866269787010969,total,observed,gang
+total,AutoETS/MinTrace_method-mint_shrink,0.8737786405380212,total,observed,gang
+total,AutoTheta/MinTrace_method-mint_shrink,0.8537019608336207,total,observed,gang
+total,CrostonClassic,0.8772879738839665,total,observed,gang
+total,CrostonSBA,0.9204943890486503,total,observed,gang
+total,TSB,0.8968423660749988,total,observed,gang
+total,ADIDA,0.8802278844854952,total,observed,gang
+total,IMAPA,0.8802278844854952,total,observed,gang
+total,Naive,1.0523548578199053,total,observed,gang
+total/gang:akira,AutoETS,1.7160067761061095,bottom,observed,gang
+total/gang:akira,AutoTheta,1.7315249019991121,bottom,observed,gang
+total/gang:akira,AutoETS/BottomUp,1.7160067761061095,bottom,observed,gang
+total/gang:akira,AutoTheta/BottomUp,1.7315249019991121,bottom,observed,gang
+total/gang:akira,AutoETS/TopDown_method-forecast_proportions,1.6999495694176503,bottom,observed,gang
+total/gang:akira,AutoTheta/TopDown_method-forecast_proportions,1.7682352039461995,bottom,observed,gang
+total/gang:akira,AutoETS/MinTrace_method-ols,1.70658568574541,bottom,observed,gang
+total/gang:akira,AutoTheta/MinTrace_method-ols,1.757803193190704,bottom,observed,gang
+total/gang:akira,AutoETS/MinTrace_method-mint_shrink,1.7154733650091951,bottom,observed,gang
+total/gang:akira,AutoTheta/MinTrace_method-mint_shrink,1.732665413211413,bottom,observed,gang
+total/gang:akira,CrostonClassic,1.8119143771768458,bottom,observed,gang
+total/gang:akira,CrostonSBA,1.7708359533399656,bottom,observed,gang
+total/gang:akira,TSB,1.7024197608942102,bottom,observed,gang
+total/gang:akira,ADIDA,1.7311672410521644,bottom,observed,gang
+total/gang:akira,IMAPA,1.7223726210097545,bottom,observed,gang
+total/gang:akira,Naive,2.275118960468521,bottom,observed,gang
+total/gang:babuk2,AutoETS,0.30431884353858013,bottom,observed,gang
+total/gang:babuk2,AutoTheta,0.3142419099175832,bottom,observed,gang
+total/gang:babuk2,AutoETS/BottomUp,0.30431884353858013,bottom,observed,gang
+total/gang:babuk2,AutoTheta/BottomUp,0.3142419099175832,bottom,observed,gang
+total/gang:babuk2,AutoETS/TopDown_method-forecast_proportions,0.2927119188838351,bottom,observed,gang
+total/gang:babuk2,AutoTheta/TopDown_method-forecast_proportions,0.3397055508033616,bottom,observed,gang
+total/gang:babuk2,AutoETS/MinTrace_method-ols,0.3128800594726645,bottom,observed,gang
+total/gang:babuk2,AutoTheta/MinTrace_method-ols,0.5622947589307388,bottom,observed,gang
+total/gang:babuk2,AutoETS/MinTrace_method-mint_shrink,0.3028659731672163,bottom,observed,gang
+total/gang:babuk2,AutoTheta/MinTrace_method-mint_shrink,0.32736325481547607,bottom,observed,gang
+total/gang:babuk2,CrostonClassic,0.43090127856989335,bottom,observed,gang
+total/gang:babuk2,CrostonSBA,0.40935621464139865,bottom,observed,gang
+total/gang:babuk2,TSB,0.23198293297570147,bottom,observed,gang
+total/gang:babuk2,ADIDA,0.8259921631637037,bottom,observed,gang
+total/gang:babuk2,IMAPA,1.1387810256977522,bottom,observed,gang
+total/gang:babuk2,Naive,0.0,bottom,observed,gang
+total/gang:babukbjorka,AutoETS,0.20878452781622392,bottom,observed,gang
+total/gang:babukbjorka,AutoTheta,0.2178899244111966,bottom,observed,gang
+total/gang:babukbjorka,AutoETS/BottomUp,0.20878452781622392,bottom,observed,gang
+total/gang:babukbjorka,AutoTheta/BottomUp,0.2178899244111966,bottom,observed,gang
+total/gang:babukbjorka,AutoETS/TopDown_method-forecast_proportions,0.20062571508052238,bottom,observed,gang
+total/gang:babukbjorka,AutoTheta/TopDown_method-forecast_proportions,0.2360515218884405,bottom,observed,gang
+total/gang:babukbjorka,AutoETS/MinTrace_method-ols,0.2201170569115765,bottom,observed,gang
+total/gang:babukbjorka,AutoTheta/MinTrace_method-ols,0.4266140967394654,bottom,observed,gang
+total/gang:babukbjorka,AutoETS/MinTrace_method-mint_shrink,0.20805548603714527,bottom,observed,gang
+total/gang:babukbjorka,AutoTheta/MinTrace_method-mint_shrink,0.23213335282369177,bottom,observed,gang
+total/gang:babukbjorka,CrostonClassic,0.38523239194223535,bottom,observed,gang
+total/gang:babukbjorka,CrostonSBA,0.3659707723451236,bottom,observed,gang
+total/gang:babukbjorka,TSB,0.16079480106883565,bottom,observed,gang
+total/gang:babukbjorka,ADIDA,0.6754118153879171,bottom,observed,gang
+total/gang:babukbjorka,IMAPA,1.027348568046871,bottom,observed,gang
+total/gang:babukbjorka,Naive,0.0,bottom,observed,gang
+total/gang:bianlian,AutoETS,0.08423169267120144,bottom,observed,gang
+total/gang:bianlian,AutoTheta,0.05529590559305293,bottom,observed,gang
+total/gang:bianlian,AutoETS/BottomUp,0.08423169267120144,bottom,observed,gang
+total/gang:bianlian,AutoTheta/BottomUp,0.05529590559305293,bottom,observed,gang
+total/gang:bianlian,AutoETS/TopDown_method-forecast_proportions,0.0817550314177066,bottom,observed,gang
+total/gang:bianlian,AutoTheta/TopDown_method-forecast_proportions,0.05893489772445558,bottom,observed,gang
+total/gang:bianlian,AutoETS/MinTrace_method-ols,0.08347169314208194,bottom,observed,gang
+total/gang:bianlian,AutoTheta/MinTrace_method-ols,0.1570139943036867,bottom,observed,gang
+total/gang:bianlian,AutoETS/MinTrace_method-mint_shrink,0.083878575532705,bottom,observed,gang
+total/gang:bianlian,AutoTheta/MinTrace_method-mint_shrink,0.05702680844177985,bottom,observed,gang
+total/gang:bianlian,CrostonClassic,1.1736217775207758,bottom,observed,gang
+total/gang:bianlian,CrostonSBA,1.1149406886447368,bottom,observed,gang
+total/gang:bianlian,TSB,0.006364704827197555,bottom,observed,gang
+total/gang:bianlian,ADIDA,0.07150377608803916,bottom,observed,gang
+total/gang:bianlian,IMAPA,0.06268812191069321,bottom,observed,gang
+total/gang:bianlian,Naive,0.0,bottom,observed,gang
+total/gang:blackbasta,AutoETS,0.01478440316783764,bottom,observed,gang
+total/gang:blackbasta,AutoTheta,0.016844081199262114,bottom,observed,gang
+total/gang:blackbasta,AutoETS/BottomUp,0.01478440316783764,bottom,observed,gang
+total/gang:blackbasta,AutoTheta/BottomUp,0.016844081199262114,bottom,observed,gang
+total/gang:blackbasta,AutoETS/TopDown_method-forecast_proportions,0.01430564578101998,bottom,observed,gang
+total/gang:blackbasta,AutoTheta/TopDown_method-forecast_proportions,0.01794268458092598,bottom,observed,gang
+total/gang:blackbasta,AutoETS/MinTrace_method-ols,0.027559009494496044,bottom,observed,gang
+total/gang:blackbasta,AutoTheta/MinTrace_method-ols,0.09220486289710217,bottom,observed,gang
+total/gang:blackbasta,AutoETS/MinTrace_method-mint_shrink,0.01443365864262551,bottom,observed,gang
+total/gang:blackbasta,AutoTheta/MinTrace_method-mint_shrink,0.01934983530267537,bottom,observed,gang
+total/gang:blackbasta,CrostonClassic,1.137446267189187,bottom,observed,gang
+total/gang:blackbasta,CrostonSBA,1.0805739538297277,bottom,observed,gang
+total/gang:blackbasta,TSB,0.0005510040558647255,bottom,observed,gang
+total/gang:blackbasta,ADIDA,0.009310853985622406,bottom,observed,gang
+total/gang:blackbasta,IMAPA,0.012026997801102344,bottom,observed,gang
+total/gang:blackbasta,Naive,0.0,bottom,observed,gang
+total/gang:clop,AutoETS,1.5724469763168052,bottom,observed,gang
+total/gang:clop,AutoTheta,1.5484497683820124,bottom,observed,gang
+total/gang:clop,AutoETS/BottomUp,1.5724469763168052,bottom,observed,gang
+total/gang:clop,AutoTheta/BottomUp,1.5484497683820124,bottom,observed,gang
+total/gang:clop,AutoETS/TopDown_method-forecast_proportions,1.5740643061222557,bottom,observed,gang
+total/gang:clop,AutoTheta/TopDown_method-forecast_proportions,1.5672006835150143,bottom,observed,gang
+total/gang:clop,AutoETS/MinTrace_method-ols,1.5743689964169063,bottom,observed,gang
+total/gang:clop,AutoTheta/MinTrace_method-ols,1.5733260003766603,bottom,observed,gang
+total/gang:clop,AutoETS/MinTrace_method-mint_shrink,1.574377920853856,bottom,observed,gang
+total/gang:clop,AutoTheta/MinTrace_method-mint_shrink,1.5692144174347118,bottom,observed,gang
+total/gang:clop,CrostonClassic,1.6320525534659638,bottom,observed,gang
+total/gang:clop,CrostonSBA,1.5907762125573714,bottom,observed,gang
+total/gang:clop,TSB,1.5897424659180965,bottom,observed,gang
+total/gang:clop,ADIDA,1.5402036076307428,bottom,observed,gang
+total/gang:clop,IMAPA,1.538294015139572,bottom,observed,gang
+total/gang:clop,Naive,1.6625183823529412,bottom,observed,gang
+total/gang:dispossessor,AutoETS,0.4512582607809805,bottom,observed,gang
+total/gang:dispossessor,AutoTheta,0.003299848806285844,bottom,observed,gang
+total/gang:dispossessor,AutoETS/BottomUp,0.4512582607809805,bottom,observed,gang
+total/gang:dispossessor,AutoTheta/BottomUp,0.003299848806285844,bottom,observed,gang
+total/gang:dispossessor,AutoETS/TopDown_method-forecast_proportions,0.44737917320546194,bottom,observed,gang
+total/gang:dispossessor,AutoTheta/TopDown_method-forecast_proportions,0.0035150712939169314,bottom,observed,gang
+total/gang:dispossessor,AutoETS/MinTrace_method-ols,0.43618439232913037,bottom,observed,gang
+total/gang:dispossessor,AutoTheta/MinTrace_method-ols,0.08104105632168757,bottom,observed,gang
+total/gang:dispossessor,AutoETS/MinTrace_method-mint_shrink,0.4375729145565154,bottom,observed,gang
+total/gang:dispossessor,AutoTheta/MinTrace_method-mint_shrink,0.07285311455614646,bottom,observed,gang
+total/gang:dispossessor,CrostonClassic,0.6549100685839623,bottom,observed,gang
+total/gang:dispossessor,CrostonSBA,0.6221645651547641,bottom,observed,gang
+total/gang:dispossessor,TSB,5.3666097495092495e-05,bottom,observed,gang
+total/gang:dispossessor,ADIDA,0.2963066280248844,bottom,observed,gang
+total/gang:dispossessor,IMAPA,0.3664286294324208,bottom,observed,gang
+total/gang:dispossessor,Naive,0.0,bottom,observed,gang
+total/gang:dragonforce,AutoETS,5.203616828719224,bottom,observed,gang
+total/gang:dragonforce,AutoTheta,4.9789556386966725,bottom,observed,gang
+total/gang:dragonforce,AutoETS/BottomUp,5.203616828719224,bottom,observed,gang
+total/gang:dragonforce,AutoTheta/BottomUp,4.9789556386966725,bottom,observed,gang
+total/gang:dragonforce,AutoETS/TopDown_method-forecast_proportions,5.2042859588666195,bottom,observed,gang
+total/gang:dragonforce,AutoTheta/TopDown_method-forecast_proportions,5.027175336162919,bottom,observed,gang
+total/gang:dragonforce,AutoETS/MinTrace_method-ols,5.2103546988719955,bottom,observed,gang
+total/gang:dragonforce,AutoTheta/MinTrace_method-ols,5.0290344343851165,bottom,observed,gang
+total/gang:dragonforce,AutoETS/MinTrace_method-mint_shrink,5.203909971284533,bottom,observed,gang
+total/gang:dragonforce,AutoTheta/MinTrace_method-mint_shrink,4.9803851458110655,bottom,observed,gang
+total/gang:dragonforce,CrostonClassic,5.011794402481666,bottom,observed,gang
+total/gang:dragonforce,CrostonSBA,4.96183365481521,bottom,observed,gang
+total/gang:dragonforce,TSB,4.802270396058333,bottom,observed,gang
+total/gang:dragonforce,ADIDA,5.013403421837091,bottom,observed,gang
+total/gang:dragonforce,IMAPA,5.004646385187097,bottom,observed,gang
+total/gang:dragonforce,Naive,4.849179025423729,bottom,observed,gang
+total/gang:fog,AutoETS,0.0016495774839033871,bottom,observed,gang
+total/gang:fog,AutoTheta,0.00166160989376068,bottom,observed,gang
+total/gang:fog,AutoETS/BottomUp,0.0016495774839033871,bottom,observed,gang
+total/gang:fog,AutoTheta/BottomUp,0.00166160989376068,bottom,observed,gang
+total/gang:fog,AutoETS/TopDown_method-forecast_proportions,0.001578319386358225,bottom,observed,gang
+total/gang:fog,AutoTheta/TopDown_method-forecast_proportions,0.001819095105097178,bottom,observed,gang
+total/gang:fog,AutoETS/MinTrace_method-ols,0.08561080960416165,bottom,observed,gang
+total/gang:fog,AutoTheta/MinTrace_method-ols,0.25624442364937217,bottom,observed,gang
+total/gang:fog,AutoETS/MinTrace_method-mint_shrink,0.0021949129421682755,bottom,observed,gang
+total/gang:fog,AutoTheta/MinTrace_method-mint_shrink,0.0057382396327770435,bottom,observed,gang
+total/gang:fog,CrostonClassic,0.9503897927670225,bottom,observed,gang
+total/gang:fog,CrostonSBA,0.9028703031286714,bottom,observed,gang
+total/gang:fog,TSB,0.039829994366460994,bottom,observed,gang
+total/gang:fog,ADIDA,1.223151074553151,bottom,observed,gang
+total/gang:fog,IMAPA,0.6042042454569929,bottom,observed,gang
+total/gang:fog,Naive,0.0,bottom,observed,gang
+total/gang:funksec,AutoETS,3.5754524845292378e-09,bottom,observed,gang
+total/gang:funksec,AutoTheta,3.497283864416888e-09,bottom,observed,gang
+total/gang:funksec,AutoETS/BottomUp,3.5754524845292378e-09,bottom,observed,gang
+total/gang:funksec,AutoTheta/BottomUp,3.497283864416888e-09,bottom,observed,gang
+total/gang:funksec,AutoETS/TopDown_method-forecast_proportions,3.417846074172487e-09,bottom,observed,gang
+total/gang:funksec,AutoTheta/TopDown_method-forecast_proportions,3.844260091378089e-09,bottom,observed,gang
+total/gang:funksec,AutoETS/MinTrace_method-ols,0.1546960503893335,bottom,observed,gang
+total/gang:funksec,AutoTheta/MinTrace_method-ols,0.460039219798551,bottom,observed,gang
+total/gang:funksec,AutoETS/MinTrace_method-mint_shrink,0.002748611168738255,bottom,observed,gang
+total/gang:funksec,AutoTheta/MinTrace_method-mint_shrink,0.008611510161384022,bottom,observed,gang
+total/gang:funksec,CrostonClassic,0.749509114906928,bottom,observed,gang
+total/gang:funksec,CrostonSBA,0.7120336591615816,bottom,observed,gang
+total/gang:funksec,TSB,0.05430652043969602,bottom,observed,gang
+total/gang:funksec,ADIDA,2.5198389548529905,bottom,observed,gang
+total/gang:funksec,IMAPA,1.8768857217614485,bottom,observed,gang
+total/gang:funksec,Naive,0.0,bottom,observed,gang
+total/gang:hunters,AutoETS,0.10233759087230916,bottom,observed,gang
+total/gang:hunters,AutoTheta,0.10560749938346944,bottom,observed,gang
+total/gang:hunters,AutoETS/BottomUp,0.10233759087230916,bottom,observed,gang
+total/gang:hunters,AutoTheta/BottomUp,0.10560749938346944,bottom,observed,gang
+total/gang:hunters,AutoETS/TopDown_method-forecast_proportions,0.0985170490558369,bottom,observed,gang
+total/gang:hunters,AutoTheta/TopDown_method-forecast_proportions,0.1139279974598572,bottom,observed,gang
+total/gang:hunters,AutoETS/MinTrace_method-ols,0.11409744573138238,bottom,observed,gang
+total/gang:hunters,AutoTheta/MinTrace_method-ols,0.2819730187797118,bottom,observed,gang
+total/gang:hunters,AutoETS/MinTrace_method-mint_shrink,0.10211682634741671,bottom,observed,gang
+total/gang:hunters,AutoTheta/MinTrace_method-mint_shrink,0.10696164862030752,bottom,observed,gang
+total/gang:hunters,CrostonClassic,1.774759504823575,bottom,observed,gang
+total/gang:hunters,CrostonSBA,1.6860215295823955,bottom,observed,gang
+total/gang:hunters,TSB,0.055911541570857655,bottom,observed,gang
+total/gang:hunters,ADIDA,0.1663886207330371,bottom,observed,gang
+total/gang:hunters,IMAPA,0.1348820712217707,bottom,observed,gang
+total/gang:hunters,Naive,0.0,bottom,observed,gang
+total/gang:incransom,AutoETS,2.79533541403967,bottom,observed,gang
+total/gang:incransom,AutoTheta,2.789203831443462,bottom,observed,gang
+total/gang:incransom,AutoETS/BottomUp,2.79533541403967,bottom,observed,gang
+total/gang:incransom,AutoTheta/BottomUp,2.789203831443462,bottom,observed,gang
+total/gang:incransom,AutoETS/TopDown_method-forecast_proportions,2.800846347861789,bottom,observed,gang
+total/gang:incransom,AutoTheta/TopDown_method-forecast_proportions,2.814267693054006,bottom,observed,gang
+total/gang:incransom,AutoETS/MinTrace_method-ols,2.8067094927606138,bottom,observed,gang
+total/gang:incransom,AutoTheta/MinTrace_method-ols,2.7956166437902303,bottom,observed,gang
+total/gang:incransom,AutoETS/MinTrace_method-mint_shrink,2.795508607858038,bottom,observed,gang
+total/gang:incransom,AutoTheta/MinTrace_method-mint_shrink,2.7895322363181916,bottom,observed,gang
+total/gang:incransom,CrostonClassic,2.7218643183766416,bottom,observed,gang
+total/gang:incransom,CrostonSBA,2.712408486933631,bottom,observed,gang
+total/gang:incransom,TSB,2.8421951527800062,bottom,observed,gang
+total/gang:incransom,ADIDA,2.746698558232697,bottom,observed,gang
+total/gang:incransom,IMAPA,2.77140981770256,bottom,observed,gang
+total/gang:incransom,Naive,3.2566598360655736,bottom,observed,gang
+total/gang:killsec,AutoETS,1.69028116286662,bottom,observed,gang
+total/gang:killsec,AutoTheta,1.7152140741543846,bottom,observed,gang
+total/gang:killsec,AutoETS/BottomUp,1.69028116286662,bottom,observed,gang
+total/gang:killsec,AutoTheta/BottomUp,1.7152140741543846,bottom,observed,gang
+total/gang:killsec,AutoETS/TopDown_method-forecast_proportions,1.683695763093507,bottom,observed,gang
+total/gang:killsec,AutoTheta/TopDown_method-forecast_proportions,1.729329563064995,bottom,observed,gang
+total/gang:killsec,AutoETS/MinTrace_method-ols,1.693028479777959,bottom,observed,gang
+total/gang:killsec,AutoTheta/MinTrace_method-ols,1.799656649074325,bottom,observed,gang
+total/gang:killsec,AutoETS/MinTrace_method-mint_shrink,1.6899982133319917,bottom,observed,gang
+total/gang:killsec,AutoTheta/MinTrace_method-mint_shrink,1.7161799242301574,bottom,observed,gang
+total/gang:killsec,CrostonClassic,1.5511657393753524,bottom,observed,gang
+total/gang:killsec,CrostonSBA,1.5123389142709913,bottom,observed,gang
+total/gang:killsec,TSB,1.6539049706423334,bottom,observed,gang
+total/gang:killsec,ADIDA,1.7426475049589074,bottom,observed,gang
+total/gang:killsec,IMAPA,1.6924804037117993,bottom,observed,gang
+total/gang:killsec,Naive,2.416843220338983,bottom,observed,gang
+total/gang:lockbit3,AutoETS,0.014665692421443038,bottom,observed,gang
+total/gang:lockbit3,AutoTheta,0.014557291858505276,bottom,observed,gang
+total/gang:lockbit3,AutoETS/BottomUp,0.014665692421443038,bottom,observed,gang
+total/gang:lockbit3,AutoTheta/BottomUp,0.014557291858505276,bottom,observed,gang
+total/gang:lockbit3,AutoETS/TopDown_method-forecast_proportions,0.014198164035439277,bottom,observed,gang
+total/gang:lockbit3,AutoTheta/TopDown_method-forecast_proportions,0.015465447653838825,bottom,observed,gang
+total/gang:lockbit3,AutoETS/MinTrace_method-ols,0.014172341653504256,bottom,observed,gang
+total/gang:lockbit3,AutoTheta/MinTrace_method-ols,0.03350396961767613,bottom,observed,gang
+total/gang:lockbit3,AutoETS/MinTrace_method-mint_shrink,0.01398306615779425,bottom,observed,gang
+total/gang:lockbit3,AutoTheta/MinTrace_method-mint_shrink,0.03497698509086996,bottom,observed,gang
+total/gang:lockbit3,CrostonClassic,0.11928280365979728,bottom,observed,gang
+total/gang:lockbit3,CrostonSBA,0.1132496255236352,bottom,observed,gang
+total/gang:lockbit3,TSB,0.009737107267370591,bottom,observed,gang
+total/gang:lockbit3,ADIDA,0.014682213220865555,bottom,observed,gang
+total/gang:lockbit3,IMAPA,0.014682213220865555,bottom,observed,gang
+total/gang:lockbit3,Naive,0.0013807590634441088,bottom,observed,gang
+total/gang:lynx,AutoETS,2.441818862215604,bottom,observed,gang
+total/gang:lynx,AutoTheta,2.474541897190043,bottom,observed,gang
+total/gang:lynx,AutoETS/BottomUp,2.441818862215604,bottom,observed,gang
+total/gang:lynx,AutoTheta/BottomUp,2.474541897190043,bottom,observed,gang
+total/gang:lynx,AutoETS/TopDown_method-forecast_proportions,2.4324033170546704,bottom,observed,gang
+total/gang:lynx,AutoTheta/TopDown_method-forecast_proportions,2.4884627690113224,bottom,observed,gang
+total/gang:lynx,AutoETS/MinTrace_method-ols,2.4481880597490497,bottom,observed,gang
+total/gang:lynx,AutoTheta/MinTrace_method-ols,2.550805056724601,bottom,observed,gang
+total/gang:lynx,AutoETS/MinTrace_method-mint_shrink,2.4417867881296327,bottom,observed,gang
+total/gang:lynx,AutoTheta/MinTrace_method-mint_shrink,2.4753621634009937,bottom,observed,gang
+total/gang:lynx,CrostonClassic,2.63056062203359,bottom,observed,gang
+total/gang:lynx,CrostonSBA,2.5816956344101714,bottom,observed,gang
+total/gang:lynx,TSB,2.3954387380666877,bottom,observed,gang
+total/gang:lynx,ADIDA,2.5535948006773572,bottom,observed,gang
+total/gang:lynx,IMAPA,2.449416837427548,bottom,observed,gang
+total/gang:lynx,Naive,3.1157608695652175,bottom,observed,gang
+total/gang:medusa,AutoETS,0.9311832396155594,bottom,observed,gang
+total/gang:medusa,AutoTheta,0.9452702302048928,bottom,observed,gang
+total/gang:medusa,AutoETS/BottomUp,0.9311832396155594,bottom,observed,gang
+total/gang:medusa,AutoTheta/BottomUp,0.9452702302048928,bottom,observed,gang
+total/gang:medusa,AutoETS/TopDown_method-forecast_proportions,0.9282314055250402,bottom,observed,gang
+total/gang:medusa,AutoTheta/TopDown_method-forecast_proportions,0.9627649266943675,bottom,observed,gang
+total/gang:medusa,AutoETS/MinTrace_method-ols,0.9405692767844089,bottom,observed,gang
+total/gang:medusa,AutoTheta/MinTrace_method-ols,1.0389688797211152,bottom,observed,gang
+total/gang:medusa,AutoETS/MinTrace_method-mint_shrink,0.9312767515277601,bottom,observed,gang
+total/gang:medusa,AutoTheta/MinTrace_method-mint_shrink,0.9461648756023346,bottom,observed,gang
+total/gang:medusa,CrostonClassic,1.267564749657025,bottom,observed,gang
+total/gang:medusa,CrostonSBA,1.2265147564489831,bottom,observed,gang
+total/gang:medusa,TSB,0.9180457604888284,bottom,observed,gang
+total/gang:medusa,ADIDA,0.9372103221873208,bottom,observed,gang
+total/gang:medusa,IMAPA,0.9341315027690029,bottom,observed,gang
+total/gang:medusa,Naive,1.2466603053435115,bottom,observed,gang
+total/gang:other,AutoETS,1.1380883095103707,bottom,observed,gang
+total/gang:other,AutoTheta,1.1036503141885983,bottom,observed,gang
+total/gang:other,AutoETS/BottomUp,1.1380883095103707,bottom,observed,gang
+total/gang:other,AutoTheta/BottomUp,1.1036503141885983,bottom,observed,gang
+total/gang:other,AutoETS/TopDown_method-forecast_proportions,1.1558922247273578,bottom,observed,gang
+total/gang:other,AutoTheta/TopDown_method-forecast_proportions,1.0955906845209673,bottom,observed,gang
+total/gang:other,AutoETS/MinTrace_method-ols,1.1395947077178261,bottom,observed,gang
+total/gang:other,AutoTheta/MinTrace_method-ols,1.1027948092235078,bottom,observed,gang
+total/gang:other,AutoETS/MinTrace_method-mint_shrink,1.1481878193390382,bottom,observed,gang
+total/gang:other,AutoTheta/MinTrace_method-mint_shrink,1.097988871333674,bottom,observed,gang
+total/gang:other,CrostonClassic,1.1182356620402387,bottom,observed,gang
+total/gang:other,CrostonSBA,1.1570466059483728,bottom,observed,gang
+total/gang:other,TSB,1.1582348206650213,bottom,observed,gang
+total/gang:other,ADIDA,1.1289646104042732,bottom,observed,gang
+total/gang:other,IMAPA,1.1289646104042732,bottom,observed,gang
+total/gang:other,Naive,1.228778018158604,bottom,observed,gang
+total/gang:play,AutoETS,1.2850456585642667,bottom,observed,gang
+total/gang:play,AutoTheta,1.3189030086630775,bottom,observed,gang
+total/gang:play,AutoETS/BottomUp,1.2850456585642667,bottom,observed,gang
+total/gang:play,AutoTheta/BottomUp,1.3189030086630775,bottom,observed,gang
+total/gang:play,AutoETS/TopDown_method-forecast_proportions,1.2915110761942732,bottom,observed,gang
+total/gang:play,AutoTheta/TopDown_method-forecast_proportions,1.3438948352669613,bottom,observed,gang
+total/gang:play,AutoETS/MinTrace_method-ols,1.2993137435224158,bottom,observed,gang
+total/gang:play,AutoTheta/MinTrace_method-ols,1.3465957712812286,bottom,observed,gang
+total/gang:play,AutoETS/MinTrace_method-mint_shrink,1.2854812779266198,bottom,observed,gang
+total/gang:play,AutoTheta/MinTrace_method-mint_shrink,1.3198374507422623,bottom,observed,gang
+total/gang:play,CrostonClassic,1.2870357663859608,bottom,observed,gang
+total/gang:play,CrostonSBA,1.2582447657378952,bottom,observed,gang
+total/gang:play,TSB,1.3476625343031192,bottom,observed,gang
+total/gang:play,ADIDA,1.288840367456232,bottom,observed,gang
+total/gang:play,IMAPA,1.288128555917535,bottom,observed,gang
+total/gang:play,Naive,1.6428082191780822,bottom,observed,gang
+total/gang:qilin,AutoETS,5.355160574773372,bottom,observed,gang
+total/gang:qilin,AutoTheta,4.899063743707823,bottom,observed,gang
+total/gang:qilin,AutoETS/BottomUp,5.355160574773372,bottom,observed,gang
+total/gang:qilin,AutoTheta/BottomUp,4.899063743707823,bottom,observed,gang
+total/gang:qilin,AutoETS/TopDown_method-forecast_proportions,5.2500655994019,bottom,observed,gang
+total/gang:qilin,AutoTheta/TopDown_method-forecast_proportions,4.9143729400501375,bottom,observed,gang
+total/gang:qilin,AutoETS/MinTrace_method-ols,5.332223775816703,bottom,observed,gang
+total/gang:qilin,AutoTheta/MinTrace_method-ols,4.899955219108256,bottom,observed,gang
+total/gang:qilin,AutoETS/MinTrace_method-mint_shrink,5.353153908983016,bottom,observed,gang
+total/gang:qilin,AutoTheta/MinTrace_method-mint_shrink,4.899129189540204,bottom,observed,gang
+total/gang:qilin,CrostonClassic,4.700336420574503,bottom,observed,gang
+total/gang:qilin,CrostonSBA,4.772144706849548,bottom,observed,gang
+total/gang:qilin,TSB,4.982186833398758,bottom,observed,gang
+total/gang:qilin,ADIDA,4.8655239358934494,bottom,observed,gang
+total/gang:qilin,IMAPA,4.882344357460884,bottom,observed,gang
+total/gang:qilin,Naive,5.6328125,bottom,observed,gang
+total/gang:ransomhub,AutoETS,0.009424090050726587,bottom,observed,gang
+total/gang:ransomhub,AutoTheta,0.009470128385985765,bottom,observed,gang
+total/gang:ransomhub,AutoETS/BottomUp,0.009424090050726587,bottom,observed,gang
+total/gang:ransomhub,AutoTheta/BottomUp,0.009470128385985765,bottom,observed,gang
+total/gang:ransomhub,AutoETS/TopDown_method-forecast_proportions,0.009022675778531948,bottom,observed,gang
+total/gang:ransomhub,AutoTheta/TopDown_method-forecast_proportions,0.010345905488685438,bottom,observed,gang
+total/gang:ransomhub,AutoETS/MinTrace_method-ols,0.038212694662938376,bottom,observed,gang
+total/gang:ransomhub,AutoTheta/MinTrace_method-ols,0.12295206176117557,bottom,observed,gang
+total/gang:ransomhub,AutoETS/MinTrace_method-mint_shrink,0.00989031610847239,bottom,observed,gang
+total/gang:ransomhub,AutoTheta/MinTrace_method-mint_shrink,0.015691861709516138,bottom,observed,gang
+total/gang:ransomhub,CrostonClassic,6.729631277158844,bottom,observed,gang
+total/gang:ransomhub,CrostonSBA,6.3931497133009,bottom,observed,gang
+total/gang:ransomhub,TSB,0.052412158257186224,bottom,observed,gang
+total/gang:ransomhub,ADIDA,0.586243566774478,bottom,observed,gang
+total/gang:ransomhub,IMAPA,0.2559747747237885,bottom,observed,gang
+total/gang:ransomhub,Naive,0.0,bottom,observed,gang
+total/gang:safepay,AutoETS,3.8527072081498073,bottom,observed,gang
+total/gang:safepay,AutoTheta,3.65416390633742,bottom,observed,gang
+total/gang:safepay,AutoETS/BottomUp,3.8527072081498073,bottom,observed,gang
+total/gang:safepay,AutoTheta/BottomUp,3.65416390633742,bottom,observed,gang
+total/gang:safepay,AutoETS/TopDown_method-forecast_proportions,3.8066611549039564,bottom,observed,gang
+total/gang:safepay,AutoTheta/TopDown_method-forecast_proportions,3.7012050977315516,bottom,observed,gang
+total/gang:safepay,AutoETS/MinTrace_method-ols,3.8073000298703654,bottom,observed,gang
+total/gang:safepay,AutoTheta/MinTrace_method-ols,3.6939582949635086,bottom,observed,gang
+total/gang:safepay,AutoETS/MinTrace_method-mint_shrink,3.851314444272173,bottom,observed,gang
+total/gang:safepay,AutoTheta/MinTrace_method-mint_shrink,3.6553527882556582,bottom,observed,gang
+total/gang:safepay,CrostonClassic,3.6178428509122886,bottom,observed,gang
+total/gang:safepay,CrostonSBA,3.6068056070812684,bottom,observed,gang
+total/gang:safepay,TSB,3.5677879189588815,bottom,observed,gang
+total/gang:safepay,ADIDA,3.5904904363490404,bottom,observed,gang
+total/gang:safepay,IMAPA,3.5978111118358798,bottom,observed,gang
+total/gang:safepay,Naive,4.733009708737864,bottom,observed,gang

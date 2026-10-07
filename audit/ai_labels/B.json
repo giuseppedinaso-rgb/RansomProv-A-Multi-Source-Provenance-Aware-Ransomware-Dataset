@@ -1,0 +1,602 @@
+[
+ {
+  "event_1": 13982,
+  "event_2": 13983,
+  "label": "same_attack",
+  "note": "ernesthealth vs earnesthealth typo, same domain"
+ },
+ {
+  "event_1": 21515,
+  "event_2": 21516,
+  "label": "same_victim_new_post",
+  "note": "explicit pack 1 / pack 2"
+ },
+ {
+  "event_1": 9775,
+  "event_2": 9776,
+  "label": "different",
+  "note": "Samwha Capacitor vs Hwacheon are distinct Korean companies; shared domain likely misattributed"
+ },
+ {
+  "event_1": 36146,
+  "event_2": 36139,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 33714,
+  "event_2": 33715,
+  "label": "same_attack",
+  "note": "same truncated name continuumenergy, repost"
+ },
+ {
+  "event_1": 31897,
+  "event_2": 35636,
+  "label": "same_attack",
+  "note": "same Akira blog title, one truncated"
+ },
+ {
+  "event_1": 35521,
+  "event_2": 35522,
+  "label": "same_attack",
+  "note": "same bri.co.id post retitled SOLD TO 3RD PARTY"
+ },
+ {
+  "event_1": 35989,
+  "event_2": 35988,
+  "label": "different",
+  "note": "generic 'Company' placeholder, different domains"
+ },
+ {
+  "event_1": 15847,
+  "event_2": 15848,
+  "label": "same_attack",
+  "note": "identical name FS Tool Corporation, repost"
+ },
+ {
+  "event_1": 1152,
+  "event_2": 32419,
+  "label": "same_attack",
+  "note": "same victim list, truncation/spacing difference"
+ },
+ {
+  "event_1": 36150,
+  "event_2": 36160,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 36521,
+  "event_2": 36522,
+  "label": "different",
+  "note": "different operation numbers and domains"
+ },
+ {
+  "event_1": 36157,
+  "event_2": 36160,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 30217,
+  "event_2": 30210,
+  "label": "same_victim_new_post",
+  "note": "explicit pt.2"
+ },
+ {
+  "event_1": 36163,
+  "event_2": 36140,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 36148,
+  "event_2": 36140,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 35067,
+  "event_2": 35064,
+  "label": "different",
+  "note": "different archive placeholders"
+ },
+ {
+  "event_1": 2604,
+  "event_2": 2605,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 36156,
+  "event_2": 36160,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 35293,
+  "event_2": 10428,
+  "label": "same_attack",
+  "note": "same name with AAMC.local suffix"
+ },
+ {
+  "event_1": 36160,
+  "event_2": 36139,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 32042,
+  "event_2": 35809,
+  "label": "same_attack",
+  "note": "same Gitlabs list, one missing hemio.de"
+ },
+ {
+  "event_1": 36170,
+  "event_2": 36147,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 33829,
+  "event_2": 33830,
+  "label": "same_attack",
+  "note": "same truncated name fairnessforall"
+ },
+ {
+  "event_1": 20391,
+  "event_2": 20390,
+  "label": "same_attack",
+  "note": "International Delights with parent Danone added"
+ },
+ {
+  "event_1": 36694,
+  "event_2": 1152,
+  "label": "same_attack",
+  "note": "same victim list, truncation"
+ },
+ {
+  "event_1": 27650,
+  "event_2": 33161,
+  "label": "same_attack",
+  "note": "same title, lstaff.com dropped"
+ },
+ {
+  "event_1": 28255,
+  "event_2": 33532,
+  "label": "same_attack",
+  "note": "City of Bridgeport with/without WV"
+ },
+ {
+  "event_1": 32322,
+  "event_2": 9105,
+  "label": "same_attack",
+  "note": "Colins/Collins typo"
+ },
+ {
+  "event_1": 36912,
+  "event_2": 36913,
+  "label": "same_victim_new_post",
+  "note": "explicit part_2 vs part_5"
+ },
+ {
+  "event_1": 36150,
+  "event_2": 36157,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 36171,
+  "event_2": 36160,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 35030,
+  "event_2": 35026,
+  "label": "same_victim_new_post",
+  "note": "Unpay vs Unpay-Full public: new full data release"
+ },
+ {
+  "event_1": 15845,
+  "event_2": 15846,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 27412,
+  "event_2": 27409,
+  "label": "same_victim_new_post",
+  "note": "explicit Part 1 / Part 2"
+ },
+ {
+  "event_1": 26728,
+  "event_2": 26727,
+  "label": "same_attack",
+  "note": "Clinic vs Clinics minor wording"
+ },
+ {
+  "event_1": 30836,
+  "event_2": 30833,
+  "label": "same_victim_new_post",
+  "note": "two distinct dated update posts"
+ },
+ {
+  "event_1": 9484,
+  "event_2": 9485,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 19572,
+  "event_2": 19580,
+  "label": "different",
+  "note": "APEX vs Pollex Asset Management, different firms"
+ },
+ {
+  "event_1": 35919,
+  "event_2": 35920,
+  "label": "same_attack",
+  "note": "same post retitled (SOLD)"
+ },
+ {
+  "event_1": 18960,
+  "event_2": 18961,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 35148,
+  "event_2": 31189,
+  "label": "same_attack",
+  "note": "same database, 'for sale' wording"
+ },
+ {
+  "event_1": 9490,
+  "event_2": 9491,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 30788,
+  "event_2": 34879,
+  "label": "different",
+  "note": "generic password-disclosure title, different victims rkw-group vs nissin"
+ },
+ {
+  "event_1": 36463,
+  "event_2": 36449,
+  "label": "different",
+  "note": "Edri-ltd vs GoldenBit, different operations"
+ },
+ {
+  "event_1": 25353,
+  "event_2": 25354,
+  "label": "same_attack",
+  "note": "case difference only, same domain"
+ },
+ {
+  "event_1": 34938,
+  "event_2": 712,
+  "label": "same_attack",
+  "note": "truncated College"
+ },
+ {
+  "event_1": 35523,
+  "event_2": 35524,
+  "label": "same_attack",
+  "note": "same viennaairport post retitled SOLD"
+ },
+ {
+  "event_1": 36141,
+  "event_2": 16542,
+  "label": "same_attack",
+  "note": "same name with (Italy) suffix"
+ },
+ {
+  "event_1": 36161,
+  "event_2": 36164,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 28034,
+  "event_2": 33345,
+  "label": "same_attack",
+  "note": "same name, HTML-escaped ampersand"
+ },
+ {
+  "event_1": 36159,
+  "event_2": 36140,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 16564,
+  "event_2": 35977,
+  "label": "same_attack",
+  "note": "same name with (Japan) suffix"
+ },
+ {
+  "event_1": 36868,
+  "event_2": 3186,
+  "label": "same_attack",
+  "note": "same firm with/without PC"
+ },
+ {
+  "event_1": 13699,
+  "event_2": 13700,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 34981,
+  "event_2": 34982,
+  "label": "unsure",
+  "note": "masked I****n names, cannot verify same victim"
+ },
+ {
+  "event_1": 19572,
+  "event_2": 19556,
+  "label": "different",
+  "note": "APEX vs EUM Asset Management, different firms"
+ },
+ {
+  "event_1": 36162,
+  "event_2": 36153,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 23640,
+  "event_2": 37328,
+  "label": "same_attack",
+  "note": "Leak: prefix only"
+ },
+ {
+  "event_1": 15841,
+  "event_2": 15842,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 35993,
+  "event_2": 35992,
+  "label": "different",
+  "note": "generic Babuk title, different domains (Ping An vs Mandarin)"
+ },
+ {
+  "event_1": 26169,
+  "event_2": 26170,
+  "label": "same_attack",
+  "note": "identical name Ucar"
+ },
+ {
+  "event_1": 31001,
+  "event_2": 164,
+  "label": "same_attack",
+  "note": "'and' vs '&' wording"
+ },
+ {
+  "event_1": 36364,
+  "event_2": 36365,
+  "label": "different",
+  "note": "generic JP placeholder, different domains"
+ },
+ {
+  "event_1": 36166,
+  "event_2": 36153,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 7643,
+  "event_2": 7644,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 27089,
+  "event_2": 27088,
+  "label": "same_attack",
+  "note": "Honk/Hong typo"
+ },
+ {
+  "event_1": 4404,
+  "event_2": 35265,
+  "label": "same_attack",
+  "note": "same domain with _wp suffix, same day"
+ },
+ {
+  "event_1": 34840,
+  "event_2": 34839,
+  "label": "same_attack",
+  "note": "same masked name, more letters revealed"
+ },
+ {
+  "event_1": 15850,
+  "event_2": 15851,
+  "label": "same_attack",
+  "note": "identical name; lovesafely.com is an FHS site"
+ },
+ {
+  "event_1": 11162,
+  "event_2": 11155,
+  "label": "unsure",
+  "note": "Hopkins Law: conflicting domains, possibly different firms"
+ },
+ {
+  "event_1": 4277,
+  "event_2": 4278,
+  "label": "same_attack",
+  "note": "identical name Yellow Pages"
+ },
+ {
+  "event_1": 34443,
+  "event_2": 34444,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 31007,
+  "event_2": 31008,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 36148,
+  "event_2": 36139,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 36590,
+  "event_2": 36591,
+  "label": "different",
+  "note": "different COMPANIES-GROUP placeholders"
+ },
+ {
+  "event_1": 20707,
+  "event_2": 20698,
+  "label": "same_attack",
+  "note": "SEL = Safety Engineering Laboratory (seldirect.com), same firm"
+ },
+ {
+  "event_1": 30217,
+  "event_2": 30193,
+  "label": "same_victim_new_post",
+  "note": "explicit pt.3"
+ },
+ {
+  "event_1": 7277,
+  "event_2": 36000,
+  "label": "same_attack",
+  "note": "Taiwan prefix only"
+ },
+ {
+  "event_1": 31625,
+  "event_2": 35326,
+  "label": "same_attack",
+  "note": "PoC suffix, same day, same victim"
+ },
+ {
+  "event_1": 20034,
+  "event_2": 35792,
+  "label": "same_attack",
+  "note": "F.TECH prefix truncated"
+ },
+ {
+  "event_1": 19558,
+  "event_2": 19533,
+  "label": "different",
+  "note": "ST vs HUB Asset Management, different firms"
+ },
+ {
+  "event_1": 25357,
+  "event_2": 25358,
+  "label": "same_attack",
+  "note": "case difference only, same domain"
+ },
+ {
+  "event_1": 15332,
+  "event_2": 35082,
+  "label": "same_attack",
+  "note": "Hacked prefix only"
+ },
+ {
+  "event_1": 37095,
+  "event_2": 7472,
+  "label": "same_attack",
+  "note": "', CT' suffix only"
+ },
+ {
+  "event_1": 33986,
+  "event_2": 33987,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 36147,
+  "event_2": 36142,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 36568,
+  "event_2": 36566,
+  "label": "different",
+  "note": "different operations 0x01 vs 0x02"
+ },
+ {
+  "event_1": 36150,
+  "event_2": 36143,
+  "label": "different",
+  "note": "unrelated Views placeholders"
+ },
+ {
+  "event_1": 29734,
+  "event_2": 29720,
+  "label": "same_victim_new_post",
+  "note": "explicit part2"
+ },
+ {
+  "event_1": 19559,
+  "event_2": 19558,
+  "label": "different",
+  "note": "EOS vs ST Asset Management, different firms"
+ },
+ {
+  "event_1": 7079,
+  "event_2": 7080,
+  "label": "same_attack",
+  "note": "Property Finder minor wording, same domain"
+ },
+ {
+  "event_1": 33370,
+  "event_2": 33371,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 34111,
+  "event_2": 34112,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 1151,
+  "event_2": 32421,
+  "label": "same_attack",
+  "note": "same victim list, truncation"
+ },
+ {
+  "event_1": 33652,
+  "event_2": 33653,
+  "label": "same_attack",
+  "note": "identical name and domain"
+ },
+ {
+  "event_1": 36120,
+  "event_2": 32163,
+  "label": "same_attack",
+  "note": "same victim, (QILIN) tag added"
+ },
+ {
+  "event_1": 32560,
+  "event_2": 11155,
+  "label": "unsure",
+  "note": "Hopkins Law: hopkins.law vs hopkins-law.com, possibly different firms"
+ },
+ {
+  "event_1": 26014,
+  "event_2": 26007,
+  "label": "different",
+  "note": "alcornindustrial vs barindustrial, different companies"
+ },
+ {
+  "event_1": 23880,
+  "event_2": 23881,
+  "label": "same_attack",
+  "note": "Pathstone name vs domain, same domain"
+ }
+]

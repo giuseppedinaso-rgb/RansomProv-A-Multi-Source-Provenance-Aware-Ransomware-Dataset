@@ -1,0 +1,12 @@
+{
+  "model": "NHP",
+  "mark": "country",
+  "best_valid_loglike": -1.453479134480278,
+  "params": {
+    "lr": 0.003407876918558358,
+    "batch_size": 8,
+    "dropout": 0.0,
+    "hidden_size": 128
+  },
+  "n_trials": 20
+}

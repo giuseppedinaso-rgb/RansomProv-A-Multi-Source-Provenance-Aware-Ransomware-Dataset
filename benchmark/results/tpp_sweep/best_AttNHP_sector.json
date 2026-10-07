@@ -1,0 +1,16 @@
+{
+  "model": "AttNHP",
+  "mark": "sector",
+  "best_valid_loglike": -2.7800167184623437,
+  "params": {
+    "lr": 0.005363115884057595,
+    "batch_size": 8,
+    "dropout": 0.3,
+    "hidden_size": 64,
+    "num_layers": 1,
+    "num_heads": 2,
+    "time_emb_size": 16,
+    "use_ln": true
+  },
+  "n_trials": 20
+}

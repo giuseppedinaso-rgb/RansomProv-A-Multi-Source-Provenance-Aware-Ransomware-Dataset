@@ -1,0 +1,30 @@
+{
+  "model": "THP",
+  "version": "enriched",
+  "mark": "country",
+  "seed": 2,
+  "params": {
+    "lr": 0.0007969615646469349,
+    "batch_size": 8,
+    "dropout": 0.0,
+    "hidden_size": 32,
+    "num_layers": 1,
+    "num_heads": 2,
+    "time_emb_size": 8,
+    "use_ln": false,
+    "max_epoch": 100
+  },
+  "best_epoch": 97,
+  "valid": {
+    "loglike": -11.040334907815524,
+    "num_events": 4651.0,
+    "acc": 0.23930337561814663,
+    "rmse": 13.26182115351938
+  },
+  "test": {
+    "loglike": -10.586554006927802,
+    "num_events": 12831.0,
+    "acc": 0.29116982308471673,
+    "rmse": 15.985728391525386
+  }
+}

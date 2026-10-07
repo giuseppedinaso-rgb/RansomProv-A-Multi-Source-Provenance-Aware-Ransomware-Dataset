@@ -1,0 +1,30 @@
+{
+  "model": "SAHP",
+  "version": "observed",
+  "mark": "country",
+  "seed": 1,
+  "params": {
+    "lr": 0.004409218366150208,
+    "batch_size": 8,
+    "dropout": 0.1,
+    "hidden_size": 32,
+    "num_layers": 1,
+    "num_heads": 2,
+    "time_emb_size": 8,
+    "use_ln": false,
+    "max_epoch": 100
+  },
+  "best_epoch": 99,
+  "valid": {
+    "loglike": -1.9944723338830652,
+    "num_events": 4651.0,
+    "acc": 0.5590195656847989,
+    "rmse": 9.246209058872122
+  },
+  "test": {
+    "loglike": -2.352082257333618,
+    "num_events": 12831.0,
+    "acc": 0.5010521393500117,
+    "rmse": 13.09259400857973
+  }
+}

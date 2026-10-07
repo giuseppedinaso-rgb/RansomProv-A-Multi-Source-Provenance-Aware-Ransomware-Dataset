@@ -1,0 +1,30 @@
+{
+  "model": "AttNHP",
+  "version": "observed",
+  "mark": "sector",
+  "seed": 1,
+  "params": {
+    "lr": 0.005363115884057595,
+    "batch_size": 8,
+    "dropout": 0.3,
+    "hidden_size": 64,
+    "num_layers": 1,
+    "num_heads": 2,
+    "time_emb_size": 16,
+    "use_ln": true,
+    "max_epoch": 40
+  },
+  "best_epoch": 38,
+  "valid": {
+    "loglike": -2.53286714949574,
+    "num_events": 4651.0,
+    "acc": 0.259084067942378,
+    "rmse": 7.605283156429778
+  },
+  "test": {
+    "loglike": -3.0298971777145867,
+    "num_events": 12831.0,
+    "acc": 0.22991193203959162,
+    "rmse": 12.018763511614049
+  }
+}

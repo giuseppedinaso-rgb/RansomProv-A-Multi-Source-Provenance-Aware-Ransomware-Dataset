@@ -1,0 +1,14 @@
+sector,naics_2022,isic_rev4,notes
+Professional Services,"54; 53; 55; 56 (excl. 5615)","M; L; N (excl. 79)","Includes legal, accounting, consulting, engineering, architecture, real estate and staffing services"
+Manufacturing,"31-33; 23","C (excl. 10-12); F","Construction (NAICS 23 / ISIC F) is in Manufacturing, as in the ransomware.live taxonomy; food manufacturing is in Agriculture and Food Production"
+Technology,"51 (excl. 512, 516); 5415","J (excl. 59-60)","Software, IT services, telecommunications, data processing and hosting"
+Healthcare,"62; 3254","Q; C21","Includes pharmaceutical manufacturing (NAICS 3254 / ISIC C21)"
+Retail & E-Commerce,"44-45; 42","G","Includes wholesale trade"
+Financial Services,"52","K",
+Transportation,"48-49; 4411; 8111","H; G45","Includes logistics and automotive dealers and repair, as in the ransomware.live taxonomy"
+Education,"61","P",
+Government & Defense,"92; 3364 (defence-related)","O","Public administration, municipalities, armed forces; defence contractors only when the source codes them so"
+Agriculture and Food Production,"11; 311-312","A; C10-C12",
+Energy & Utilities,"22; 211; 213111-213112; 562","D; E; B05-B06",
+Hospitality,"72; 5615","I; N79","Accommodation, food service, travel agencies"
+Other,"71; 81; 512; 516","R; S; U; J59-J60","Arts, entertainment, sport, non-profits, religious and civic organisations, media"

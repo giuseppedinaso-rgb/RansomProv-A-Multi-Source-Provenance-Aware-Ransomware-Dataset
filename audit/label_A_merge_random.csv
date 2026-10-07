@@ -1,0 +1,101 @@
+event_id,gang,names,domains,sources,label_A,label_B,note,label_ai,note_ai
+5851,clop,ARIETISHEALTH.COM || arietishealth.com,arietishealth.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5261,cactus,grupatopex.com || \$66.5M\Poland\,grupatopex.com,ransomfeed+ransomlive+ransomlook,,,,same,Domain plus revenue/country placeholder string
+19843,qilin,www.shautoparts.com || shautoparts.com,shautoparts.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5924,clop,BRADYID.COM || bradyid.com,bradyid.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+32714,orion,albanybank.com || albanybank,albanybank.com,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+7183,coinbasecartel,Idera - 1.5 TB data || Idera - || Idera,ideracorp.com || idera.com,ransomfeed+ransomlive+ransomlook,,,,same,All names 'Idera' with leak-size tail; domains idera.com/ideracorp.com variants
+11233,incransom,https://acswinc.com/ || https:// /,acswinc.com,ransomfeed+ransomlive+ransomlook,,,,same,URL plus truncated placeholder 'https:// /'
+21192,ragroup,Yuxin Automobile Co.Ltd(裕信汽車) || Yuxin Automobile,co.ltd,ransomfeed+ransomlook,,,,same,"Same company, Chinese name suffix omitted"
+19759,qilin,www.nuphoton.com || nuphoton.com,nuphoton.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+16428,mydata,https://gazomet.pl & https://cgas.pl || https:// & https://cgas.pl,gazomet.pl,ransomfeed+ransomlook,,,,same,"Same two-domain claim (gazomet.pl & cgas.pl), one copy truncated"
+5995,clop,CUANSWERS.COM || cuanswers.com,cuanswers.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+24889,termite,Zschimmer and Schwarz || zschimmer-schwarz.com,zschimmer-schwarz.com,ransomfeed+ransomlive+ransomlook,,,,same,Name vs its domain zschimmer-schwarz.com
+5622,cloak,Westermans.com || westermans.com,westermans.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+31090,everest,Powersportsmarketing.com || powersportsmarketing.com,powersportsmarketing.com,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5086,cactus,gdi.com || \$6.1B\Canada\,gdi.com,ransomfeed+ransomlive+ransomlook,,,,same,Domain plus revenue/country placeholder string
+21528,ransomhub,www.mccoyglobal.com || mccoyglobal.com,mccoyglobal.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+22132,ransomhub,www.argentosc.com || argentosc.com,argentosc.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+21828,ransomhub,www.amberbev.com || amberbev.com,amberbev.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6431,clop,OLDSPRODUCTS.COM || oldsproducts.com,oldsproducts.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6166,clop,HUDSONBUSSALES.COM || hudsonbussales.com,hudsonbussales.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+7142,coinbasecartel,Demand.io || demand.io,demand.io,ransomlive+ransomlook,,,,same,Case difference only
+5822,clop,AMF.SE || amf.se,amf.se,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+22090,ransomhub,Kovra || Kovra < >,kovra.com.my,ransomfeed+ransomlive+ransomlook,,,,same,Kovra with trailing placeholder characters
+24753,stormous,www.danareksa.com || danareksa.com,danareksa.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+26109,triplex,Law Offices US immigrationonline.com || Law Offices US,immigrationonline.com,ransomfeed+ransomlive+ransomlook,,,,same,"Same name, one copy without domain suffix"
+22036,ransomhub,polaris-SOLUCIONES TECNOLÓGICAS PARA EMPRESAS   -- polaris.es || polaris-SOLUCIONES TECNOLÓGICAS PARA EMPRESAS,polaris.es,ransomfeed+ransomlive+ransomlook,,,,same,"Same name, one copy without domain suffix"
+29939,blackbasta,CREMO || Cremo,,ransomlive+ransomlook,,,,same,Case difference only
+11959,kraken,www.anubis-cosmetics.com || anubis-cosmetics.com,anubis-cosmetics.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+8820,eldorado,LaSen || lasen.com,lasen.com,ransomfeed+ransomlive+ransomlook,,,,same,Name vs its domain lasen.com
+6019,clop,BISSELL.COM (CLEO) || (CLEO),bissell.com,ransomfeed+ransomlook,,,,same,Bissell.com plus '(CLEO)' tail placeholder
+21483,ransomhouse,"AIshu, Eshoo || Aishu, Eshoo || [EVIDANCE] AIshu, Eshoo",aishutech.com,ransomfeed+ransomlive+ransomlook,,,,same,"Same names, case and [EVIDANCE] prefix differences"
+4283,blackbasta,MasterCorp || mastercorp,mastercorp.com,ransomfeed+ransomlive+ransomlook,,,,same,Case difference only
+32460,everest,Notin - Database leaked || Notin - Database,,ransomlive+ransomlook,,,,same,Leak-site tail 'Database leaked'
+6153,clop,HARTSON-KENNEDY.COM || hartson-kennedy.com,hartson-kennedy.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+19118,qilin,The Youngfor || Liteconn Group,liteconn.com,ransomfeed+ransomlive+ransomlook,,,,same,Youngfor Corporation uses Liteconn brand; liteconn.com is Youngfor's site
+30174,ragnarlocker,DIPF-INTERN - Leaked || DIPF-INTERN,,ransomlive+ransomlook,,,,same,Leak-site tail 'Leaked'
+6571,clop,CONBRACO.COM || conbraco.com,conbraco.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+36488,everest,Collins Aerospace / || Colins Aerospace /,rtx.com,ransomlook,,,,same,Typo variant Colins/Collins Aerospace
+24779,stormous,KYC UK || + KYC UK || vouch.co.uk,kycuk.org.uk || vouch.co.uk,ransomfeed+ransomlive+ransomlook,,,,different,KYC UK (kycuk) and Vouch (vouch.co.uk) are distinct UK KYC firms
+22010,ransomhub,www.eastshoresound.com || eastshoresound.com,eastshoresound.com,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6963,clop,BR-ALSETH.NO || br-alseth.no,br-alseth.no,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+22037,ransomhub,www.polaris.es || polaris.es,polaris.es,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+24733,stormous,www.loghmanpharma.com || loghmanpharma.com,loghmanpharma.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5973,clop,NUANCE.COM || nuance.com,nuance.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5611,cloak,Global Results Communications || globalresultspr.com,globalresultspr.com,ransomfeed+ransomlook,,,,same,Name vs its domain globalresultspr.com
+12368,lockbit2,www.onedoc.ch/f... || onedoc.ch/fr/ca...,onedoc.ch,ransomfeed+ransomlive,,,,same,Truncated variants of onedoc.ch URL
+22141,ransomhub,www.rivaldt.com || rivaldt.com,rivaldt.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+2631,alphv,Algeiba.com has a critical level of security on its network. Customer and partner data is || has a critical level of security on its network. Customer and partner data is,algeiba.com,ransomfeed+ransomlook,,,,same,"Same description text, one missing Algeiba.com prefix"
+16332,monti,Burgess Kilpartik || Burgess Kilpartick,burgesskilpatrick.com,ransomfeed+ransomlive+ransomlook,,,,same,Typo variants of Burgess Kilpatrick
+5874,clop,CONSOLENERGY.COM || consolenergy.com,consolenergy.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+10889,incransom,Prinston Pharmaceutical (huahaius.com) || Prinston Pharmaceutical,huahaius.com,ransomfeed+ransomlive+ransomlook,,,,same,"Same name, one with domain in parentheses"
+22159,ransomhub,www.parklandmanufacturing.com || parklandmanufacturing.com,parklandmanufacturing.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+8823,eldorado,Kandelaar Electrotechniek || kandelaar.com,kandelaar.com,ransomfeed+ransomlive+ransomlook,,,,same,Name vs its domain kandelaar.com
+6568,clop,CGDC.COTTONG.LOCAL || cgdc.cottong.local,cookmedical.com,ransomfeed+ransomlive+ransomlook,,,,same,Case difference only (domain mismatch irrelevant to names)
+5679,clop,SHELL.COM || shell.com,shell.com,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+26952,ragnarlocker,Shasun Chemicals & Drugs Ltd. LEAK || Shasun Chemicals & Drugs Ltd.,,ransomlive+ransomlook,,,,same,Leak-site tail 'LEAK'
+6505,clop,HPE.COM || hpe.com,hpe.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+21130,radar,"Trucchi's Supermarkets, Inc. || R F Owens Co, Inc./ Trucchi's Supermarkets Distribution Center",trucchis.com || trucchismarkets.com,ransomfeed+ransomlive+ransomlook,,,,same,R F Owens Co Inc does business as Trucchi's Supermarkets
+21869,ransomhub,www.netconfig.co.za || netconfig.co.za,netconfig.co.za,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5927,clop,ENCORECAPITAL.COM || encorecapital.com,encorecapital.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+2369,alphv,Boom Logistics (boomlogistics.com.au) || Boom Logistics,boomlogistics.com.au,ransomfeed+ransomlook,,,,same,"Same name, one with domain in parentheses"
+16728,nightspire,DataBank || Databank,databank.com.ni,ransomfeed+ransomlive+ransomlook,,,,same,Case difference only
+31865,funksec,spdyn.de technology || technology breach,spdyn.de,ransomlive+ransomlook,,,,same,spdyn.de plus generic placeholder 'technology breach'
+6582,clop,CLASSICACCESSORIES.COM || classicaccessories.com,classicaccessories.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5829,clop,OFCOM.ORG.UK || ofcom.org.uk,ofcom.org.uk,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6707,clop,CLAWLOGISTICS.COM || clawlogistics.com,clawlogistics.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+16687,nightspire,SIMETRI Inc || SIMETRI LLC,simetri.us,ransomfeed+ransomlive+ransomlook,,,,same,Legal suffix difference Inc/LLC
+9854,handala,Ma’agan Michael Kibbutz || Ma’agan Michael Kibbutz Hacked,maaganm.co.il,ransomfeed+ransomlive+ransomlook,,,,same,Leak-site tail 'Hacked'
+6347,clop,TRIPLE8.CA || triple8.ca,triple8.ca,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+30557,clop,COLORADO.EDU || colorado.edu,colorado.edu,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5202,cactus,flodraulic.com || \$58.4M\USA\,flodraulic.com,ransomfeed+ransomlive+ransomlook,,,,same,Domain plus revenue/country placeholder string
+16399,ms13089,"dgpcommercialisti.it (Italy, Reggio Emilia) || dgpcommercialisti.it || (Italy, Reggio Emilia)",dgpcommercialisti.it,ransomfeed+ransomlive+ransomlook,,,,same,Domain plus location placeholder
+25984,toufan,keter.com || keter.co.il || global.keter.com,keter.com || keter.co.il || global.keter.com,ransomfeed+ransomlive,,,,same,Keter domain variants of same company
+5980,clop,ICSYSTEM.COM || icsystem.com,icsystem.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+32388,kairos,Heidelberggc || heidelberggc,,ransomlive+ransomlook,,,,same,Case difference only
+6609,clop,BACKYARDDISCOVERY.COM || backyarddiscovery.com,backyarddiscovery.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+30500,clop,APPLEXUS.COM || applexus.com,applexus.com,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6009,clop,MICHENER.CA || michener.ca,michener.ca,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+21721,ransomhub,www.qal.com || qal.com,qal.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+12035,krybit,www.prohealth.sg || prohealth.sg,prohealth.sg,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5820,clop,PRO2COL.COM || pro2col.com,pro2col.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+5205,cactus,securityinstrument.com || \$15.4M\USA\,securityinstrument.com,ransomfeed+ransomlive+ransomlook,,,,same,Domain plus revenue/country placeholder string
+5771,clop,FLUTTER.COM || flutter.com,flutter.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+24773,stormous,www.atolon-parkhotel.com || atolon-parkhotel.com || atolon-parkhotel,atolon-parkhotel.com,ransomfeed+ransomlive+ransomlook,,,,same,URL/domain variants
+27305,payloadbin,Wrgtexas.com || wrgtexas.com,wrgtexas.com,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6487,clop,KEELEWAREHOUSING.COM || keelewarehousing.com,keelewarehousing.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6275,clop,DAVIDYURMAN.COM || davidyurman.com,davidyurman.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+22071,ransomhub,www.hcisystems.net || hcisystems.net,hcisystems.net,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6013,clop,IDTECHPRODUCTS.COM || idtechproducts.com,idtechproducts.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+30516,clop,OAKDELL.COM || oakdell.com,oakdell.com,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+6453,clop,METALANDWIRE.COM || metalandwire.com,metalandwire.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+8902,eldorado,ANKERSKA PLOVIDBA d.d. || tankerska.hr,tankerska.hr,ransomlive+ransomlook,,,,same,Truncated Tankerska Plovidba vs tankerska.hr
+12265,lockbit2,daylewis.co.uk || www.daylewis.co...,daylewis.co.uk,ransomfeed+ransomlive,,,,same,Domain vs truncated URL
+6260,clop,VITAMIX.COM || vitamix.com,vitamix.com,ransomfeed+ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain
+29635,everest,Metek Plc || Metek PLC,,ransomlive+ransomlook,,,,same,Case difference in legal suffix
+6296,clop,PILOTTHOMAS.COM || pilotthomas.com,pilotthomas.com,ransomfeed+ransomlook,,,,same,Case/URL-prefix variants of same domain
+31851,funksec,wacer.com.au || Breach,wacer.com || wacer.com.au,ransomlive+ransomlook,,,,same,Domain plus generic 'Breach' placeholder
+88,8base,C.F. Service & Supply || C.F. Service and Supply,cfserviceandsupply.com,ransomfeed+ransomlive+ransomlook,,,,same,'&' vs 'and' spelling
+9890,handala,Mor-logistics || Mor-logistics Hacked,morlogistics.com,ransomfeed+ransomlive+ransomlook,,,,same,Leak-site tail 'Hacked'
+31220,dispossessor,www.c-v-e.com || c-v-e.com,c-v-e.com,ransomlive+ransomlook,,,,same,Case/URL-prefix variants of same domain

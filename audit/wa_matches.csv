@@ -1,0 +1,146 @@
+kind,name,industry,date_start,date_submitted,event_id,victim,domain,gang,discovered,country,sector,similarity,claim_minus_start,submitted_minus_claim,label,review_assistant
+ransomware,"Bosley, Inc.",Business,,2021-01-26,27457,Bosley,,pysa,2021-09-09,,Retail & E-Commerce,1.0,,-226,,correct
+ransomware,Automatic Funds Transfer Services Inc.,Finance,2021-02-04,2021-03-17,26975,Automatic Funds Transfer Services Inc. (vendor to city of Bainbridge Island),,cuba,2021-02-03,US,Financial Services,1.0,-1.0,42,,correct
+ransomware,CNA Financial Corporation,Finance,2021-03-05,2021-07-08,26990,CNA Financial (Insurance Giant),,phoenixcryptolocker,2021-03-21,US,Financial Services,1.0,16.0,109,,correct
+ransomware,Clover Park School District,Education,2021-05-12,2021-07-12,27014,Clover Park School District,,grief,2021-05-26,US,Education,1.0,14.0,47,,correct
+ransomware,One Community Health,Health,2021-04-19,2021-11-22,27192,One Community Health,,pysa,2021-09-13,,Healthcare,1.0,147.0,70,,correct
+ransomware,"Cedar Grove Composting, Inc.",Business,2021-08-08,2021-11-30,27116,Cedar Grove Composting,,conti,2021-09-24,,Agriculture and Food Production,1.0,47.0,67,,correct
+ransomware,"McMenamins, Inc.",Business,2021-12-07,2021-12-30,28381,McMenamins,,conti,2021-12-21,,Hospitality,1.0,14.0,9,,correct
+ransomware,"Bridgestone Americas, Inc.",Business,2022-02-09,2022-08-29,12392,bridgestoneamer...,bridgestoneamericas.com,lockbit2,2022-03-09,US,Manufacturing,1.0,28.0,173,,correct
+ransomware,Marymount Manhattan College,Education,2021-11-09,2022-08-03,28160,Marymount Manhattan College,,conti,2021-11-16,,Education,1.0,7.0,260,,correct
+ransomware,Whatcom County Library System,Government,,2022-07-28,26163,Whatcom County Library System,wcls.org,unsafe,2022-12-21,US,Education,1.0,,-146,,correct
+ransomware,"Shutterfly, LLC",Business,2021-12-03,2022-05-26,28624,Shutterfly inc.,,conti,2022-01-15,US,Retail & E-Commerce,1.0,43.0,131,,correct
+ransomware,"Prestige Care, Inc.",Health,2023-09-07,2024-01-31,2523,Prestige Care,prestigecare.com,alphv,2023-09-26,US,Healthcare,1.0,19.0,127,,correct
+ransomware,CellNetix Pathology and Laboratories,Health,2023-12-10,2024-01-10,10530,"CellNetix Pathology & Laboratories, LLC",cellnetix.com,incransom,2024-01-08,US,Healthcare,0.95,29.0,2,,correct
+ransomware,Transformative Healthcare,Health,2023-02-17,2023-12-29,2803,Transformative Healthcare,transformativehc.com,alphv,2023-04-25,US,Healthcare,1.0,67.0,248,,correct
+ransomware,California Northstate University,Education,2023-02-12,2023-12-21,3611,California Northstate University,,avoslocker,2023-02-23,US,Education,1.0,11.0,301,,correct
+ransomware,Delaware Life Insurance Company,Business,2022-11-30,2023-11-21,21365,Delaware Life Insurance Company,delawarelife.com,ransomhouse,2023-03-11,US,Financial Services,1.0,101.0,255,,correct
+ransomware,Hi-School Pharmacy,Health,2023-11-02,2023-12-06,12665,hi-schoolpharmacy.com,hi-schoolpharmacy.com,lockbit3,2023-11-28,US,Retail & E-Commerce,1.0,26.0,8,,correct
+ransomware,Taylor University,Education,2023-02-26,2023-12-04,16256,Taylor University,taylor.edu,moneymessage,2023-09-03,US,Education,1.0,189.0,92,,correct
+ransomware,"World Learning, Inc.",Education,2023-04-20,2023-11-27,13112,worldlearning.org,worldlearning.org,lockbit3,2023-06-07,US,Education,1.0,48.0,173,,correct
+ransomware,Seattle Housing Authority,Government,2023-08-09,2023-11-10,16841,Seattle Housing Authority,seattlehousing.org,noescape,2023-10-12,US,Government & Defense,1.0,64.0,29,,correct
+ransomware,"Nature’s Path Foods, Inc. (“Nature’s Path”)",Business,2023-01-07,2023-10-31,22813,Nature Path Foods,naturespath.com,royal,2023-04-10,CA,Agriculture and Food Production,0.97,93.0,204,,correct
+ransomware,Pierce College District,Education,2023-07-23,2023-09-08,22466,Pierce College,pierce.ctc.edu,rhysida,2023-08-21,US,Education,0.95,29.0,18,,correct
+ransomware,New York Life,Finance,2023-05-30,2023-10-23,656,New York & Company,nyandcompany.com,akira,2023-08-31,US,Retail & E-Commerce,0.95,93.0,53,,wrong
+ransomware,"Greenpoint Technologies, Inc.  ",Business,2023-09-07,2023-10-17,31103,Greenpoint Technologies Inc,greenpointtech.com,incransom,2023-10-17,US,Technology,1.0,40.0,0,,correct
+ransomware,The City of Lakewood,Government,2022-11-14,2023-10-10,2971,City of Lakewood,cityoflakewood.us,alphv,2023-02-22,US,Other,1.0,100.0,230,,correct
+ransomware,Spinal and Sports Care Clinic,Health,2023-06-09,2023-09-25,3816,Spokane Spinal Sports Care Clinic,spinalandsportscare.com,bianlian,2023-08-03,US,Healthcare,0.95,55.0,53,,correct
+ransomware,Youth Eastside Services,Non-Profit/Charity,2024-11-13,2024-12-20,10370,Youth Eastside Services,youtheastsideservices.org,incransom,2024-12-28,US,Healthcare,1.0,45.0,-8,,correct
+ransomware,Texas Tech University Health Sciences Center El Paso,Health,2024-09-17,2025-01-24,11307,Texas Tech University Health Sciences Center,ttuhsc.edu,interlock,2024-10-27,US,Education,0.95,40.0,89,,correct
+ransomware,1st Source Bank,Finance,2023-06-01,2023-07-20,6008,1stsource.com,1stsource.com,clop,2023-06-14,US,Financial Services,0.95,13.0,36,,correct
+ransomware,"Reventics, LLC",Health,2022-12-15,2023-06-05,22866,Reventics,reventics.com,royal,2023-02-13,IN,Technology,1.0,60.0,112,,correct
+ransomware,"Allied Telesis, Inc.",Business,2024-04-30,2025-04-21,13726,alliedtelesis.com,alliedtelesis.com,lockbit3,2024-05-27,US,Professional Services,1.0,27.0,329,,correct
+ransomware,Southwest Healthcare Services ,Health,2022-10-28,2023-03-31,8075,Southwest Healthcare Services,swhealthcare.net,donutleaks,2023-07-17,US,Healthcare,1.0,262.0,-108,,correct
+ransomware,DaVita Inc.,Health,2025-03-24,2025-08-01,11369,DaVita,davita.com,interlock,2025-04-25,US,Healthcare,1.0,32.0,98,,correct
+ransomware,Knox College,Education,,2023-01-04,30726,KNOX College,,hive,2022-12-10,US,Education,1.0,,25,,correct
+ransomware,"Order Express, Inc.",Finance,2022-07-29,2022-12-15,5682,ORDEREXPRESS.COM.MX,orderexpress.com.mx,clop,2022-10-19,MX,Professional Services,1.0,82.0,57,,unsure
+ransomware,Motility Software Solutions Inc,Business,2025-08-11,2025-09-30,5079,Motility Software,motilitysoftware.com,brotherhood,2025-10-10,US,Technology,0.95,60.0,-10,,correct
+ransomware,"Spokane Produce, Inc. ",Business,2025-07-18,2025-10-06,1362,Spokane Produce,spokaneproduce.com,akira,2025-09-04,US,Agriculture and Food Production,1.0,48.0,32,,correct
+ransomware,TGI Direct,Business,2023-05-28,2024-01-17,5870,TGIDIRECT.COM,tgidirect.com,clop,2023-07-12,US,Professional Services,1.0,45.0,189,,correct
+ransomware,"Planet Home Lending, LLC",Finance,2023-11-15,2024-01-23,12691,planethomelending.com,planethomelending.com,lockbit3,2023-11-16,US,Financial Services,1.0,1.0,68,,correct
+ransomware,"Henry Schein, Inc.",Business,2023-09-27,2024-01-26,2425,"Henry Schein Inc - Henry's "" LOST SHINE """,henryschein.com,alphv,2023-12-05,US,Healthcare,1.0,69.0,52,,correct
+ransomware,UNITE HERE,Business,2023-10-20,2024-02-23,10317,Unite Here,unitehere.org,incransom,2023-12-20,US,Hospitality,1.0,61.0,65,,correct
+ransomware,"loanDepot.com, LLC",Finance,2024-01-03,2024-02-15,3070,LoanDepot,loandepot.com,alphv,2024-02-16,US,Financial Services,1.0,44.0,-1,,correct
+ransomware,Renton School District ,Education,2023-07-13,2024-02-29,660,Renton School District,rentonschools.us,akira,2023-08-30,US,Education,1.0,48.0,183,,correct
+ransomware,Houser LLP,Business,2023-05-07,2024-02-28,2760,Houser LLP,houser-law.com,alphv,2023-05-10,US,Professional Services,1.0,3.0,294,,correct
+ransomware,Drivestream Inc.,Business,2024-12-04,2026-02-27,1816,Drivestream,drivestream.com,akira,2025-01-07,US,Technology,1.0,34.0,416,,correct
+ransomware,"Insightin Health, Inc.",Business,2025-09-17,2026-03-05,15798,Insightin Health,insightinhealth.com,medusa,2025-09-30,US,Healthcare,1.0,13.0,156,,correct
+ransomware,"OSI Systems, Inc.",Business,2025-12-23,2026-03-11,10533,"OSI Systems, Inc.",osi-systems.com,incransom,2025-12-30,US,Technology,1.0,7.0,71,,correct
+ransomware,Check City,Finance,2025-03-21,2026-03-19,6298,CHECKCITY.COM,checkcity.com,clop,2025-05-09,US,Financial Services,1.0,49.0,314,,correct
+ransomware,Rainier Clinical Research Center,Health,2026-01-15,2026-04-03,11182,Rainier Clinical Research Center,rainier-research.com,incransom,2026-02-23,US,Healthcare,1.0,39.0,39,,correct
+ransomware,Yakima Valley Radiology PC,Health,2023-08-11,2024-03-01,11556,Yakima Valley Radiology,yakrad.com,karakurt,2023-09-22,US,Healthcare,1.0,42.0,161,,correct
+ransomware,"Alliance Solutions Group, LLC (dba TalentLaunch)",Business,2023-05-30,2024-03-01,4235,ALLIANCE,alliancesolutionsgrp.com,blackbasta,2023-08-17,US,Professional Services,0.95,79.0,197,,unsure
+ransomware,"Aspen Dental Management, Inc.",Health,2023-04-25,2024-02-28,16262,Aspen Dental Management Inc.,,moneymessage,2023-05-12,US,Professional Services,1.0,17.0,292,,correct
+ransomware,"Marten Transport, Ltd.",Business,2021-09-30,2022-03-25,28581,Marten Transport,,hive,2022-01-25,US,Transportation,1.0,117.0,59,,correct
+ransomware,"Wagstaff, Inc.",Business,2021-12-17,2022-03-04,28315,wagstaff.com,,lv,2021-12-31,,Other,1.0,14.0,63,,correct
+ransomware,Green Diamond Resource Company,Business,2023-06-26,2024-04-19,31010,Green Diamond Resource,,akira,2023-08-29,US,Agriculture and Food Production,1.0,64.0,234,,correct
+ransomware,Christie’s Inc.,Business,2024-05-08,2024-06-07,21989,Christies Auction House - christies.com,christies.com,ransomhub,2024-05-27,GB,Professional Services,1.0,19.0,11,,correct
+ransomware,New York School of Interior Design,Education,2023-11-02,2024-07-09,10319,New York School of Interior Design,nysid.edu,incransom,2023-12-16,US,Education,1.0,44.0,206,,correct
+ransomware,"LivaNova USA, Inc.",Health,2023-10-26,2024-06-21,12634,livanova.com,livanova.com,lockbit3,2023-12-08,GB,Healthcare,0.95,43.0,196,,correct
+ransomware,Therapeutic Health Services,Non-Profit/Charity,2024-02-24,2024-07-11,10182,Therapeutic Health Services,ths-wa.org,hunters,2024-03-19,US,Healthcare,1.0,24.0,114,,correct
+ransomware,Change Healthcare Inc.,Health,2024-02-17,2024-08-03,3058,Change Healthcare - Optum - UnitedHealth,changehealthcare.com,alphv,2024-02-28,US,Healthcare,1.0,11.0,157,,correct
+ransomware,Lake Washington Institute of Technology,Education,2024-06-10,2024-08-27,21390,Lake Washington Institute of Technology,lwtech.edu,ransomhouse,2024-07-31,US,Technology,1.0,51.0,27,,correct
+ransomware,Moser Wealth Advisors,Finance,2024-06-27,2024-08-28,22549,Moser Wealth Advisors,mosercpas.com,rhysida,2024-08-11,US,Financial Services,1.0,45.0,17,,correct
+ransomware,Riverside Resort & Casino,Business,2024-07-25,2024-09-05,14765,Riverside Resort Hotel and Casino,riversideresort.com,lynx,2024-08-30,US,Hospitality,0.95,36.0,6,,correct
+ransomware,Water For People ,Non-Profit/Charity,2023-12-14,2024-09-05,15759,Water For People,waterforpeople.org,medusa,2024-01-11,US,Government & Defense,1.0,28.0,238,,correct
+ransomware,David’s Bridal,Business,2024-01-20,2024-09-13,14089,davidsbridal.com,davidsbridal.com,lockbit3,2024-01-22,US,Professional Services,1.0,2.0,235,,correct
+ransomware,Young Consulting LLC,Business,2024-04-10,2024-09-18,4848,Young Consulting,youngconsulting.com,blacksuit,2024-05-07,US,Professional Services,1.0,27.0,134,,correct
+ransomware,OnePoint Patient Care,Health,2024-08-03,2024-10-23,10413,OnePoint Patient Care,oppc.com,incransom,2024-09-15,US,Healthcare,1.0,43.0,38,,correct
+ransomware,BNBuilders,Business,2024-07-17,2024-11-01,10063,BNBuilders,bnbuilders.com,hunters,2024-10-05,US,Professional Services,1.0,80.0,27,,correct
+ransomware,"Inszone Insurance Services, LLC",Business,2024-02-22,2024-11-08,10163,Inszone Insurance Services,inszoneinsurance.com,hunters,2024-04-10,US,Financial Services,1.0,48.0,212,,correct
+ransomware,"Doxim, Inc. ",Business,2023-12-25,2024-12-11,13823,doxim.com,doxim.com,lockbit3,2024-05-09,CA,Technology,1.0,136.0,216,,correct
+ransomware,The Seattle Public Library ,Government,2024-05-24,2024-12-12,18940,The Seattle Public Library,spl.org,qilin,2024-07-12,US,Technology,1.0,49.0,153,,correct
+ransomware,Crimson Wine Group,Business,2024-06-26,2024-12-13,506,crimsonwinegroup.com,crimsonwinegroup.com,abyss,2024-07-25,US,Professional Services,0.95,29.0,141,,correct
+ransomware,"Crossroads Trading Co., Inc.",Business,2025-02-15,2025-03-25,20024,"Crossroads Trading Company, Inc",crossroadstrading.com,qilin,2025-02-21,US,Retail & E-Commerce,1.0,6.0,32,,correct
+ransomware,Lee University,Education,2024-03-09,2025-03-26,15691,Lee University,leeuniversity.edu,medusa,2024-04-17,US,Education,1.0,39.0,343,,correct
+ransomware,"Pacific Residential Mortgage, LLC",Finance,2025-02-10,2025-03-26,14975,Pacific Residential Mortgage,pacresmortgage.com,lynx,2025-03-29,US,Financial Services,1.0,47.0,-3,,correct
+ransomware,Port of Seattle,Government,2024-07-03,2025-04-03,35353,Port of Seattle,,rhysida,2024-09-16,US,Government & Defense,1.0,75.0,199,,correct
+ransomware,"Western Alliance Bank (""WAB"")",Finance,2024-10-12,2025-06-30,6709,WESTERNALLIANCEBANK.COM,westernalliancebank.com,clop,2025-01-24,US,Financial Services,1.0,104.0,157,,correct
+ransomware,Cierant Corporation,Health,2024-10-22,2025-07-07,6641,CIERANT.COM,cierant.com,clop,2025-02-01,US,Technology,1.0,102.0,156,,correct
+ransomware,"New American Funding, LLC",Finance,,2025-07-11,9139,New American Funding,newamericanfunding.com,everest,2025-07-15,US,Financial Services,1.0,,-4,,correct
+ransomware,The Computer Merchant,Business,2024-07-01,2025-08-21,17972,The Computer Merchant,itstaffing.com,play,2024-07-25,US,Technology,1.0,24.0,392,,correct
+ransomware,"Tekni-Plex, Inc.",Business,2024-10-25,2025-09-24,21533,tekni-plex.com,tekni-plex.com,ransomhub,2024-12-13,US,Manufacturing,1.0,49.0,285,,correct
+ransomware,T.R.A. Industries Inc.,Business,2025-08-09,2025-09-26,1411,TRS Industries,trsindustries.com,akira,2025-08-11,US,Manufacturing,0.92,2.0,46,,wrong
+ransomware,Georgetown Brewing Company,Business,2025-08-22,2025-09-26,10630,georgetown-brewing-co,georgetownbeer.com,incransom,2025-10-09,US,Agriculture and Food Production,1.0,48.0,-13,,correct
+ransomware,American Associated Pharmacies,Health,2024-10-13,2025-11-12,8927,American Associated Pharmacies,rxaap.com,embargo,2024-11-13,US,Healthcare,1.0,31.0,364,,correct
+ransomware,"WEL Companies, Inc.",Business,2025-01-30,2025-11-19,22216,welcompanies.com,welcompanies.com,ransomhub,2025-02-25,US,Transportation,1.0,26.0,267,,correct
+ransomware,Anchor Computer ,Business,2025-09-12,2025-12-04,20943,Anchor Computer Systems,anchor.co.uk,qilin,2026-02-12,GB,Technology,0.95,153.0,-70,,correct
+ransomware,"Lydig Construction, Inc.",Business,2025-06-21,2025-12-12,18337,Lydig Construction,lydig.com,play,2025-07-03,US,Manufacturing,1.0,12.0,162,,correct
+ransomware,"FirstFruits Farms, LLC",Business,2025-09-09,2026-01-16,1189,First Fruits Farms,firstfruits.com,akira,2025-11-21,US,Agriculture and Food Production,1.0,73.0,56,,correct
+ransomware,PROVAIL,Health,2025-06-07,2026-01-16,3694,PROVAIL,provail.org,beast,2025-07-29,US,Healthcare,1.0,52.0,171,,correct
+ransomware,Neurological Associates of Washington,Health,2025-12-28,2026-01-23,8228,Neurological Associates,neuroassociates.us,dragonforce,2025-12-28,US,Healthcare,0.95,0.0,26,,correct
+ransomware,"Vikor Scientific, LLC",Health,2025-11-08,2026-02-06,9096,"Vikor Scientific, LLC / Korgene",vikorscientific.com,everest,2025-11-13,US,Healthcare,1.0,5.0,85,,correct
+ransomware,Monmouth College,Education,2022-12-06,2024-03-20,26268,Monmouth College,monmouthcollege.edu,vicesociety,2023-01-20,US,Education,1.0,45.0,425,,correct
+ransomware,Axiom Construction and Consulting,Business,2023-10-25,2024-03-20,5106,Axiom Construction & Consulting,axiomconstruction.net,cactus,2023-11-28,US,Professional Services,0.95,34.0,113,,correct
+ransomware,OE Federal Credit Union,Finance,2023-08-19,2024-04-30,16814,OE Federal Credit Union,oefederal.org,noescape,2023-11-08,US,Financial Services,1.0,81.0,174,,correct
+ransomware,Electric Mirror LLC,Business,2024-03-29,2024-05-03,10479,Electric Mirror Inc,electricmirror.com,incransom,2024-05-08,US,Manufacturing,1.0,40.0,-5,,correct
+ransomware,"Impac Mortgage Holdings, Inc.",Business,2024-02-21,2026-04-17,15711,Impac Mortgage Holdings,impaccompanies.com,medusa,2024-03-23,US,Financial Services,1.0,31.0,755,,correct
+ransomware,Bayside Dental,Health,2026-01-05,2026-04-17,24269,Bayside Dental,baysidedental.com,sinobi,2026-01-21,US,Healthcare,1.0,16.0,86,,correct
+ransomware,Mt. Spokane Pediatrics ,Health,2026-01-01,2026-04-30,14613,mtspokanepediatrics.com,mtspokanepediatrics.com,lockbit5,2026-01-03,US,Healthcare,1.0,2.0,117,,correct
+ransomware,Fluke Corporation,Business,2025-08-10,2026-05-14,6247,FLUKE.COM,fluke.com,clop,2025-11-13,US,Technology,1.0,95.0,182,,correct
+ransomware,"IMA Diligence Services, LLC",Business,2025-12-08,2026-05-29,9676,IMA Diligence Services (A Division of IMA Financial Group),,genesis,2026-01-27,US,Financial Services,1.0,50.0,122,,correct
+ransomware,Morning Star Tours,Business,2026-04-22,2026-05-31,17474,Morning Star Tours,morningstartours.com,pear,2026-05-04,US,Hospitality,1.0,12.0,27,,correct
+ransomware,Industrial Acceptance Corporation,Finance,2025-02-22,2026-06-01,1647,Indastrial Acceptance Corporation,iaccredit.com,akira,2025-03-12,US,Financial Services,0.95,18.0,446,,correct
+ransomware,Grandview School District,Education,2024-09-28,2026-06-15,4743,Grandview School District,gsd200.org,blacksuit,2024-11-27,US,Education,1.0,60.0,565,,correct
+ransomware,The Washington Post,Business,2025-07-10,2026-07-13,6263,WASHINGTONPOST.COM,washingtonpost.com,clop,2025-11-06,US,Technology,1.0,119.0,249,,correct
+ransomware,"Paylogix, LLC",Business,2025-11-13,2026-08-14,2187,Paylogix,paylogix.com,akira,2026-01-15,US,Financial Services,1.0,63.0,211,,correct
+ransomware,Rockwood Retirement Communities,Health,2026-02-15,2026-08-20,11548,Rockwood Retirement Communities,rockwoodretirement.org,kairos,2026-02-27,US,Retail & E-Commerce,1.0,12.0,174,,correct
+ransomware,"AvtechTyee, Inc.",Business,2025-11-07,2026-08-28,16764,AvtechTyee,avtechtyee.com,nitrogen,2025-12-05,US,Technology,1.0,28.0,266,,correct
+ransomware,"See’s Candies, Inc.",Business,2026-04-11,2026-09-02,20641,See's Candies,sees.com,qilin,2026-04-30,US,Agriculture and Food Production,1.0,19.0,125,,correct
+ransomware,"Mogren, Glessner & Ahrens, P.S.",Business,2026-06-09,2026-09-03,17441,"Mogren, Glessner & Ahrens, P.S.",mgrlaw.com,pear,2026-08-22,US,Professional Services,1.0,74.0,12,,correct
+other_cyberattack,T-Mobile USA,Business,2021-07-22,2021-08-24,27797,T-Mobile,,arvinclub,2021-09-09,,Technology,0.95,49.0,-16,,
+other_cyberattack,Sea Mar Community Health Centers,Health,,2021-11-15,28517,Sea Mar Community Health Centers,,marketo,2021-12-07,,Healthcare,1.0,,-22,,
+other_cyberattack,Astoria Company LLC,Business,2021-01-19,2021-11-22,27329,Astoria Company LLC data,,darkleakmarket,2021-09-09,,Professional Services,0.95,233.0,74,,
+other_cyberattack,"Shields Health Care Group, Inc.",Health,2022-03-07,2022-07-22,34708,Shields Health Care Group,,karakurt,2022-08-18,,,1.0,164.0,-27,,
+other_cyberattack,Idaho National Laboratory,Government,2023-11-19,2023-12-08,23902,Idaho National Laboratory,nl.gov,siegedsec,2023-12-08,US,Energy & Utilities,1.0,19.0,0,,
+other_cyberattack,"AutoZone, Inc.",Business,2023-05-28,2023-11-22,5897,AUTOZONE.COM,autozone.com,clop,2023-07-07,US,Retail & E-Commerce,1.0,40.0,138,,
+other_cyberattack,NASCO,Health,2023-05-30,2023-10-27,5869,NASCO.COM,nasco.com,clop,2023-07-12,US,Healthcare,1.0,43.0,107,,
+other_cyberattack,Progressive Leasing,Finance,2023-09-09,2023-10-24,2531,Progressive Leasing ( 40 million Customers PII Data ),progleasing.com,alphv,2023-09-22,US,Financial Services,1.0,13.0,32,,
+other_cyberattack,The Estée Lauder Companies Inc.,Business,2023-05-30,2023-10-18,2615,The Estée Lauder Companies,estee.com,alphv,2023-07-18,US,Retail & E-Commerce,1.0,49.0,92,,
+other_cyberattack,North Star Tax & Accounting,Finance,,2023-09-05,4083,North Star Tax And Accounting,northstartaxes.com,bianlian,2024-01-21,US,Professional Services,0.94,,-138,,
+other_cyberattack,Rite Aid Corporation,Health,2023-05-27,2023-07-19,5879,RITEAID.COM,riteaid.com,clop,2023-07-11,US,Retail & E-Commerce,1.0,45.0,8,,
+other_cyberattack,Imagine360,Health,2023-01-28,2023-06-30,6028,IMAGINE360.COM,imagine360.com,clop,2023-03-24,US,Technology,1.0,55.0,98,,
+other_cyberattack,Washington Gastroenterology,Health,2024-10-23,2025-05-23,10895,Washington Gastroenterology (DHSWA.NET),washgi.com,incransom,2025-01-17,US,Healthcare,1.0,86.0,126,,
+other_cyberattack,Kronick Moskovitz Tiedemann & Girard,Business,2024-07-19,2025-05-23,22541,Kronick Moskovitz Tiedemann & Girard,kmtg.com,rhysida,2024-08-22,US,Professional Services,1.0,34.0,274,,
+other_cyberattack,Sysco Corporation,Business,2023-01-14,2023-05-17,8788,Sysco Corporation,sysco.com,dunghill,2023-05-27,US,Agriculture and Food Production,1.0,133.0,-10,,
+other_cyberattack,"Carvin Software, LLC",Business,2023-02-22,2023-05-02,3831,Carvin Software,,bianlian,2023-07-06,US,Professional Services,1.0,134.0,-65,,
+other_cyberattack,Hatch Bank,Finance,2023-01-30,2023-02-28,6120,HATCHBANK.COM,hatchbank.com,clop,2023-03-06,US,Financial Services,1.0,35.0,-6,,
+other_cyberattack,Edmonds School District No. 15,Education,2023-01-16,2023-10-06,666,Edmonds School District,edmonds.wednet.edu,akira,2023-08-24,US,Education,0.95,220.0,43,,
+other_cyberattack,"Figure Technology Solutions, Inc.  ",Finance,2026-01-28,2026-02-23,23884,"Figure Technology Solutions, Inc.",figure.com,shinyhunters,2026-02-24,US,Technology,1.0,27.0,-1,,
+other_cyberattack,Mercer Advisors Inc.,Finance,2026-01-22,2026-03-31,23887,Mercer Advisors,merceradvisors.com,shinyhunters,2026-02-24,US,Financial Services,1.0,33.0,35,,
+other_cyberattack,"Baesman Group, Inc.",Business,2023-05-29,2024-02-29,5963,BAESMAN.COM,baesman.com,clop,2023-06-20,US,Professional Services,1.0,22.0,254,,
+other_cyberattack,"Humana, Inc. (Welltok, Inc.)",Finance,2023-05-30,2023-12-15,3871,Humana,humana.se,bianlian,2023-05-09,SE,Healthcare,1.0,-21.0,220,,
+other_cyberattack,Kirkland & Ellis LLP,Business,2023-05-27,2024-06-12,30845,KIRKLAND & ELLIS LLP,,clop,2023-06-29,,Professional Services,1.0,33.0,349,,
+other_cyberattack,"AbbVie, Inc. (The Lash Group, LLC)",Health,2024-02-21,2024-05-21,31304,abbvie.com,abbvie.com,dispossessor,2024-04-19,US,Healthcare,1.0,58.0,32,,
+other_cyberattack,"Octapharma Plasma, Inc.",Business,2024-04-17,2024-08-30,4854,Octapharma Plasma,octapharmaplasma.com,blacksuit,2024-04-23,CH,Healthcare,1.0,6.0,129,,
+other_cyberattack,"Insurance Agency Marketing Services, Inc.",Business,2024-03-01,2024-09-18,16274,Insurance Agency Marketing Services,iamsinc.com,moneymessage,2024-05-16,US,Financial Services,1.0,76.0,125,,
+other_cyberattack,"Trinity Petroleum Management, LLC",Business,2024-10-10,2025-03-12,3935,"Trinity Petroleum Management, LLC",trinitymgt.com,bianlian,2024-11-22,US,Energy & Utilities,1.0,43.0,110,,
+other_cyberattack,Ocuco,Business,2025-03-28,2025-07-11,11815,Ocuco,ocuco.com,killsec,2025-04-01,IE,Technology,1.0,4.0,101,,
+other_cyberattack,"Albertsons Companies, Inc.",Business,2025-07-14,2025-12-18,23773,"Albertsons (Jewel Osco, etc)",albertsonscompanies.com,shinyhunters,2025-10-03,US,Retail & E-Commerce,1.0,81.0,76,,
+other_cyberattack,On Q Financial,Finance,2024-02-21,2024-04-02,4039,"On Q Financial, LLC",onqfinancial.com,bianlian,2024-04-06,US,Financial Services,1.0,45.0,-4,,
+other_cyberattack,Texas Tech University Health Sciences Center,Education,2024-09-17,2026-04-09,11307,Texas Tech University Health Sciences Center,ttuhsc.edu,interlock,2024-10-27,US,Education,1.0,40.0,529,,
+other_cyberattack,"Marcus & Millichap, Inc.",Business,2026-04-07,2026-05-14,23863,"Marcus & Millichap, Inc.",marcusmillichap.com,shinyhunters,2026-04-12,US,Financial Services,1.0,5.0,32,,
+other_cyberattack,Plaza Home Mortgage Inc. ,Finance,2026-02-17,2026-06-05,24034,Plaza Home Mortgage,plazahomemortgage.com,silentransomgroup,2026-02-27,US,Financial Services,1.0,10.0,98,,
+other_cyberattack,Medtronic Inc.,Health,2026-04-13,2026-06-29,36874,Medtronic plc,medtronic.com,shinyhunters,2026-04-17,IE,Manufacturing,1.0,4.0,73,,
+other_cyberattack,"DentaQuest, LLC",Health,2026-05-17,2026-07-16,23846,DentaQuest.com,dentaquest.com,shinyhunters,2026-05-23,US,Healthcare,1.0,6.0,54,,
+other_cyberattack,Fox Rothschild LLP,Business,2026-05-21,2026-07-16,24009,Fox Rothschild LLP,foxrothschild.com,silentransomgroup,2026-05-28,US,Professional Services,1.0,7.0,49,,

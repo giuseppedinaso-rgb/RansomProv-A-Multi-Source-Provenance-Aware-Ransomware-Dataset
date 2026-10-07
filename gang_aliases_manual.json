@@ -1,0 +1,69 @@
+{
+  "_nota": "Revisione manuale delle coppie simili proposte da stage3. 'merge': variante -> canonica. 'keep_separate': coppie simili ma entita' diverse. Chiavi = nome gang in minuscolo senza spazi e punteggiatura.",
+  "merge": {
+    "blacklocks": "blacklock",
+    "imnotavillian": "imnotavillain",
+    "iah647": "iah6477",
+    "netflim": "nefilim",
+    "robbinhood": "robinhood",
+    "securotop": "securotrop",
+    "sicari": "sicarii"
+  },
+  "keep_separate": [
+    [
+      "babuk",
+      "babuk2",
+      "Babuk2 e' un attore distinto che riusa il nome dal 2024"
+    ],
+    [
+      "blackmatter",
+      "blackwater",
+      "gruppi diversi, somiglianza solo ortografica"
+    ],
+    [
+      "lockbit",
+      "lockbit2",
+      "versioni distinte del brand LockBit"
+    ],
+    [
+      "lockbit",
+      "lockbit3",
+      "versioni distinte del brand LockBit"
+    ],
+    [
+      "lockbit",
+      "lockbit5",
+      "versioni distinte del brand LockBit"
+    ],
+    [
+      "lockbit3",
+      "lockbit5",
+      "versioni distinte del brand LockBit"
+    ],
+    [
+      "ransomed",
+      "ransomedvc",
+      "da verificare: rebranding"
+    ],
+    [
+      "satanlock",
+      "satanlockv2",
+      "da verificare: seconda versione"
+    ],
+    [
+      "triplem",
+      "triplex",
+      "gruppi diversi"
+    ],
+    [
+      "lockbit2",
+      "lockbit3",
+      "versioni distinte del brand LockBit"
+    ],
+    [
+      "lockbit2",
+      "lockbit5",
+      "versioni distinte del brand LockBit"
+    ]
+  ]
+}
