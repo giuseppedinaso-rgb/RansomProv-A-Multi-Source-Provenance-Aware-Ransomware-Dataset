@@ -1,0 +1,15 @@
+{
+  "edgar_hits_ransomware_8k": 94,
+  "item_105_companies": 58,
+  "matched_in_dataset": 16,
+  "coverage_pct": 27.6,
+  "lag_days_sec_minus_claim": {
+    "median": -8.0,
+    "iqr": [
+      -50.75,
+      7.25
+    ],
+    "claim_before_filing_pct": 25.0
+  },
+  "matched_country_US_pct": 87.5
+}

@@ -1,0 +1,89 @@
+{
+  "wa_notifications_2020_2026": 1204,
+  "by_attack_type": {
+    "Ransomware": 468,
+    "none": 336,
+    "Other": 154,
+    "Malware": 106,
+    "Phishing": 83,
+    "Unclear/unknown": 47,
+    "Skimmers": 10
+  },
+  "ransomware": {
+    "organisations": 460,
+    "matched": 109,
+    "coverage_pct": 23.7,
+    "coverage_by_year": {
+      "2020": "0/22",
+      "2021": "11/63",
+      "2022": "8/53",
+      "2023": "31/123",
+      "2024": "28/103",
+      "2025": "24/76",
+      "2026": "7/20"
+    },
+    "claim_minus_start_days": {
+      "count": 105.0,
+      "mean": 48.2,
+      "std": 41.5,
+      "min": -1.0,
+      "25%": 19.0,
+      "50%": 43.0,
+      "75%": 61.0,
+      "max": 262.0
+    },
+    "submitted_minus_claim_days": {
+      "count": 109.0,
+      "mean": 134.5,
+      "std": 141.6,
+      "min": -226.0,
+      "25%": 32.0,
+      "50%": 114.0,
+      "75%": 206.0,
+      "max": 755.0
+    },
+    "matched_country_US_pct": 88.1,
+    "assistant_review": {
+      "correct": 105,
+      "wrong": 2,
+      "unsure": 2
+    },
+    "match_precision_pct_assistant": 98.1,
+    "coverage_corrected_pct": 22.8
+  },
+  "other_cyberattack": {
+    "organisations": 393,
+    "matched": 36,
+    "coverage_pct": 9.2,
+    "coverage_by_year": {
+      "2020": "0/44",
+      "2021": "3/78",
+      "2022": "1/29",
+      "2023": "15/103",
+      "2024": "8/71",
+      "2025": "2/45",
+      "2026": "7/23"
+    },
+    "claim_minus_start_days": {
+      "count": 34.0,
+      "mean": 53.9,
+      "std": 59.2,
+      "min": -21.0,
+      "25%": 14.5,
+      "50%": 40.0,
+      "75%": 57.2,
+      "max": 233.0
+    },
+    "submitted_minus_claim_days": {
+      "count": 36.0,
+      "mean": 82.5,
+      "std": 122.6,
+      "min": -138.0,
+      "25%": -0.2,
+      "50%": 63.5,
+      "75%": 113.8,
+      "max": 529.0
+    },
+    "matched_country_US_pct": 75.0
+  }
+}

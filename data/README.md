@@ -20,14 +20,20 @@ Each release contains:
 | `sector_crosswalk_naics_isic.csv` | yes | alignment of the 13 sector classes with NAICS 2022 and ISIC Rev. 4 |
 | `figures/` | yes | tracker overlap |
 
-## Why the event files are not here yet
+## Public release
 
-The events are derived from three trackers with different terms:
+The event files will be published upon publication of the paper, here and on Zenodo (with a DOI).
+
+| | internal file | public release |
+|---|---|---|
+| enriched, v1.0 | 29 columns | 27 columns: `gang_raw` and `victim_raw` removed |
+| observed, v1.0 | 21 columns | 19 columns |
+| v1.1 | one more column, `not_a_victim` | same removals |
+
+`gang_raw` and `victim_raw` hold the strings as posted by the trackers. All other columns hold harmonised values: canonical group names, cleaned victim names, ISO country codes, the 13 sector classes, provenance tags and enrichment metadata. Each event lists the trackers that report it (`sources`), so the original records can be consulted under each tracker's terms:
 
 | tracker | terms |
 |---|---|
 | RansomLook | CC BY 4.0: redistribution with attribution |
 | ransomware.live | non-commercial academic use with attribution; redistribution of raw data requires written permission |
 | Ransomfeed | no machine-readable terms |
-
-Permission has been requested from ransomware.live and Ransomfeed. The event files will be published here and on Zenodo (with a DOI) once it is granted. Until then, the dataset can be rebuilt with the code in this repository and your own access to the trackers.
